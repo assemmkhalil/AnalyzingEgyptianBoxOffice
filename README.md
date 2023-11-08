@@ -7,12 +7,12 @@ The Egyptian movie industry is a dynamic and competitive market, witnessing a co
 
 ## About the Data:
 The data for this project was scraped from [elcinema.com](elcinema.com). The dataset includes information on various aspects of movies, such as year, week, rank, title, rating, country, runtime, release date, genre, MPAA rating, director, writers, stars, weekly revenue, and total revenue. The data was structured into six different tables to ensure data normalization, with the relationships between tables being well-defined, facilitating efficient data analysis:
-a. movies_table: Contains general information about movies.
-b. writers_table: Contains information about the writers of movies.
-c. movie_writers_table: Serves as a bridge table connecting movies to their writers.
-d. stars_table: Contains details about the stars of movies.
-e. movie_stars_table: Serves as a bridge table connecting movies to their stars.
-f. box_office_table: Contains data on weekly box office performance.
+1. movies_table: Contains general information about movies.
+2. writers_table: Contains information about the writers of movies.
+3. movie_writers_table: Serves as a bridge table connecting movies to their writers.
+4. stars_table: Contains details about the stars of movies.
+5. movie_stars_table: Serves as a bridge table connecting movies to their stars.
+6. box_office_table: Contains data on weekly box office performance.
 ![ERD](https://github.com/assemmkhalil/AnalyzingEgyptianBoxOffice/assets/126206911/4384d667-27e6-4e54-abbd-2d5eb3a4d1d8)
 
 

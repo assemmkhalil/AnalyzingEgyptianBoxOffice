@@ -1,0 +1,1882 @@
+movie_id,movie_title,movie_rating,movie_country,movie_length,movie_release_date,movie_genre,movie_mpaa_rating,movie_director,movie_total_revenue
+1070901,The Hobbit: An Unexpected Journey,8.6,New Zealand,169,12-12-2012,Fantasy,PG-13,Peter Jackson,1766315
+2008417,The Twilight Saga: Breaking Dawn – Part 2,7.1,US,115,14-11-2012,Fantasy,PG-13,Bill Condon,4731280
+1178712,Haflet Montasaf El-Leil,5.7,Egypt,85,26-12-2012,Crime,G,Mahmoud Kamel,1459800
+2012783,Jack Reacher,7.8,US,130,26-12-2012,Thriller,PG-13,Christopher McQuarrie,695670
+2011348,The Impossible,8.2,Spain,114,19-12-2012,Action,PG-13,J.A. Bayona,450230
+1334680,Abdo Motah,5.3,Egypt,90,24-10-2012,Adventure,PG-13,Ismail Farouk,22447720
+2017313,Al-Anissa Mamy,5.7,Egypt,100,24-10-2012,Comedy,NR,Wael Ehsan,15318070
+2006874,Mosawer Qateel,7.2,Egypt,95,05-12-2012,Crime,NR,Karim El Adl,1299720
+2005462,Silent Hill: Revelation 3D,7.1,France,94,26-12-2012,Horror,NC-17,Michael J. Bassett,366000
+2008031,Skyfall,7.9,UK,143,31-10-2012,Action,NR,Sam Mendes,4261930
+2011370,Killing Them Softly,5.6,US,100,19-12-2012,Thriller,R,Andrew Dominik,341350
+2009176,Sinister,6.9,US,110,19-12-2012,Thriller,NC-17,Scott Derrickson,523320
+2011402,Hotel Transylvania,7.9,US,92,31-10-2012,Comedy,G,Genndy Tartakovsky,1143570
+2016635,Saboba,5,Egypt,97,28-12-2012,Crime,G,Peter Mimi,216860
+2004882,Argo,7.6,US,120,21-11-2012,Thriller,R,Ben Affleck,613970
+2018084,Mohema Fi Film Adeem,4.1,Egypt,85,24-10-2012,Comedy,G,Ahmed Al Badry,2569730
+1390468,Saeat wans,8.6,Egypt,126,03-10-2012,Drama,G,Wael Ehsan,8899700
+2018558,February the 30th,7.4,Egypt,95,24-10-2012,Comedy,G,Moataz El Tony,3051760
+2008329,Silver Linings Playbook,7.8,US,122,02-01-2013,Comedy,NC-17,David O. Russell,301850
+2003623,Les Misérables,8.4,US,157,02-01-2013,Musical,PG-13,Tom Hooper,140940
+2012462,Alex Cross,6.1,US,101,02-01-2013,Crime,PG-13,Rob Cohen,54780
+2011908,Life of Pi,8.6,US,127,07-01-2013,Drama,G,Ang Lee,1799014
+2009218,This Is 40,5.1,US,134,09-01-2013,Comedy,NC-17,Judd Apatow,52080
+2018689,Ala Gothety,5.7,Egypt,108,16-01-2013,Drama,G,Mohamed Bakir,13067838
+2004456,Django Unchained,8.8,US,165,16-01-2013,Drama,R,Quentin Tarantino,421340
+2007478,Texas Chainsaw 3D,5.5,US,92,16-01-2013,Horror,NC-17,John Luessenhop,103340
+2018829,Al Hafla,8.3,Egypt,92,23-01-2013,Action,G,Ahmad Alaa Aldeeb,7058595
+2018480,Howa Fi Keda,4.1,Egypt,95,30-01-2013,Drama,G,Hosny Saleh,181020
+2009178,Warm Bodies,8.2,US,97,06-02-2013,Romance,NC-17,Jonathan Levine,668694
+2008527,Hansel & Gretel: Witch Hunters,7.5,Germany,88,30-01-2013,Comedy,G,Tommy Wirkola,549371
+2006602,A Good Day to Die Hard,7.3,US,97,13-02-2013,Thriller,NC-17,John Moore,1257085
+2017785,Gambit,5.3,US,89,13-02-2013,Crime,PG-13,Michael Hoffman,79211
+2006196,Broken City,6.4,US,109,20-02-2013,Thriller,NC-17,Allen Hughes,301667
+2005444,Lincoln,7.3,US,150,20-02-2013,Biography,NR,Steven Spielberg,227317
+2018177,The Guilt Trip,5.3,US,95,20-02-2013,Comedy,PG-13,Anne Fletcher,54229
+2017905,Mama,7.1,Canada,100,27-02-2013,Horror,PG-13,Andres Muschietti,376104
+2009216,Gangster Squad,6.2,US,113,27-02-2013,Drama,NC-17,Ruben Fleischer,171009
+2007825,Febrayer Al-Aswad,8.1,Egypt,117,06-03-2013,Comedy,G,Mohamed Amin,2364321
+2009977,Oz: The Great and Powerful,8.1,US,100,07-03-2013,Fantasy,PG,Sam Raimi,1066354
+2019070,Safe Haven,7.1,US,115,06-03-2013,Drama,R,Lasse Hallström,415981
+2008453,Side Effects,6.6,US,106,13-03-2013,Crime,NC-17,Steven Soderbergh,232629
+2004286,Vehicle 19,5.4,US,82,14-03-2013,Thriller,NC-17,Mukunda Michael Dewil,57032
+2020629,So Undercover,4.4,US,94,13-03-2013,Action,PG-13,Tom Vaughan,28635
+2019670,Thor: Legend of the Magical Hammer,4.9,Iceland,88,13-03-2013,Adventure,G,Toby Genkel,20092
+2009852,The Croods,8,US,98,20-03-2013,Comedy,PG,Chris Sanders,484212
+2005249,El Sheta Eli Fat,6.9,Egypt,92,20-03-2013,Drama,G,Ibrahim El Batout,310637
+2019831,Olympus Has Fallen,7.3,US,120,20-03-2013,Thriller,NC-17,Antoine Fuqua,206119
+2019941,Jack the Giant Slayer,7.8,US,114,27-03-2013,Adventure,PG-13,Bryan Singer,666256
+2008703,G.I. Joe: Retaliation,7.6,US,110,27-03-2013,Science Fiction,PG-13,Jon M. Chu,491130
+2012060,Jews of Egypt,6.8,Egypt,90,27-03-2013,Documentary,G,Amir Ramses,103520
+2019536,The Last Exorcism Part II,5.4,US,88,27-03-2013,Horror,R,Ed Gass-Donnelly,66974
+2018043,Beautiful Creatures,6.3,US,124,03-04-2013,Romance,R,Richard LaGravenese,62724
+2010683,Oblivion,7.5,US,90,10-04-2013,Science Fiction,PG,Joseph Kosinski,375679
+2009271,The Host,5.5,US,125,10-04-2013,Thriller,PG-13,Andrew Niccol,100572
+2019954,Snitch,6.7,US,112,17-04-2013,Drama,PG,Ric Roman Waugh,212911
+2019838,Dark Skies,6.6,US,97,17-04-2013,Thriller,PG-13,Scott Charles Stewart,75405
+2018696,Sameer Abu Elneel,5.3,Egypt,105,24-04-2013,Comedy,G,Amr Arafa,8500773
+2011654,Dead Man Down,5.8,US,110,24-04-2013,Crime,NC-17,Niels Arden Oplev,178665
+2019390,Pain & Gain,7,US,130,14-12-2016,Action,NC-17,Michael Bay,125386
+2019606,TaTah,7.1,Egypt,110,05-05-2013,Comedy,G,Sameh Abdel Aziz,9867135
+2011209,Iron Man 3,8.4,China,130,01-05-2013,Action,PG,Shane Black,3596038
+2018739,Redemption,5.5,UK,100,08-05-2013,Drama,R,Steven Knight,109391
+2007397,The Great Gatsby,7.8,Australia,142,15-05-2013,Romance,NC-17,Baz Luhrmann,1627599
+2008880,Fast & Furious 6,8.9,US,130,22-05-2013,Thriller,PG,Justin Lin,3977847
+1294243,El Haramy wel Abeet,7.3,Egypt,100,22-05-2013,Drama,G,Mohamed Mostafa,3488034
+2012595,Epic,6.9,US,102,22-05-2013,Animation,PG,Chris Wedge,472182
+2020082,Poussi Cat,4.1,Egypt,95,22-05-2013,Comedy,G,Alaa Elsherif,242037
+2021530,Rise of the Zombies,5,US,90,22-05-2013,Action,NR,Nick Lyon,27994
+2016917,The Hangover Part III,5.2,US,100,29-05-2013,Comedy,NC-17,Todd Phillips,1097477
+2019704,Now You See Me,7.8,US,116,05-06-2013,Crime,G,Louis Leterrier,1134677
+2010192,Jurassic Park,7.7,US,127,05-06-2013,Science Fiction,PG,Steven Spielberg,286321
+1275307,Harag W'Marag,5.6,Egypt,87,05-06-2013,Drama,G,Nadine Khan,359070
+2017768,Meteb and Shadya,3,Egypt,82,07-06-2013,Drama,NR,Ahmed Shahin,110117
+2005392,Man of Steel,8.8,Canada,143,14-06-2013,Thriller,PG,Zack Snyder,2844901
+2016632,31-Dec,4.5,Egypt,75,12-06-2013,Thriller,G,Mohamed Hamdy,297228
+2009663,After Earth,6.5,US,100,19-06-2013,Adventure,PG,M. Night Shyamalan,863382
+2003728,Monsters University,7.8,US,104,19-06-2013,Comedy,G,Dan Scanlon,952595
+2008211,World War Z,7.7,UK,116,19-06-2013,Science Fiction,PG,Marc Forster,790713
+2012422,Asham,5.9,Egypt,87,19-06-2013,Drama,NR,Maggie Morgan,19180
+2020190,The Internship,6.7,US,119,26-06-2013,Comedy,PG,Shawn Levy,299908
+2021165,The Purge,6.7,France,85,26-06-2013,Horror,NC-17,James DeMonaco,145470
+2021241,White House Down,7.1,US,137,27-07-2013,Drama,NR,Roland Emmerich,37688
+2005518,Qalb El-Assad,6.5,Egypt,116,07-08-2013,Thriller,G,Karim El Sobky,16438526
+2017531,Kalby Dalily,5.7,Egypt,105,07-08-2013,Comedy,G,Ismail Farouk,2974705
+2018931,Nazareyet Amity,5.7,Egypt,109,07-08-2013,Romance,G,Akram Farid,1177192
+2007223,Tom wa Jimmy,5.3,Egypt,88,07-08-2013,Comedy,G,Akram Farid,747325
+2020280,El Brinseesa,3.7,Egypt,90,07-08-2013,Drama,G,Wael Abdel Qader,1166649
+2012823,Pacific Rim,7.4,Canada,131,04-09-2013,Science Fiction,PG,Guillermo del Toro,528012
+2019753,The Smurfs 2,7.8,US,105,14-08-2013,Family,PG,Raja Gosnell,329694
+2021733,Grown Ups 2,5.8,US,101,11-09-2013,Comedy,PG-13,Dennis Dugan,222621
+2010318,Despicable Me 2,7.7,US,98,07-08-2013,Family,G,Pierre Coffin,199009
+2020506,The Conjuring,7.7,US,112,20-10-2016,Horror,NR,James Wan,357478
+2022421,One Direction: This Is Us,8.4,US,92,18-09-2013,Musical,R,Morgan Spurlock,174581
+2019743,RED 2,5.9,US,116,18-09-2013,Crime,PG-13,Dean Parisot,130117
+2024965,The Colony,6.7,Canada,93,18-09-2013,Thriller,NR,Jeff Renfroe,14937
+2009272,Riddick,6.6,US,119,25-09-2013,Thriller,NC-17,David Twohy,256060
+2022174,We're the Millers,7.7,US,110,25-09-2013,Comedy,NC-17,Rawson Marshall Thurber,398442
+2019878,Jobs,5.8,US,122,25-09-2013,Biography,PG-13,Joshua Michael Stern,37643
+2017441,Kick-Ass 2,5.3,US,103,25-09-2013,Action,R,Jeff Wadlow,15426
+2008408,The Wolverine,8.2,US,126,02-10-2013,Fantasy,NR,James Mangold,893156
+2024368,Insidious: Chapter 2,7,Canada,105,02-10-2013,Horror,NC-17,James Wan,114846
+2021928,Chennai Express,8.8,India,141,02-10-2013,Action,G,Rohit Shetty,58110
+2020675,Planes,5.4,US,92,02-10-2013,Comedy,PG,Klay Hall,136095
+2012045,Esh Al-Bolbol,4,Egypt,102,13-10-2013,Comedy,NC-17,Hosam Al Gohary,9683767
+2021511,Al Qashash,4.5,Egypt,90,12-10-2013,Drama,NR,Ismail Farouk,5699241
+2006332,Gravity,8.4,UK,91,09-10-2013,Thriller,PG,Alfonso Cuarón,2233623
+2021414,Hatoli Ragel,6.5,Egypt,100,13-10-2013,Comedy,G,Mohammad Shaker Khodeir,6782141
+2025534,8%,5.7,Egypt,80,12-10-2013,Comedy,G,Hosam Al Gohary,2823080
+2024681,2 Guns,6.3,US,109,09-10-2013,Thriller,NC-17,Baltasar Kormákur,323308
+2021031,About Time,7.3,UK,123,09-10-2013,Comedy,NC-17,Richard Curtis,28404
+2004424,Elysium,6.5,US,109,13-10-2013,Drama,NC-17,Neill Blomkamp,204343
+2025337,The Family,5.4,US,112,23-10-2013,Comedy,NC-17,Luc Besson,80411
+2005106,Captain Phillips,7.8,US,134,30-10-2013,Thriller,PG,Paul Greengrass,636569
+2025693,Escape Plan,7.3,US,116,30-10-2013,Action,PG,Mikael Håfström,263289
+2008438,Ender's Game,6.4,US,114,30-10-2013,Science Fiction,PG,Gavin Hood,38988
+2009209,Thor: The Dark World,7.8,UK,122,06-11-2013,Fantasy,PG,Alan Taylor,1770139
+2025384,Prisoners,6.6,US,146,13-11-2013,Mystery,NC-17,Denis Villeneuve,227869
+2022489,Cloudy with a Chance of Meatballs 2,5.9,US,95,13-11-2013,Family,G,Cody Cameron,126387
+2024921,Getaway,5.6,Bulgaria,90,13-11-2013,Crime,PG,Yaron Levy,93606
+2025437,Jackass Presents: Bad Grandpa,6.4,US,92,13-11-2013,Comedy,NC-17,Jeff Tremaine,41686
+2010026,The Butler,6,US,126,13-11-2013,Drama,PG-13,Lee Daniels,37308
+2026043,The Adventurer: The Curse of the Midas Box,5.1,UK,98,13-11-2013,Adventure,PG,Jonathan Newman,20695
+2011812,Last Vegas,6.5,US,105,20-11-2013,Comedy,PG,Jon Turteltaub,585398
+2011671,Runner Runner,4.6,US,109,23-06-2016,Crime,NC-17,Brad Furman,126067
+2010388,Farsh wa Ghatta,7.1,Egypt,90,20-11-2013,Drama,G,Ahmed Abdullah,168550
+2019649,The Hunger Games: Catching Fire,7.9,US,146,26-11-2013,Action,PG,Francis Lawrence,1479738
+2025578,Delivery Man,5.4,US,103,27-11-2013,Comedy,PG,Ken Scott,111575
+2025575,Free Birds,5.3,US,90,27-11-2013,Animation,PG,Jimmy Hayward,73799
+2021771,Diana,6.1,Belgium,113,27-11-2013,Drama,PG-13,Oliver Hirschbiegel,51523
+2010733,The Iceman,5.7,US,103,04-12-2013,Crime,R,Ariel Vromen,23559
+2020176,Love and Honor,5,US,100,04-12-2013,War,PG,Danny Mooney,25235
+1783907,Al Harebatan,4.2,Egypt,99,11-12-2013,Drama,G,Ahmed El Nahas,75421
+2003922,Wa Baad El Tofan,5.4,Egypt,100,18-12-2013,Thriller,G,Hazem Metwali,51906
+2019646,The Hobbit: The Desolation of Smaug,8.8,US,170,13-12-2013,Thriller,PG-13,Peter Jackson,2466958
+2020775,Frozen,8.2,US,108,18-12-2013,Animation,PG-13,Chris Buck,1703545
+2025544,The Frozen Ground,6.1,US,105,11-12-2013,Crime,NC-17,Scott Walker,376980
+2008433,47 Ronin,6.6,UK,119,25-12-2013,Action,PG-13,Carl Rinsch,272691
+2025730,Villa 69,7.6,Egypt,108,04-12-2013,Comedy,PG-13,Ayten Amin,485872
+2026503,Tarzan,6.5,Germany,95,18-12-2013,Thriller,G,Reinhard Klooss,211628
+1521400,Garconiera,6.5,Egypt,90,28-12-2013,Action,NC-17,Hani Gerges Fawzy,2570783
+2010539,The Wolf of Wall Street,9.1,US,180,01-01-2014,Crime,NC-17,Martin Scorsese,929120
+2024650,The Secret Life of Walter Mitty,6.3,US,114,25-12-2013,Fantasy,G,Ben Stiller,634030
+2026568,Dhoom 3,6.7,India,172,01-01-2014,Action,G,Vijay Krishna Acharya,154863
+2024369,Mandela: Long Walk to Freedom,5.6,UK,139,01-01-2014,History,PG-13,Justin Chadwick,16874
+2021859,The Legend of Hercules,7.3,US,100,08-01-2014,Adventure,PG,Renny Harlin,400122
+2010428,Out of the Furnace,6.1,UK,106,08-01-2014,Crime,NC-17,Scott Cooper,61499
+2027056,Hasallena Elroab,6.5,Egypt,108,08-01-2014,Comedy,G,Tarek Abd El Moaty,88277
+2009848,August: Osage County,6.4,US,130,15-01-2014,Drama,NC-17,John Wells,83066
+2018285,La Mo'akhza,7.2,Egypt,99,22-01-2014,Drama,G,Amr Salama,8012121
+2024383,"I, Frankenstein",6.5,Australia,93,22-01-2014,Horror,PG,Stuart Beattie,959778
+2017641,Jack Ryan: Shadow Recruit,6.4,US,105,22-01-2014,Action,PG,Kenneth Branagh,449552
+2024944,Walking with Dinosaurs 3D,5.8,Australia,87,22-01-2014,Family,G,Barry Cook,350251
+2021036,Asrar Aaeleya,6.2,Egypt,110,22-01-2014,Drama,NC-17,Hani Fawzy,289519
+2022439,Grudge Match,4.8,US,113,22-01-2014,Comedy,PG,Peter Segal,87143
+2021758,Khetet Jimmy,5.3,Egypt,91,29-01-2014,Comedy,G,Tamer Bassiouni,1656129
+2025336,Devil's Due,3.7,US,89,29-01-2014,Horror,NC-17,Matt Bettinelli-Olpin,977799
+2022240,Saeid Claquette,6.8,Egypt,90,29-01-2014,Comedy,G,Peter Mimi,3288065
+2025588,Lone Survivor,6.2,US,121,29-01-2014,Thriller,NC-17,Peter Berg,338297
+2027144,Al Mahragan,3.6,Egypt,96,29-01-2014,Comedy,G,Hosam Al Gohary,771220
+2021981,Paranormal Activity: The Marked Ones,6.2,US,84,08-01-2014,Horror,NC-17,Christopher Landon,97432
+2012125,12 Years a Slave,9,US,133,05-02-2014,Biography,NR,Steve McQueen,233935
+2011199,Saving Mr. Banks,6.7,Australia,125,05-02-2014,Comedy,PG,John Lee Hancock,92813
+2027021,Ride Along,6.3,US,100,05-02-2014,Comedy,NR,Tim Story,152160
+2025262,RoboCop,6.8,US,117,14-02-2014,Thriller,PG,José Padilha,623061
+2025521,The Lego Movie,6.4,Australia,100,12-02-2014,Animation,PG,Phil Lord,253746
+2004442,Endless Love,6.4,US,103,12-02-2014,Romance,PG,Shana Feste,91659
+2026817,Pompeii,7.1,Germany,105,19-02-2014,Adventure,PG,Paul W.S. Anderson,725578
+2025366,American Hustle,6.3,US,129,19-02-2014,Drama,NC-17,David O. Russell,563555
+2021886,3 Days to Kill,6.7,US,113,19-02-2014,Action,PG,McG,591101
+2025598,Winter's Tale,6.7,US,118,19-02-2014,Fantasy,PG,Akiva Goldsman,510175
+2026044,Hours,7.4,US,97,19-02-2014,Thriller,PG,Eric Heisserer,77274
+2009081,The Monuments Men,5.3,Germany,112,26-02-2014,War,PG,George Clooney,293722
+2010133,Al Molhed,4.1,Egypt,85,26-02-2014,Drama,NC-17,Nader Saifaldeen,107612
+2025327,About Last Night,5.3,US,100,28-02-2014,Romance,R,Steve Pink,88151
+2009666,300: Rise of an Empire,8,US,120,07-03-2014,Action,NC-17,Noam Murro,3475417
+2028837,Minuscule: Valley of the Lost Ants,4.3,Belgium,89,05-03-2014,Family,R,Thomas Szabo,89497
+2025599,Non-Stop,8.2,US,110,12-03-2014,Action,NR,Jaume Collet-Serra,1938615
+2025495,Mr. Peabody & Sherman,6.6,US,92,12-03-2014,Adventure,PG,Rob Minkoff,535666
+2028509,Wer,5.5,US,95,12-03-2014,Horror,NC-17,William Brent Bell,271811
+2018918,Al-Me'addeya,5.3,Egypt,89,12-03-2014,Drama,PG-13,Attia Amin,269069
+2026456,Fatat Al Masna',7.1,Egypt,90,19-03-2014,Drama,G,Mohamed Khan,1279458
+2025603,Need for Speed,6.4,US,132,19-03-2014,Action,PG,Scott Waugh,671635
+2028833,We Are What We Are,5.4,US,105,19-03-2014,Thriller,NC-17,Jim Mickle,111016
+2025493,Divergent,7.7,US,139,26-03-2014,Action,PG-13,Neil Burger,1342259
+2026895,Police Story: Lockdown,5.8,China,110,26-03-2014,Comedy,NR,Sheng Ding,47992
+2026037,The Starving Games,4.5,US,83,26-03-2014,Comedy,PG-13,Aaron Seltzer,19799
+2025632,Halawet Rouh,4.3,Egypt,101,03-04-2014,Drama,NC-17,Sameh Abdel Aziz,6742179
+2016840,Captain America: The Winter Soldier,8.3,US,128,02-04-2014,Science Fiction,PG,Anthony Russo,3114600
+2021732,Rio 2,7.3,US,101,09-04-2014,Animation,G,Carlos Saldanha,1239337
+2029837,Oculus,5.9,US,105,09-04-2014,Horror,NC-17,Mike Flanagan,628733
+2025590,Sabotage,5.5,US,109,09-04-2014,Drama,PG,David Ayer,60143
+2026145,Salem Abu Okhto,5.3,Egypt,100,15-04-2014,Comedy,G,Mohamed Hamdy,8892188
+2022405,Merati w Zogati,6.5,Egypt,100,20-04-2014,Comedy,G,Moataz El Tony,7396984
+2029347,Giran El Saa'd,5.3,Egypt,88,16-04-2014,Comedy,G,Tamer Bassiouni,2370882
+2020540,Transcendence,7.8,UK,119,17-04-2014,Science Fiction,PG-13,Wally Pfister,1058752
+2030108,Tinker Bell and the Pirate Fairy,6.4,US,78,16-04-2014,Animation,G,Peggy Holmes,81212
+2025607,The Other Woman,5.6,US,109,23-04-2014,Comedy,NR,Nick Cassavetes,2005662
+2029797,Rage,5.9,France,98,23-04-2014,Crime,PG,Paco Cabezas,291597
+2026233,Zarf Sehhy,3.4,Egypt,95,23-04-2014,Comedy,G,Ebram Nashaat,527474
+2019817,The Amazing Spider-Man 2,8.2,US,142,30-04-2014,Action,PG,Marc Webb,3356362
+2029235,The Quiet Ones,5.8,US,98,30-04-2014,Horror,PG,John Pogue,415305
+2018955,Al-Khoroug Lel-Nahar,6.7,Egypt,96,23-04-2014,Drama,G,Hala Lotfy,11144
+2027020,Haunt,5,US,86,07-05-2014,Horror,NC-17,Mac Carter,527170
+2030251,Walk of Shame,5,US,95,07-05-2014,Comedy,NC-17,Steven Brill,69305
+2030156,In the Blood,5.6,Puerto Rico,108,07-05-2014,Thriller,NR,John Stockwell,37804
+2020558,Godzilla,7.8,US,123,16-05-2014,Science Fiction,NR,Gareth Edwards,4110878
+2025586,Grace of Monaco,5,Belgium,103,15-05-2014,Drama,NR,Olivier Dahan,103868
+2021917,Metro,4.5,Egypt,77,14-05-2014,Drama,G,Ahmad Al Shorbagy,66458
+2019989,X-Men: Days of Future Past,8.7,US,131,23-05-2014,Adventure,NR,Bryan Singer,2933663
+2028513,Open Grave,6.3,US,102,21-05-2014,Horror,NC-17,Gonzalo López-Gallego,71334
+2029993,El Dassas,5.4,Egypt,80,21-05-2014,Horror,G,Hani Hamdy,205049
+2029798,Bent min Dar Elsalam,3.8,Egypt,95,21-05-2014,Drama,R,Tony Nabiah,262061
+2012392,Maleficent,7.7,US,135,30-05-2014,Fantasy,PG,Robert Stromberg,2212846
+2021312,Blended,6.7,US,117,28-05-2014,Comedy,PG-13,Frank Coraci,994601
+2028516,Brick Mansions,6.1,Canada,90,28-05-2014,Drama,PG-13,Camille Delamarre,231201
+2008556,Edge of Tomorrow,7.8,US,113,06-06-2014,Thriller,PG-13,Doug Liman,1957318
+2018097,The Grand Budapest Hotel,8.5,Germany,100,04-06-2014,Comedy,R,Wes Anderson,121901
+2023661,How to Train Your Dragon 2,8.1,US,105,11-06-2014,Animation,PG,Dean DeBlois,1238069
+2027890,Third Person,5.8,Germany,137,11-06-2014,Drama,R,Paul Haggis,151858
+2025329,22 Jump Street,6.7,US,112,20-06-2014,Comedy,R,Phil Lord,790558
+2028524,The Fault in Our Stars,8.7,US,125,25-06-2014,Drama,PG-13,Josh Boone,876816
+2025330,Think Like a Man Too,4.3,US,106,27-06-2014,Comedy,PG-13,Tim Story,123730
+2020556,Dawn of the Planet of the Apes,8.2,US,130,16-07-2014,Science Fiction,PG-13,Matt Reeves,3992544
+2032496,Planes: Fire & Rescue,5.3,US,84,20-07-2014,Adventure,PG,Roberts Gannaway,102354
+2018882,Transformers: Age of Extinction,7.4,China,165,22-07-2014,Science Fiction,PG-13,Michael Bay,1579060
+2019799,El Harb El A'lameya El Talta,7.3,Egypt,105,28-07-2014,Comedy,G,Ahmed El Gendy,30675474
+2019662,El Feel El Azraq,8.8,Egypt,170,28-07-2014,Mystery,G,Marwan Hamed,31395445
+2025865,Soni'a Fi Misr,5.8,Egypt,102,28-07-2014,Comedy,G,Amr Salama,10259747
+2029814,Gawaza Meery,5.3,Egypt,80,28-07-2014,Comedy,G,Wael Ehsan,12286878
+2029160,Antar & Beesa,3.7,Egypt,90,28-07-2014,Comedy,G,Mohammad El Tahawy,3547716
+1142245,Step Up 3D,6.7,US,107,22-09-2010,Drama,PG-13,Jon M. Chu,350085
+2021951,The Expendables 3,7.2,US,126,09-08-2014,Thriller,PG-13,Patrick Hughes,1639164
+2024954,Guardians of the Galaxy,8.4,US,122,13-08-2014,Action,PG,James Gunn,2332260
+2030746,Step Up All In,7.3,US,112,06-08-2014,Drama,PG-13,Trish Sie,714633
+2020918,Hercules,7.6,US,98,13-08-2014,Action,PG,Brett Ratner,484543
+2032243,Into the Storm,6.7,US,89,20-08-2014,Horror,NR,Steven Quale,1418735
+2028142,The Purge: Anarchy,6.3,US,103,20-08-2014,Thriller,R,James DeMonaco,80678
+2026555,Lucy,7.4,France,90,27-08-2014,Science Fiction,R,Luc Besson,1534402
+2021306,The November Man,6.2,US,108,27-08-2014,Thriller,R,Roger Donaldson,383897
+2029822,Begin Again,6.1,US,104,27-08-2014,Romance,R,John Carney,206869
+2029632,Deliver Us from Evil,6,US,118,03-09-2014,Thriller,R,Scott Derrickson,1318244
+2033150,The Hundred-Foot Journey,7,United Arab Emirates,122,03-09-2014,Drama,PG,Lasse Hallström,197957
+2030243,Nashet fi Haraket Eyal,4,Egypt,95,03-09-2014,Comedy,G,Ahmad Fawzy,70585
+2027902,Teenage Mutant Ninja Turtles,7.8,US,101,10-09-2014,Adventure,PG-13,Jonathan Liebesman,1078928
+2030850,If I Stay,6.4,US,106,10-09-2014,Drama,PG-13,R.J. Cutler,665799
+2025328,No Good Deed,5.2,US,84,12-09-2014,Thriller,PG-13,Sam Miller,42951
+2033382,Kristy,0,US,86,17-09-2014,Thriller,NR,Olly Blackburn,189843
+2030226,"As Above, So Below",6.3,US,93,17-09-2014,Thriller,R,John Erick Dowdle,118991
+2025332,The Equalizer,7.3,US,131,25-09-2014,Thriller,R,Antoine Fuqua,887472
+2020240,El Gezira 2,8.1,Egypt,165,01-10-2014,Crime,G,Sherif Arafa,35132780
+1341537,Wahed Sa'idy,4.3,Egypt,85,02-10-2014,Comedy,G,Ismail Farouk,14731155
+2031108,Omar we Salwa,2.9,Egypt,102,02-10-2014,Comedy,G,Tamer Bassiouni,10636129
+2029813,Hamaty Bet-hebbeny,3.9,Egypt,96,02-10-2014,Romance,G,Akram Farid,4331941
+2033156,Hadeed,6,Egypt,120,03-10-2014,Thriller,G,Mohamed El Sobky,2838262
+2029989,El Nabatshy,4.8,Egypt,100,02-10-2014,Drama,G,Ismail Farouk,2734506
+2027711,Wesh Sogoon,6.1,Egypt,97,03-10-2014,Thriller,G,Abdul Aziz Hashad,1353329
+2030601,Al-Mowaten Bors,2.4,Egypt,95,01-10-2014,Musical,G,Ramy Gheit,382982
+2029709,Dracula Untold,7.1,US,92,08-10-2014,Horror,PG-13,Gary Shore,1099373
+2025596,The Maze Runner,8.2,US,113,15-10-2014,Mystery,PG-13,Wes Ball,2055669
+2030875,The Best of Me,5.9,US,117,15-10-2014,Drama,NR,Michael Hoffman,568854
+2027886,A Walk Among the Tombstones,5,US,113,15-10-2014,Action,R,Scott Frank,258946
+2032242,The Prince,4.3,US,93,15-10-2014,Action,R,Brian A. Miller,63154
+2032498,Annabelle,6.7,US,99,22-10-2014,Horror,NC-17,John R. Leonetti,3664283
+2021194,Fury,7.3,US,134,22-10-2014,War,NC-17,David Ayer,1728410
+2030735,Left Behind,5.9,US,111,22-10-2014,Action,PG,Vic Armstrong,312627
+2028172,The Boxtrolls,5.8,US,100,22-10-2014,Adventure,PG,Graham Annable,112071
+2030055,Gone Girl,7.3,US,145,29-10-2014,Thriller,NC-17,David Fincher,1370999
+2033451,John Wick,7.8,US,101,29-10-2014,Action,R,David Leitch,311450
+2028168,Let's Be Cops,6.3,US,109,29-10-2014,Action,R,Luke Greenfield,437644
+2033703,Ouija,4.7,US,89,29-10-2014,Horror,PG-13,Stiles White,299815
+2020979,Interstellar,9.2,US,175,07-11-2014,Science Fiction,PG,Christopher Nolan,7106466
+2030602,Big Hero 6,8.1,US,108,05-11-2014,Action,PG,Chris Williams,336891
+2034054,"Love, Rosie",5.8,UK,102,05-11-2014,Comedy,NR,Christian Ditter,239904
+2033501,Wolves,5.9,France,91,05-11-2014,Horror,NC-17,David Hayter,46026
+2034029,Warda,6.5,Egypt,75,13-11-2014,Thriller,R,Hadi El Bagoury,1141447
+2011521,Dumb and Dumber To,6.3,US,110,12-11-2014,Comedy,PG,Peter Farrelly,715141
+2033115,Trash,6,UK,114,12-11-2014,Drama,R,Stephen Daldry,25740
+2027780,The Hunger Games: Mockingjay - Part 1,7.3,US,125,19-11-2014,Action,PG,Francis Lawrence,2004291
+2030026,The Angriest Man in Brooklyn,0,US,83,19-11-2014,Comedy,NC-17,Phil Alden Robinson,20843
+2032312,Horrible Bosses 2,6.2,US,108,26-11-2014,Comedy,R,Sean Anders,1173447
+2030222,Jessabelle,6.9,US,90,26-11-2014,Horror,PG,Kevin Greutert,1035717
+2030995,Penguins of Madagascar,7.8,US,92,28-11-2014,Comedy,G,Eric Darnell,1441443
+2030242,V/H/S/2 (S-VHS),5.1,Canada,96,26-11-2014,Thriller,NC-17,Simon Barrett,41064
+2029150,Legends of Oz: Dorothy's Return,8.2,India,88,26-11-2014,Musical,PG,Will Finn,20920
+2030056,The Judge,7.4,US,141,03-12-2014,Drama,R,David Dobkin,327348
+2032563,Nightcrawler,7.4,US,105,03-12-2014,Thriller,NC-17,Dan Gilroy,248717
+2021495,Laggies,5.7,US,100,03-12-2014,Drama,NC-17,Lynn Shelton,29385
+2027386,Cold in July,5.6,US,109,03-12-2014,Drama,NC-17,Jim Mickle,33030
+2005567,The Hobbit: The Battle of the Five Armies,8.3,New Zealand,96,12-12-2014,Adventure,PG-13,Peter Jackson,4007382
+2030295,Before I Go to Sleep,5.7,France,92,10-12-2014,Horror,NC-17,Rowan Joffe,444212
+2034833,Poker Night,6.7,Canada,104,10-12-2014,Action,R,Greg Francis,117866
+2034038,Dying of the Light,5.6,US,94,17-12-2014,Thriller,NC-17,Paul Schrader,1561389
+2032606,Night at the Museum: Secret of the Tomb,6.9,UK,97,18-12-2014,Adventure,PG,Shawn Levy,2990529
+2027320,Decor,7.2,Egypt,105,17-12-2014,Drama,G,Ahmed Abdullah,467266
+2027366,Camp X-Ray,5.6,US,117,17-12-2014,Drama,NC-17,Peter Sattler,31159
+2024349,Into the Woods,6.1,US,124,24-12-2014,Family,PG,Rob Marshall,743136
+2005930,Zigzag,4.3,Egypt,150,24-12-2014,Drama,PG-13,Osama Omar,982512
+2029078,Annie,6.5,US,118,25-12-2014,Musical,R,Will Gluck,327371
+2033251,The Pyramid,6.7,US,89,31-12-2014,Horror,R,Grégory Levasseur,2713760
+2025020,Happy New Year,8.4,India,180,31-12-2014,Romance,G,Farah Khan,405606
+2034993,Vice,5.8,US,96,31-12-2014,Science Fiction,R,Brian A. Miller,242392
+2022228,The Water Diviner,7.5,Australia,111,25-12-2014,War,R,Russell Crowe,415482
+2024634,Unbroken,6,US,137,31-12-2014,Biography,PG,Angelina Jolie,230489
+2035406,Tinker Bell and the Legend of the NeverBeast,5.8,US,76,31-12-2014,Adventure,G,Steve Loter,66506
+2024395,Seventh Son,6.2,Canada,120,07-01-2015,Fantasy,PG,Sergei Bodrov,861877
+2032554,The Imitation Game,7.7,US,113,07-01-2015,Biography,PG-13,Morten Tyldum,630509
+2033042,Mindscape,5.8,US,99,07-01-2015,Thriller,NC-17,Jorge Dorado,95215
+2011216,The Woman in Black 2: Angel of Death,5.8,Canada,98,14-01-2015,Horror,PG,Tom Harper,2020627
+2032873,Betawqit Elqahera,6.4,Egypt,110,14-01-2015,Drama,G,Amir Ramses,661757
+2030742,El Ott,5.2,United Arab Emirates,92,15-11-2014,Drama,NC-17,Ibrahim El Batout,355675
+2026807,Paddington,7.1,UK,95,14-01-2015,Comedy,G,Paul King,148618
+2034384,Yom Malosh Lazma,6.5,Egypt,100,22-01-2015,Comedy,G,Ahmed El Gendy,10555996
+2033710,Taken 3,7.1,France,109,21-01-2015,Thriller,PG,Olivier Megaton,2752606
+2034041,Regata,4.8,Egypt,100,21-01-2015,Drama,G,Mohammad Samy,4254188
+2021446,American Sniper,5.5,US,132,21-01-2015,Action,NC-17,Clint Eastwood,1357344
+2032817,Ott we Far,7.4,Egypt,95,21-01-2015,Drama,G,Tamer Mohsen,649967
+1010347,Aswar El Amar,6.9,Egypt,120,24-01-2015,Romance,G,Tareq El Eryan,3127355
+2033045,Mortdecai,6.4,US,106,21-01-2015,Comedy,NC-17,David Koepp,538333
+2032856,The Theory of Everything,7.3,UK,123,14-01-2015,Drama,PG,James Marsh,968670
+1077548,Haz West Al-Balad,3.8,Egypt,112,25-01-2015,Drama,NR,Mohamed Salah Abo Seif,549309
+2034738,Northmen - A Viking Saga,5,Switzerland,97,28-01-2015,Adventure,R,Claudio Fäh,125572
+2033709,Blackhat,5.3,US,133,28-01-2015,Action,NC-17,Michael Mann,50856
+2021946,Jupiter Ascending,7.1,US,127,04-02-2015,Action,PG-13,Lilly Wachowski,1665681
+2032248,Khetta Badila,7.1,Egypt,100,04-02-2015,Drama,G,Ahmed Abdel Baset,749291
+2035786,Barbie in Princess Power,4.4,US,74,04-02-2015,Animation,G,Ezekiel Norton,27481
+2034735,Soua' Tafahom,5.6,Egypt,120,11-02-2015,Romance,PG-13,Ahmed Samir Farag,565546
+2035003,Wild Card,5.6,US,92,11-02-2015,Drama,NR,Simon West,416244
+2033408,The Boy Next Door,5.9,US,91,11-02-2015,Thriller,NC-17,Rob Cohen,221487
+2032716,Kingsman: The Secret Service,8,UK,129,18-02-2015,Action,NC-17,Matthew Vaughn,2805499
+2035323,Playing It Cool,4.9,US,94,18-02-2015,Comedy,NC-17,Justin Reardon,226251
+2028141,The SpongeBob Movie: Sponge Out of Water,7.1,US,93,18-02-2015,Adventure,G,Paul Tibbitt,321601
+2033929,Focus,7.7,US,105,25-02-2015,Romance,NC-17,Glenn Ficarra,3982866
+2030297,Eldonia Maqlouba,3.5,Egypt,85,25-02-2015,Comedy,G,Hani Sabry,823566
+2036064,Khareg Al-Khedma,6.4,Egypt,99,14-12-2016,Drama,G,Mahmoud Kamel,203102
+2033554,Still Alice,6.3,US,101,25-02-2015,Drama,PG,Richard Glatzer,48503
+2034458,The Devil's Hand,0,US,86,04-03-2015,Thriller,PG,Christian E. Christiansen,588810
+2034266,Chappie,6.1,Mexico,120,04-03-2015,Action,NC-17,Neill Blomkamp,462045
+2033113,Outcast,4.5,Canada,99,04-03-2015,Action,NR,Nick Powell,371506
+2020553,Birdman,7.5,Canada,119,04-03-2015,Comedy,R,Alejandro G. Iñárritu,148136
+2033930,Black Sea,5.5,UK,115,04-03-2015,Adventure,NC-17,Kevin Macdonald,183979
+2029637,The Wedding Ringer,5.1,US,101,04-03-2015,Comedy,R,Jeremy Garelick,116207
+2030492,Cinderella,7.5,US,112,12-03-2015,Family,PG,Kenneth Branagh,1395907
+2035160,The Loft,6,US,108,11-03-2015,Thriller,NC-17,Erik Van Looy,98202
+2034669,The DUFF,6.1,US,101,11-03-2015,Comedy,NC-17,Ari Sandel,133117
+2022512,Fifty Shades of Grey,5.6,US,125,11-03-2015,Drama,NC-17,Sam Taylor-Johnson,144340
+2034215,Insurgent,6.9,US,119,18-03-2015,Science Fiction,PG,Robert Schwentke,1709979
+2022056,The Gunman,5.3,Spain,115,18-02-2015,Drama,R,Pierre Morel,198218
+2036614,At the Devil's Door,0,US,91,11-03-2015,Horror,NC-17,Nicholas McCarthy,239939
+2034782,Home,6.9,US,94,25-03-2015,Animation,PG,Tim Johnson,1447561
+2030177,Thunder and the House of Magic,0,Belgium,85,18-03-2015,Animation,G,Jeremy Degruson,100792
+2027688,Whiplash,8.2,US,106,10-02-2017,Musical,NC-17,Damien Chazelle,10856
+2035343,Run All Night,6.8,US,114,25-03-2015,Drama,NC-17,Jaume Collet-Serra,2012603
+2035627,The Lazarus Effect,5.6,US,83,25-03-2015,Thriller,PG,David Gelb,366441
+2036075,Stonehearst Asylum,5.8,US,112,25-03-2015,Thriller,NC-17,Brad Anderson,65335
+2034227,Ex Machina,5.8,UK,108,25-03-2015,Thriller,NC-17,Alex Garland,56292
+2025518,Furious Seven,8.5,Japan,137,01-04-2015,Action,PG,James Wan,11817258
+2035332,Zana'et Settat,5.7,Egypt,110,01-04-2015,Comedy,PG-13,Khaled El Halafawy,17022946
+2034592,The Cobbler,4.5,US,99,01-04-2015,Fantasy,PG,Tom McCarthy,119293
+2035196,Shaun the Sheep Movie,6,France,85,01-04-2015,Family,PG,Mark Burton,46650
+2035103,Captain Masr,6.5,Egypt,91,08-04-2015,Comedy,G,Moataz El Tony,18656276
+2034299,Gomhureyet Imbaba,3.9,Egypt,90,10-04-2015,Drama,NC-17,Ahmed Al Badry,1044508
+2036270,Fazza',4.6,Egypt,100,08-04-2015,Comedy,G,Yasser Zaied,284065
+2035300,The Longest Ride,7.1,US,139,15-04-2015,Drama,PG,George Tillman Jr.,900856
+2034599,Paul Blart: Mall Cop 2,5.8,US,94,16-04-2015,Comedy,PG,Andy Fickman,481584
+2036881,Karam Elking,4.9,Egypt,86,15-04-2015,Thriller,G,Hazem Fouda,426200
+2034563,Barely Lethal,5.9,US,96,15-04-2015,Comedy,PG,Kyle Newman,116395
+2034734,Get Hard,6.1,US,100,22-04-2015,Comedy,NC-17,Etan Cohen,334154
+2035155,Tracers,6.8,US,94,22-04-2015,Action,NC-17,Daniel Benmayor,217605
+2035816,Child 44,0,Czech Republic,137,22-04-2015,Thriller,NC-17,Daniel Espinosa,124910
+2037031,Eazazil abn alshaytan,4.8,Egypt,88,22-04-2015,Horror,NC-17,Reda El Ahmady,89770
+2033652,Elly Beyebb Rabena Yerfaa Edoo Lfou,3.9,Egypt,68,10-12-2013,Documentary,G,Salma El Tarzi,18055
+2017364,Avengers: Age of Ultron,8.3,US,141,28-04-2015,Action,PG,Joss Whedon,7325428
+2034695,The Age of Adaline,7.1,US,110,29-04-2015,Drama,PG,Lee Toland Krieger,956561
+2032859,The Second Best Exotic Marigold Hotel,5.2,US,122,29-04-2015,Comedy,PG,John Madden,54355
+2036497,Last Knights,7.1,Czech Republic,115,06-05-2015,Adventure,NC-17,Kazuaki Kiriya,269183
+2036154,Hot Pursuit,5.6,US,87,06-05-2015,Action,PG,Anne Fletcher,332635
+2036074,The Atticus Institute,5.2,US,92,06-05-2015,Horror,PG,Chris Sparling,38309
+1519057,Mad Max: Fury Road,8.1,US,120,14-05-2015,Thriller,NC-17,George Miller,2173321
+2034706,Pitch Perfect 2,5.6,US,115,13-05-2015,Musical,PG,Elizabeth Banks,171175
+2035342,The Forger,0,US,92,13-05-2015,Thriller,NC-17,Philip Martin,77367
+2035735,Kidnapping Mr. Heineken,0,Belgium,95,06-05-2015,Action,R,Daniel Alfredson,2488
+2036105,Poltergeist,6.8,US,93,20-05-2015,Horror,PG,Gil Kenan,1455853
+2033931,Tomorrowland,5.3,US,130,20-05-2015,Mystery,PG,Brad Bird,987319
+2036849,MI-5,0,UK,104,20-05-2015,Thriller,NC-17,Bharat Nalluri,55241
+2035644,The Snow Queen 2: The Snow King,0,Russia,78,20-05-2015,Adventure,G,Aleksey Tsitsilin,16577
+2035161,San Andreas,8,US,114,27-05-2015,Drama,PG,Brad Peyton,2127361
+2035743,Unfriended,5.9,Germany,82,27-05-2015,Thriller,NC-17,Levan Gabriadze,436854
+2036168,Maggie,5.3,US,95,27-05-2015,Drama,NC-17,Henry Hobson,52420
+2035464,Big Game,5,Germany,110,27-05-2015,Adventure,PG,Jalmari Helander,46197
+2035682,Spy,6.7,US,120,03-06-2015,Comedy,NC-17,Paul Feig,1832987
+2033551,Insidious: Chapter 3,6.6,US,97,04-06-2015,Horror,PG,Leigh Whannell,1681065
+2036169,Survivor,5.9,US,96,03-06-2015,Action,PG,James McTeigue,71141
+2020544,Jurassic World,7.6,US,124,10-06-2015,Adventure,PG,Colin Trevorrow,6131208
+2036477,It Follows,4.8,US,100,10-06-2015,Horror,NC-17,David Robert Mitchell,97694
+2034783,The Culling,0,US,81,10-06-2015,Thriller,NR,Rustam Branaman,32195
+2035626,Good Kill,5.5,US,102,10-06-2015,Thriller,NC-17,Andrew Niccol,31091
+2035329,The Lovers,5.8,Austria,109,10-06-2015,Romance,NC-17,Roland Joffé,26254
+2028139,Minions,6.5,US,91,08-07-2015,Comedy,G,Pierre Coffin,3654011
+2004201,Terminator: Genisys,7.1,US,119,08-07-2015,Action,PG,Alan Taylor,864430
+2035757,Shadd Agzaa',6.6,Egypt,94,16-07-2015,Drama,PG-13,Hussien El Menbawy,22226619
+2027294,Welad Rizk,7.7,Egypt,100,16-07-2015,Action,PG-13,Tareq El Eryan,22827341
+2036620,Hayaty Mebahdela,5.3,Egypt,98,16-07-2015,Comedy,G,Shady Ali,8702196
+2030800,Sukkar Mor,7,Egypt,120,16-07-2015,Drama,PG-13,Hani Khalifa,2949428
+2039299,Noum Eltalat,4.4,Egypt,96,22-09-2010,Comedy,PG-13,Ihab Lamei,1305965
+2036162,The Vatican Tapes,0,US,91,22-07-2015,Thriller,PG,Mark Neveldine,1204783
+2035278,Pixels,6.1,US,105,23-07-2015,Comedy,PG,Chris Columbus,822338
+2025398,Ant-Man,7.3,US,117,29-07-2015,Science Fiction,PG,Peyton Reed,2970209
+2033526,El Khalbous,4.5,Egypt,113,29-07-2015,Romance,G,Ismail Farouk,4186154
+2028140,Ted 2,5.8,US,115,29-07-2015,Comedy,NC-17,Seth MacFarlane,601171
+2036175,The Gallows,4.3,US,81,05-08-2015,Thriller,NC-17,Chris Lofing,1143117
+2033248,Inside Out,8.6,US,94,05-08-2015,Animation,G,Pete Docter,2701557
+2025394,Mission: Impossible- Rogue Nation,8.3,US,100,11-08-2015,Action,NC-17,Christopher McQuarrie,8338422
+2036171,Paper Towns,6.8,US,109,12-08-2015,Mystery,PG,Jake Schreier,848854
+2030431,Harah Maznua'a,3.5,Egypt,95,12-08-2015,Thriller,PG-13,Peter Mimi,229771
+2035972,Fantastic Four,5.3,US,100,19-08-2015,Science Fiction,PG,Josh Trank,1123248
+2035325,Some Kind of Beautiful,5.6,UK,100,19-08-2015,Comedy,NC-17,Tom Vaughan,252770
+2036828,The Canal,0,UK,92,19-08-2015,Thriller,NC-17,Ivan Kavanagh,165970
+2036172,Sinister 2,5.4,US,97,26-08-2015,Horror,NC-17,Ciaran Foy,1291334
+2035642,The Man from U.N.C.L.E,7.3,UK,116,26-08-2015,Action,NC-17,Guy Ritchie,793824
+2036794,Southpaw,7.3,US,123,26-08-2015,Drama,R,Antoine Fuqua,398524
+2037091,Trainwreck,4.7,US,122,26-08-2015,Comedy,NR,Judd Apatow,574376
+2036179,Hitman: Agent 47,6.5,Germany,108,02-09-2015,Action,NC-17,Aleksander Bach,1275245
+2036176,No Escape,7.3,US,101,02-09-2015,Thriller,NC-17,John Erick Dowdle,683836
+2037148,We Are Your Friends,5.5,France,96,02-09-2015,Drama,NC-17,Max Joseph,108709
+2039961,Barbie in Rock 'N Royals,5.8,US,84,02-09-2015,Animation,NR,Karen J. Lloyd,52676
+2036189,The Transporter Refueled,7,US,96,08-09-2015,Thriller,PG-13,Camille Delamarre,833056
+2036190,Vacation,6,US,99,09-09-2015,Adventure,NC-17,John Francis Daley,865766
+2037434,Out of the Dark,5.6,Colombia,92,09-09-2015,Horror,NC-17,Lluís Quílez,203886
+2036535,Sa3yokom Mashkoor Ya Bro,3.8,Egypt,95,09-09-2015,Comedy,PG-13,Adel Adeeb,88376
+2036180,The Perfect Guy,0,US,100,10-09-2015,Thriller,NC-17,David M. Rosenthal,77399
+2036184,Maze Runner: The Scorch Trials,8.3,US,131,16-09-2015,Thriller,PG,Wes Ball,2508346
+2039425,Ahwak,6.7,Egypt,120,20-09-2015,Comedy,G,Mohammad Samy,22491686
+2035296,Everest,6.9,UK,150,16-09-2015,Drama,PG,Baltasar Kormákur,1039796
+2036862,The Gift,6.2,US,108,16-09-2015,Thriller,R,Joel Edgerton,162412
+2035453,Eyal Herryfa,2.1,Egypt,105,23-09-2015,Comedy,PG-13,Mahmoud Selim,11792584
+2040327,The Fourth Generation,6.7,Egypt,110,23-09-2015,Comedy,G,Ahmed Nader Galal,3446318
+2032499,4 Cotshina,2.3,Egypt,95,23-09-2015,Comedy,G,Mohamed Gamal,659351
+2029641,Hotel Transylvania 2,7.8,US,89,24-09-2015,Animation,PG,Genndy Tartakovsky,2096984
+2035100,The Walk,6.6,US,123,01-10-2015,Drama,PG,Robert Zemeckis,1413910
+2036186,The Intern,8,US,122,30-09-2015,Comedy,PG,Nancy Meyers,2023586
+2037053,The Visit,5.4,US,94,30-09-2015,Thriller,PG,M. Night Shyamalan,720215
+2037841,The Runner,4.3,US,90,30-09-2015,Drama,NC-17,Austin Stark,53965
+2034097,The Martian,7.8,US,144,07-10-2015,Science Fiction,PG,Ridley Scott,2921091
+2037037,Sicario,6.8,US,121,07-10-2015,Crime,NC-17,Denis Villeneuve,441489
+2040525,Straight Outta Compton,6.1,US,147,07-10-2015,Biography,NC-17,F. Gary Gray,49146
+2030724,Black Mass,7.9,US,122,14-10-2015,Drama,PG,Scott Cooper,1250119
+2036216,Crimson Peak,6.6,US,119,14-10-2015,Horror,NC-17,Guillermo del Toro,1125562
+2036170,Self/less,6.7,US,117,14-10-2015,Drama,PG,Tarsem Singh,365178
+2040238,Let Us Prey,0,UK,92,14-10-2015,Horror,NR,Brian O'Malley,32735
+2036040,Mr. Holmes,5,UK,104,14-10-2015,Crime,PG,Bill Condon,7327
+2037203,The Last Witch Hunter,6.9,Canada,106,23-10-2015,Action,PG,Breck Eisner,2620357
+2028137,Paranormal Activity: The Ghost Dimension,6.3,US,88,21-10-2015,Horror,NC-17,Gregory Plotkin,1938604
+2034764,Pan,5.8,US,111,21-10-2015,Family,PG,Joe Wright,142173
+2037382,American Ultra,5.3,US,90,21-10-2015,Action,NR,Nima Nourizadeh,82307
+2034575,Goosebumps,6.2,Australia,103,29-10-2015,Adventure,PG,Rob Letterman,912090
+2037151,Legend,5.8,US,131,28-10-2015,Thriller,NC-17,Brian Helgeland,422902
+2036479,Dark Places,5.2,France,113,28-10-2015,Thriller,NC-17,Gilles Paquet-Brenner,231786
+2037085,Cop Car,5.2,US,86,28-10-2015,Thriller,NC-17,Jon Watts,9291
+2034991,Spectre,7.7,UK,148,05-11-2015,Action,NC-17,Sam Mendes,7130004
+2039510,All Creatures Big and Small,5.2,Belgium,87,04-11-2015,Adventure,G,Toby Genkel,113109
+2037446,Burnt,6.4,US,100,11-11-2015,Comedy,NC-17,John Wells,322786
+2039810,Pay the Ghost,5,Canada,94,11-11-2015,Thriller,PG,Uli Edel,449868
+2037146,Heist,6.5,US,93,11-11-2015,Action,NC-17,Scott Mann,263393
+2022431,The Hunger Games: Mockingjay - Part 2,7.6,US,137,18-11-2015,Science Fiction,PG,Francis Lawrence,2227220
+2037104,Bridge of Spies,7.5,Germany,141,18-11-2015,Drama,PG,Steven Spielberg,2030969
+2036069,Steve Jobs,6.1,US,122,18-11-2015,Drama,R,Danny Boyle,105514
+2037155,Secret in Their Eyes,5.3,US,111,25-11-2015,Mystery,NC-17,Billy Ray,1124151
+2041101,Amnesiac,5.2,US,90,25-11-2015,Mystery,NC-17,Michael Polish,162486
+2037054,The Little Prince,0,Canada,108,25-11-2015,Animation,PG,Mark Osborne,121329
+1609015,Al-Leila Al-Kebira,5.6,Egypt,123,02-12-2015,Drama,NR,Sameh Abdel Aziz,2889804
+2036187,Victor Frankenstein,6.5,US,110,02-12-2015,Horror,PG,Paul McGuigan,913726
+2036167,Momentum,4.9,US,96,02-12-2015,Action,NR,Stephen S. Campanelli,59230
+2039893,The Nutcracker Sweet,5,Peru,80,02-12-2015,Animation,NR,Eduardo Schuldt,22198
+2034036,In the Heart of the Sea,8.2,US,121,09-12-2015,Drama,PG,Ron Howard,4941842
+2034540,The Good Dinosaur,7.4,US,93,09-12-2015,Animation,G,Peter Sohn,1663374
+2027319,Kudurat Gheir Adiya,6.9,Egypt,133,09-12-2015,Drama,PG-13,Daoud Abdel Sayed,518778
+2036783,Krampus,5.3,US,98,09-12-2015,Horror,PG,Michael Dougherty,556340
+2037081,Macbeth,6.4,France,113,09-12-2015,War,NC-17,Justin Kurzel,84634
+2034828,Star Wars: Episode VII - The Force Awakens,7.5,US,136,16-12-2015,Action,PG,J.J. Abrams,1774782
+2037433,Paparazzi,5.2,Egypt,110,16-12-2015,Drama,NR,Saad Hendawy,447242
+2039916,By the Sea,5.1,France,132,16-12-2015,Romance,NC-17,Angelina Jolie,158065
+2022220,The 33,5.9,Chile,127,16-12-2015,Drama,PG,Patricia Riggen,234208
+2034407,Daddy's Home,5.2,US,96,30-12-2015,Comedy,PG-13,Sean Anders,965101
+2034641,Joy,5.9,US,124,30-12-2015,Drama,PG-13,David O. Russell,620711
+2037491,Point Break,6.9,China,113,23-12-2015,Sport,PG-13,Ericson Core,1277869
+2041151,Dilwale,8.6,India,158,30-12-2015,Musical,NR,Rohit Shetty,981981
+2040189,Khanet Al Yak,6.2,Egypt,91,23-12-2015,Thriller,NR,Amir Ramses,614600
+2041262,Extraction,5.2,Canada,83,30-12-2015,Thriller,NC-17,Steven C. Miller,202015
+2034662,The Peanuts Movie,6,US,88,23-12-2015,Comedy,G,Steve Martino,293968
+2037156,Love the Coopers,5.9,US,107,23-12-2015,Comedy,G,Jessie Nelson,317889
+2027650,Men Dahr Ragel,7.1,Egypt,145,06-01-2016,Romance,PG-13,Karim El Sobky,7553289
+2037730,The Forest,6.1,US,95,06-01-2016,Horror,PG,Jason Zada,1446362
+2040503,The Big Short,6.5,US,130,06-01-2016,Biography,NC-17,Adam McKay,485382
+2028512,Shaaket Dabows,5.8,Egypt,82,06-01-2016,Drama,NR,Ahmed Abdullah Saleh,469746
+2037728,The 5th Wave,6.7,US,112,14-01-2016,Thriller,PG,J Blakeson,1343079
+2037718,Ride Along 2,6.7,US,101,13-01-2016,Action,PG,Tim Story,765677
+2027156,The Hateful Eight,8,US,182,13-01-2016,Crime,NC-17,Quentin Tarantino,314091
+2037684,Oshan 14,5,Egypt,101,20-01-2016,Comedy,PG-13,Shady Al Ramly,16388764
+2034058,The Revenant,8.8,US,156,20-01-2016,Drama,PG,Alejandro G. Iñárritu,5148409
+2040734,Kedbet Kol Youm,6.9,Egypt,98,20-01-2016,Drama,G,Khaled El Halafawy,4060483
+2037713,Dirty Grandpa,5.6,US,102,20-01-2016,Comedy,NC-17,Dan Mazer,1242078
+2037415,Alvin and the Chipmunks: The Road Chip,5.8,US,86,20-01-2016,Animation,G,Walt Becker,1217754
+2003722,The Danish Girl,6.7,US,120,20-01-2016,Biography,NC-17,Tom Hooper,42802
+2040765,The Boy,5.5,US,98,27-01-2016,Horror,PG,William Brent Bell,4105784
+2037711,Concussion,6.9,Australia,123,28-01-2016,Drama,PG,Peter Landesman,879424
+2037720,Sisters,5.1,US,118,13-02-2013,Comedy,PG-13,Jason Moore,121084
+2041968,Selah Al-Talamiz,3.2,Egypt,97,27-01-2016,Comedy,NR,Tamer Harby,101846
+2012454,Asad Sinaa,5.8,Egypt,90,27-01-2016,War,NR,Hassan Al Sayed,67255
+2041500,El Haram El Rabea,7.1,Egypt,92,03-02-2016,Action,NR,Peter Mimi,5845645
+2036194,The Finest Hours,7.2,US,117,03-02-2016,History,PG,Craig Gillespie,1442263
+2037727,The Choice,5.4,US,111,03-02-2016,Romance,PG,Ross Katz,216524
+2041386,Capture the Flag,5.8,Spain,94,03-02-2016,Animation,PG,Enrique Gato,173522
+2042106,The Faith of Anna Waters,4.8,Singapore,95,03-02-2016,Horror,NC-17,Kelvin Tong,217926
+2037411,How to Be Single,6.1,US,110,10-02-2016,Comedy,NC-17,Christian Ditter,877378
+2037717,Pride and Prejudice and Zombies,5.9,US,108,10-02-2016,Romance,PG,Burr Steers,118673
+2037716,Norm of the North,0,India,86,10-02-2016,Adventure,PG,Trevor Wall,77960
+2037413,Deadpool,8.4,Canada,106,17-02-2016,Science Fiction,NC-17,Tim Miller,4793680
+2041620,El-Mishakhasaty 2,2,Egypt,95,17-02-2016,Comedy,NR,Mohamed Salah Abo Seif,1038902
+2037715,"Hail, Caesar!",5,UK,106,17-02-2016,Musical,PG,Ethan Coen,105904
+2040706,Criminal Activities,5.3,US,94,17-02-2016,Thriller,NR,Jackie Earle Haley,44461
+2036183,Triple 9,5.5,US,115,24-02-2016,Crime,NC-17,John Hillcoat,324646
+2037206,Zoolander 2,4.4,US,102,24-02-2016,Comedy,PG,Ben Stiller,266732
+2034207,Gods of Egypt,6.9,Australia,100,02-03-2016,Fantasy,PG,Alex Proyas,2601913
+2036188,London Has Fallen,6.7,Bulgaria,99,02-03-2016,Crime,R,Babak Najafi,3724558
+2034536,Zootopia,7.8,US,110,02-03-2016,Adventure,G,Byron Howard,888030
+2033032,Al-Thaman,4.8,Egypt,98,02-03-2016,Thriller,NR,Hesham Issawi,139576
+2041299,The Other Side of the Door,5.5,UK,96,09-03-2016,Horror,NC-17,Johannes Roberts,1599131
+2040397,The Divergent Series: Allegiant,6.4,US,121,09-03-2016,Adventure,PG,Robert Schwentke,700066
+2041594,Misconduct,5.5,US,106,09-03-2016,Thriller,R,Shintaro Shimosawa,159540
+2041267,Exposed,5.7,US,102,09-03-2016,Drama,NC-17,Gee Malik Linton,21932
+2041266,Mune: Guardian of the Moon,0,France,86,09-03-2016,Animation,PG,Alexandre Heboyan,14722
+2040073,The Witch,4.8,Brazil,92,16-03-2016,Mystery,NC-17,Robert Eggers,1397319
+2037402,Kung Fu Panda 3,8.2,China,95,16-03-2016,Adventure,PG,Jennifer Yuh,1253766
+2041455,Eye in the Sky,6.6,UK,102,16-03-2016,War,NC-17,Gavin Hood,122435
+2041197,Miracles from Heaven,6.1,US,109,16-03-2016,Drama,PG,Patricia Riggen,62991
+2040430,Neaama,3.6,Egypt,90,16-03-2016,Comedy,NC-17,Mostafa Hamdy,102310
+2024841,Batman v Superman: Dawn of Justice,8.4,US,151,23-03-2016,Action,G,Zack Snyder,11201230
+2040092,Nawara,7.9,Egypt,122,23-03-2016,Drama,NR,Hala Khalil,1761132
+2037316,Amy,5.7,UK,128,23-03-2016,Biography,NC-17,Asif Kapadia,8420
+2040814,Haraam El-Gasad,6.5,Egypt,121,29-03-2016,Crime,NC-17,Khaled El Hagar,573982
+2041942,10 Cloverfield Lane,6.6,US,103,30-03-2016,Science Fiction,PG,Dan Trachtenberg,253388
+2037412,Eddie the Eagle,6.7,Germany,105,30-03-2016,Sport,NR,Dexter Fletcher,188161
+2007805,Queen of the Desert,5.7,Morocco,128,30-03-2016,Drama,PG,Werner Herzog,77094
+2039811,My Big Fat Greek Wedding 2,4.9,US,94,23-03-2016,Comedy,PG,Kirk Jones,116931
+2036654,Before I Wake,5.8,US,97,10-02-2017,Horror,NC-17,Mike Flanagan,827535
+2036166,Solace,6.3,US,101,06-04-2016,Mystery,NC-17,Afonso Poyart,137653
+2037712,Demolition,6.9,US,100,06-04-2016,Comedy,NC-17,Jean-Marc Vallée,118326
+2041106,Emelie,0,US,80,06-04-2016,Thriller,NR,Michael Thelin,46027
+2039793,Room,7.4,Canada,118,06-04-2016,Drama,NC-17,Lenny Abrahamson,31170
+2041432,Hassan Wa Bo'loz,6.6,Egypt,98,14-04-2016,Comedy,G,Wael Ehsan,11530343
+2039839,The Jungle Book,8.3,US,105,13-04-2016,Drama,NR,Jon Favreau,5798908
+2034286,Qabl Zahmet Elsaif,5.9,Egypt,90,13-04-2016,Drama,NC-17,Mohamed Khan,341818
+2036181,Criminal,7.4,UK,113,13-04-2016,Drama,R,Ariel Vromen,452735
+2040399,Hepta: El Mohadra El Akhyra,8,Egypt,120,20-04-2016,Romance,G,Hadi El Bagoury,27000103
+2040518,Konghor Hobena,5.7,Egypt,107,20-04-2016,Comedy,G,Ahmed Al Badry,4751489
+2041322,Elly Ekhtasho Mato,4.4,Egypt,110,20-04-2016,Drama,R,Ismail Farouk,3237197
+2039897,The Huntsman: Winter's War,7.4,US,114,20-04-2016,Action,PG,Cedric Nicolas-Troyan,1365639
+2041503,Fan,7.7,India,142,20-04-2016,Thriller,NR,Maneesh Sharma,388742
+2040159,Fas Malh We Dakh,6.4,Egypt,114,20-04-2016,Comedy,G,Tamer Bassiouni,749082
+2042356,Precious Cargo,6.7,Canada,90,27-04-2016,Action,NC-17,Max Adams,415188
+2042112,Backtrack,7.1,Australia,90,27-04-2016,Mystery,NC-17,Michael Petroni,437700
+2042244,Mother's Day,6.3,US,118,27-04-2016,Comedy,PG,Garry Marshall,325190
+2042359,The Boy and the Beast,6,Japan,119,27-04-2016,Adventure,PG,Mamoru Hosoda,47096
+2034011,Captain America: Civil War,9.1,US,146,04-05-2016,Thriller,PG,Anthony Russo,5733545
+2042729,The Dead Room,4.5,New Zealand,80,04-05-2016,Horror,NR,Jason Stutter,224181
+2025705,The Angry Birds Movie,8,Finland,97,11-05-2016,Comedy,PG,Clay Kaytis,1089575
+2037153,Visions,6.4,US,82,11-05-2016,Thriller,NC-17,Kevin Greutert,796857
+2042654,The Man Who Knew Infinity,6.8,UK,108,11-05-2016,Drama,PG,Matthew A. Brown,198534
+2037710,The Take,6.8,France,92,12-05-2016,Action,NC-17,James Watkins,163914
+2034110,X-Men: Apocalypse,7.9,US,144,18-05-2016,Fantasy,PG,Bryan Singer,4309728
+2041435,I Am Wrath,5.8,US,92,18-05-2016,Crime,NC-17,Chuck Russell,116353
+2042241,Our Kind of Traitor,6.2,UK,107,18-05-2016,Thriller,R,Susanna White,71398
+2043073,The Wild Life,0,Belgium,90,18-05-2016,Comedy,PG,Ben Stassen,24303
+2034438,Warcraft,8.7,US,123,25-05-2016,Fantasy,NR,Duncan Jones,1950266
+2041268,Money Monster,6.1,US,98,26-05-2016,Thriller,NC-17,Jodie Foster,931161
+2040391,The Nice Guys,6.3,UK,116,25-05-2016,Thriller,NC-17,Shane Black,443748
+2037158,Midnight Special,5,US,112,25-05-2016,Drama,PG,Jeff Nichols,52480
+2043345,The Visitors: Bastille Day,0,France,110,25-05-2016,Comedy,NR,Jean-Marie Poiré,31687
+2037714,Blackway,0,US,90,01-06-2016,Thriller,NC-17,Daniel Alfredson,65036
+2042870,The Sweeney: Paris,5,France,92,01-06-2016,Drama,NR,Benjamin Rocher,42381
+2042974,Gahim Fe El Hend,7,Egypt,107,05-07-2016,Comedy,G,Moataz El Tony,32166584
+2041273,Min Talatin Sana,8.3,Egypt,146,06-07-2016,Drama,G,Amr Arafa,23207995
+2040051,Abo Shanab,5.9,Egypt,114,05-07-2016,Comedy,PG-13,Sameh Abdel Aziz,17326771
+2043798,30 Youm Fi Ezz,3.2,Egypt,90,05-07-2016,Musical,PG-13,Hani Hamdy,6080798
+2034109,The Conjuring 2,8.8,Canada,133,09-07-2016,Horror,NC-17,James Wan,8758643
+2025407,Independence Day: Resurgence,7.6,US,120,23-06-2016,Science Fiction,PG-13,Roland Emmerich,2250413
+2042309,Asal Abyad,6,Egypt,107,05-07-2016,Comedy,G,Hosam Al Gohary,1128384
+2025391,Finding Dory,8.5,US,103,06-07-2016,Comedy,G,Andrew Stanton,4501132
+2041528,Teenage Mutant Ninja Turtles: Out of the Shadows,8,US,112,29-06-2016,Adventure,PG,Dave Green,700587
+2043853,Party Fe Harty,3.6,Egypt,104,05-07-2016,Comedy,PG-13,Mohamed Younis,243107
+2034371,Now You See Me 2,8.7,US,115,13-07-2016,Action,PG,Jon M. Chu,4674887
+2041251,Central Intelligence,7.9,US,107,13-07-2016,Comedy,PG-13,Rawson Marshall Thurber,1814565
+2041588,Ghostbusters,6.8,US,116,17-07-2016,Action,PG,Paul Feig,255317
+2037404,The Legend of Tarzan,7.7,US,109,20-07-2016,Action,PG,David Yates,7187627
+2040358,The Purge: Election Year,6.8,France,105,20-07-2016,Action,NC-17,James DeMonaco,394734
+2040003,Alice Through the Looking Glass,7.7,UK,113,20-07-2016,Adventure,PG,James Bobin,234570
+2041988,Tofahet Hawa,5,Egypt,70,20-07-2016,Drama,NR,Tamer Samy,58035
+2040620,Eshtebak,8,United Arab Emirates,97,27-07-2016,Drama,PG-13,Mohamed Diab,4143756
+2037625,Satow Mosalath,3.8,Egypt,76,27-08-2016,Comedy,PG-13,Mohamed Younis,1358908
+2040395,Me Before You,8.8,US,110,27-07-2016,Drama,PG,Thea Sharrock,1790964
+2040396,Star Trek Beyond,7.2,US,120,27-07-2016,Adventure,PG,Justin Lin,148787
+2043148,Marauders,5.8,Canada,107,27-08-2016,Action,NC-17,Steven C. Miller,121409
+2042208,Jason Bourne,7.1,US,123,03-08-2016,Action,G,Paul Greengrass,2160126
+2037409,Ice Age: Collision Course,7.4,US,94,03-08-2016,Comedy,PG,Mike Thurmeier,1245960
+2042090,El Bab Yefuwt Amal,4.7,Egypt,86,22-09-2010,Drama,PG-13,Ahmad Al Bendary,306840
+2036603,Free State of Jones,5.2,US,139,03-08-2016,Biography,NC-17,Gary Ross,77697
+2034547,Suicide Squad,8.6,Canada,130,10-08-2016,Action,R,David Ayer,9910976
+2042681,The Shallows,7,US,86,10-08-2016,Drama,PG-13,Jaume Collet-Serra,1587093
+2037992,The Secret Life of Pets,8.2,Japan,90,10-08-2016,Animation,G,Chris Renaud,1349618
+2043098,Bad Moms,6.4,US,100,10-08-2016,Comedy,PG-13,Jon Lucas,710440
+2036495,The Invitation,5.9,US,100,10-08-2016,Thriller,NR,Karyn Kusama,64914
+2040032,Al Maa wa Al Khodra wa Al Wajh El Hassan,5.1,Egypt,115,17-08-2016,Drama,PG-13,Yousry Nasrallah,963917
+2041519,The BFG,6.5,Canada,117,17-08-2016,Family,PG,Steven Spielberg,553169
+2037726,Skiptrace,7.9,China,107,17-08-2016,Comedy,PG,Renny Harlin,713617
+2034395,The Neon Demon,5.8,Denmark,117,17-08-2016,Horror,NC-17,Nicolas Winding Refn,38624
+2042449,Lights Out,7.6,US,90,24-08-2016,Horror,R,David F. Sandberg,2619027
+2037945,Mechanic: Resurrection,8.1,France,99,24-08-2016,Thriller,R,Dennis Gansel,1841934
+2040352,Nine Lives,5.4,China,87,24-08-2016,Comedy,PG,Barry Sonnenfeld,137314
+2042519,The Trust,3.6,US,93,24-08-2016,Thriller,NC-17,Alex Brewer,56735
+2042700,Don't Breathe,8.1,US,88,31-08-2016,Thriller,R,Fede Alvarez,3069338
+2041539,Kubo and the Two Strings,7.2,US,101,31-08-2016,Animation,G,Travis Knight,210780
+2041510,Cell,4.7,US,98,31-08-2016,Thriller,NC-17,Tod Williams,169398
+2043957,Saber Google,4.7,Egypt,123,07-09-2016,Comedy,PG-13,Mohamed Hamdy,4505489
+2044411,Laf We Dawaran,7,Egypt,101,11-09-2016,Comedy,PG-13,Khaled Marei,43277037
+2042558,Kalb Baladi,5.9,Egypt,100,08-09-2016,Comedy,PG-13,Moataz El Tony,16656137
+2044097,Ashan Khargen,5.2,Egypt,99,08-09-2016,Comedy,G,Khaled El Halafawy,9986447
+2042523,Hamlet Freezer,6.5,Egypt,123,10-09-2016,Comedy,PG-13,Sameh Abdel Aziz,8404352
+2044027,Tahet El-Tarabiza,4.8,Egypt,81,07-09-2016,Comedy,PG-13,Samih El Nakash,2469224
+2042169,Sully,8.3,US,96,14-09-2016,Drama,G,Clint Eastwood,4282998
+2039833,Ben-Hur,6.1,US,125,07-09-2016,History,PG-13,Timur Bekmambetov,1210521
+2041488,Pete's Dragon,7.7,US,103,07-09-2016,Adventure,G,David Lowery,271861
+2041483,The Magnificent Seven,7.1,US,132,21-09-2016,Action,PG-13,Antoine Fuqua,803237
+2043422,Blair Witch,5.7,US,89,21-09-2016,Thriller,NC-17,Adam Wingard,273873
+2042170,Bridget Jones's Baby,4.9,UK,122,21-09-2016,Romance,PG-13,Sharon Maguire,384069
+2042171,Deepwater Horizon,8.1,US,107,28-09-2016,Drama,PG-13,Peter Berg,2239048
+2041589,Storks,7.1,US,89,28-09-2016,Comedy,G,Nicholas Stoller,1135117
+2043600,Morgan,5,US,92,28-09-2016,Thriller,NC-17,Luke Scott,696362
+2041565,Martyrs,0,US,81,21-09-2016,Thriller,NC-17,Kevin Goetz,238642
+2041509,Hands of Stone,4.3,Panama,105,28-09-2016,Biography,G,Jonathan Jakubowicz,40603
+2037405,Miss Peregrine's Home for Peculiar Children,8,US,127,05-10-2016,Fantasy,PG-13,Tim Burton,1992181
+2042406,The Light Between Oceans,8,UK,132,05-10-2016,Drama,PG,Derek Cianfrance,209967
+2037732,Viral,5.2,US,89,05-10-2016,Horror,R,Henry Joost,88967
+2043848,The Blackburn Asylum,5.3,Canada,84,05-10-2016,Horror,R,Lauro David Chartrand-Del Valle,138075
+2029642,Inferno,7.5,Hungary,121,13-10-2016,Mystery,PG-13,Ron Howard,3500949
+2039815,War Dogs,6.4,US,114,13-10-2016,Comedy,R,Todd Phillips,593254
+2041264,Blood Father,6.3,France,88,12-10-2016,Action,NC-17,Jean-François Richet,239398
+2043164,The Infiltrator,6.6,UK,127,12-10-2016,Crime,R,Brad Furman,49104
+2042444,Jack Reacher: Never Go Back,7.2,China,118,19-10-2016,Crime,PG-13,Edward Zwick,3806629
+2036192,The Disappointments Room,5.8,US,92,19-10-2016,Drama,R,D.J. Caruso,570236
+2039331,Snowden,7.2,Germany,134,19-10-2016,Thriller,R,Oliver Stone,235151
+2042772,Café Society,5.6,US,96,19-10-2016,Romance,PG-13,Woody Allen,37534
+2043331,Urge,6.3,US,89,19-10-2016,Thriller,R,Aaron Kaufman,23271
+2037729,The Accountant,8.2,US,128,26-10-2016,Drama,R,Gavin O'Connor,2193516
+2042450,Ouija 2: Origin of Evil,7.4,US,99,26-10-2016,Thriller,PG-13,Mike Flanagan,3573853
+2041963,The Girl on the Train,6.7,US,112,26-10-2016,Mystery,R,Tate Taylor,1244155
+2036554,Amod Faqrey,3.6,Egypt,91,26-10-2016,Comedy,NR,Ebram Nashaat,29847
+2034151,Doctor Strange,8.6,US,130,02-11-2016,Fantasy,PG-13,Scott Derrickson,4475349
+2037401,Trolls,7.3,US,92,29-10-2015,Family,PG,Walt Dohrn,1092122
+2036178,Masterminds,5.8,US,94,02-11-2016,Crime,PG,Jared Hess,196207
+2040392,The Blackcoat's Daughter,5.2,Canada,93,02-11-2016,Horror,NC-17,Oz Perkins,157788
+2043167,Rouge,5.8,Egypt,90,02-11-2016,Drama,PG,John Ikram,69010
+2043149,The 9th Life of Louis Drax,5.2,Canada,108,02-11-2016,Thriller,R,Alexandre Aja,18453
+2043780,Hacksaw Ridge,8.9,Australia,131,09-11-2016,War,R,Mel Gibson,1131217
+2043794,I.T.,4.6,France,95,09-11-2016,Drama,PG,John Moore,119975
+2043837,American Pastoral,5.1,US,108,09-11-2016,Drama,R,Ewan McGregor,37916
+2034174,Fantastic Beasts and Where to Find Them,8.2,UK,153,16-11-2016,Family,PG-13,David Yates,5160163
+2030359,Manteka Mahzoura- Kasr El Baron,7,Egypt,85,16-11-2016,Mystery,R,Mohamed Fekry,802606
+2043103,Middle School: The Worst Years of My Life,7.1,US,105,12-10-2016,Comedy,PG,Steve Carr,67161
+2042576,The Girl in the Photographs,0,US,95,16-11-2016,Thriller,R,Nick Simon,210666
+2043783,Allied,7.6,US,124,23-11-2016,Romance,R,Robert Zemeckis,3856091
+2044282,Arrival,7,US,116,23-11-2016,Science Fiction,PG-13,Denis Villeneuve,1311578
+2037860,El Bar El Tany,6.6,Egypt,98,19-11-2016,Drama,G,Ali Idris,600674
+2037719,Shut In,0,Canada,91,23-11-2016,Drama,PG-13,Farren Blackburn,215279
+2034562,Bleed for This,5.5,US,134,23-11-2016,Drama,R,Ben Younger,43056
+2043168,Underworld: Blood Wars,8.1,US,91,01-12-2016,Action,R,Anna Foerster,1650570
+2043097,USS Indianapolis: Men of Courage,6.8,US,129,30-11-2016,Action,R,Mario Van Peebles,723399
+2043981,The Edge of Seventeen,6.9,US,104,30-11-2016,Comedy,R,Kelly Fremon Craig,99380
+2045087,Man Down,0,US,92,30-11-2016,Thriller,R,Dito Montiel,106424
+2034539,Moana,8.3,US,113,07-12-2016,Comedy,PG,Ron Clements,4473344
+2043436,Incarnate,7.3,Canada,91,07-12-2016,Thriller,NC-17,Brad Peyton,1658761
+2043095,Lion,8.1,Australia,120,07-12-2016,Drama,PG-13,Garth Davis,191951
+2044278,The Good Neighbor,5.2,US,98,07-12-2016,Thriller,NR,Kasra Farahani,31188
+2043796,Collateral Beauty,7.9,US,94,14-12-2016,Comedy,PG-13,David Frankel,3845426
+2042941,Rogue One: A Star Wars Story,6.8,US,133,13-12-2016,Action,PG-13,Gareth Edwards,1098979
+1724389,Yoam Lel Settat,5.3,Egypt,111,15-11-2016,Drama,R,Kamla Abouzekri,1205435
+2043802,Miss Sloane,6.7,US,132,14-12-2016,Drama,R,John Madden,38695
+2043150,Passengers,8.2,US,116,22-12-2016,Adventure,PG-13,Morten Tyldum,3851781
+2043800,Why Him?,6.9,US,111,21-12-2016,Comedy,R,John Hamburg,1137338
+2041191,Sing,7.5,US,108,21-12-2016,Musical,PG,Garth Jennings,1551403
+2034576,Assassin's Creed,8.8,France,115,28-12-2016,Adventure,PG-13,Justin Kurzel,5745465
+2043165,Office Christmas Party,5.7,US,105,28-12-2016,Comedy,PG-13,Will Speck,573750
+2043162,Bad Santa 2,4.9,US,92,28-12-2016,Comedy,R,Mark Waters,62390
+2041091,Mawlana,6.5,Egypt,107,04-01-2017,Drama,PG-13,Magdi Ahmed Ali,13178387
+2042469,La La Land,8.5,US,128,04-01-2017,Drama,PG-13,Damien Chazelle,5169351
+2042443,The Great Wall,8,China,104,04-01-2017,Thriller,R,Yimou Zhang,2539537
+2011238,Live By Night,6.1,US,128,11-01-2017,Crime,R,Ben Affleck,336802
+2043801,Patriots Day,6.8,US,130,11-01-2017,Thriller,R,Peter Berg,231292
+2042577,Pet,5.7,Spain,90,11-01-2017,Thriller,R,Carles Torrens,45410
+2041827,xXx: The Return of Xander Cage,7.6,US,107,18-01-2017,Thriller,PG-13,D.J. Caruso,6226586
+2037337,Al-Armouti Fe Ard El-Nar,4.5,Egypt,100,18-01-2017,Comedy,PG-13,Ahmed Al Badry,6612175
+1488293,Yabani Asli,6.6,Egypt,96,18-01-2017,Comedy,G,Mahmoud Karim,7369117
+2044266,Feen Qalbi,5.4,Egypt,110,18-01-2017,Romance,G,Ehab Rady,1718114
+2045736,Within,6.6,US,88,18-01-2017,Horror,R,Phil Claydon,625402
+2042984,The Bye Bye Man,5.4,US,96,18-01-2017,Thriller,PG-13,Stacy Title,361728
+2042884,El-Qerd Beytkalem,5.8,Egypt,91,25-01-2017,Thriller,R,Peter Mimi,11837400
+2045043,Akher Deek Fe Masr,6,Egypt,110,25-01-2017,Comedy,PG-13,Amr Arafa,8916769
+2043769,Resident Evil: The Final Chapter,8.2,Australia,105,26-01-2017,Thriller,R,Paul W.S. Anderson,1790689
+2028171,Monster Trucks,6,US,104,25-01-2017,Action,PG,Chris Wedge,232044
+2045712,Ozzy,6.4,Canada,90,25-01-2017,Animation,G,Alberto Rodríguez,113675
+2043811,Split,8.4,US,116,01-02-2017,Thriller,NC-17,M. Night Shyamalan,8988346
+2008593,Silence,6.7,Mexico,100,01-02-2017,History,R,Martin Scorsese,239350
+2037092,Rings,6.1,US,102,08-02-2017,Drama,NC-17,F. Javier Gutiérrez,4580985
+2043820,John Wick: Chapter 2,8.8,US,122,08-02-2017,Thriller,R,Chad Stahelski,2642496
+2040411,The Lego Batman Movie,7,Denmark,90,08-02-2017,Action,PG,Chris McKay,819603
+2045603,Bashtery Ragel,7.1,Egypt,100,14-02-2017,Romance,R,Muhammad Ali,5272567
+2037078,Fifty Shades Darker,5.2,US,118,15-02-2017,Drama,NC-17,James Foley,836274
+2042470,The Founder,6.1,US,115,15-02-2017,History,PG-13,John Lee Hancock,176396
+2043791,Gold,6.9,US,121,15-02-2017,Thriller,R,Stephen Gaghan,133739
+2043340,The Last Face,5,US,132,15-02-2017,Drama,PG-13,Sean Penn,88101
+1479180,Ya Tahadi Ya Taadi,6.2,Egypt,90,24-02-2016,Comedy,G,Khaled El Halafawy,615308
+2043824,Fist Fight,5.4,US,91,22-02-2017,Comedy,G,Richie Keen,453942
+2041669,Yoom Men El-Ayam,6.5,Egypt,120,22-02-2017,Romance,G,Mohamed Mostafa,375133
+2046012,Kung-Fu Yoga,8,China,107,22-02-2017,Comedy,NR,Stanley Tong,379399
+2042562,Friend Request,6.1,Germany,92,07-01-2016,Thriller,R,Simon Verhoeven,241932
+2044536,Manchester by the Sea,7.3,US,135,22-02-2017,Drama,R,Kenneth Lonergan,239977
+2041518,Raees,8.3,India,161,22-02-2017,Crime,NR,Rahul Dholakia,228847
+2045668,Arsenal,0,US,93,22-02-2017,Thriller,NC-17,Steven C. Miller,44479
+2044914,Logan,8.8,US,137,01-03-2017,Science Fiction,PG-13,James Mangold,7673297
+2040324,Ali Meaza wa Ibrahim,6.6,United Arab Emirates,97,01-03-2017,Fantasy,R,Sherif El Bendary,252394
+2044911,LEAP!,7.7,Canada,89,14-12-2016,Musical,NR,Eric Summer,357307
+2043822,A Dog's Purpose,5.4,US,120,01-03-2017,Comedy,PG,Lasse Hallström,123128
+2041255,A Monster Calls,7,Spain,108,01-03-2017,Fantasy,PG-13,J.A. Bayona,80905
+2045837,Dalida,6.2,France,124,01-03-2017,Biography,NR,Lisa Azuelos,130520
+2042520,Kong: Skull Island,8.3,US,120,08-03-2017,Fantasy,PG-13,Jordan Vogt-Roberts,8715293
+2045389,Before I Fall,6.2,US,98,08-03-2017,Drama,PG-13,Ry Russo Young,330123
+2039813,Rock Dog,5.8,China,80,08-03-2017,Animation,PG,Ash Brannon,104182
+2042563,Beauty and the Beast,8.3,US,129,16-03-2017,Romance,PG,Bill Condon,10718031
+2045674,Mamnoo' Al-Ekterab Aw El-Tasweer,5.5,Egypt,106,15-03-2017,Thriller,R,Romany Saad,463940
+2045170,Life,6.4,US,103,23-03-2017,Science Fiction,R,Daniel Espinosa,712221
+2043834,Power Rangers,7.2,Canada,124,22-03-2017,Science Fiction,PG-13,Dean Israelite,598565
+2044462,CHIPS,4.5,US,100,22-03-2017,Comedy,R,Dax Shepard,201660
+2044779,The Belko Experiment,5.8,US,88,22-03-2017,Horror,R,Greg Mclean,158869
+2043767,Don’t Knock Twice,4.5,UK,93,15-03-2017,Horror,R,Caradog W. James,644835
+2044912,Sleepless,6.7,US,95,16-03-2017,Thriller,R,Baran bo Odar,545469
+2037154,Collide,4.7,US,99,22-03-2017,Thriller,PG-13,Eran Creevy,72993
+2046605,Don't Hang Up,5.1,UK,83,10-02-2017,Horror,R,Damien Macé,116585
+2044913,Get Out,7.6,US,103,29-03-2017,Horror,R,Jordan Peele,1796069
+2019219,Akhlaa Elabid,4.5,Egypt,106,29-03-2017,Drama,R,Ayman Makram,997072
+2044084,Smurfs: The Lost Village,7.6,US,89,29-03-2017,Comedy,PG,Kelly Asbury,1388169
+2046518,Petra: The Gate of Time,6.3,Egypt,86,29-03-2017,Action,NR,Othman Abu Laban,113410
+2046595,Sokkar Barra,5.4,Egypt,88,29-03-2017,Comedy,PG-13,Ahmed Abdullah Saleh,40006
+2040412,The Boss Baby,8.4,US,97,05-04-2017,Comedy,G,Tom McGrath,3583271
+2045753,Bank El Hazz,7.1,Egypt,122,05-04-2017,Comedy,R,Ahmed El Gendy,6072396
+2046449,Endama Yaqa' El Insan Fi Mostanqa' Afkaro Fayanahi Bi Al-Amr Ela Al-Mahzala,4.9,Egypt,97,05-04-2017,Comedy,R,Shady Ali,2042680
+2042437,Going in Style,6.8,US,96,05-04-2016,Crime,PG-13,Zach Braff,768087
+2045533,Aftermath,5.2,US,92,05-04-2017,Thriller,NR,Elliott Lester,249041
+2041706,Ta3weza 2,4.6,Egypt,100,05-04-2017,Comedy,NR,Mahmoud Selim,142579
+2045713,Eliminators,0,UK,94,05-04-2017,Action,R,James Nunn,81011
+2041947,The Fate of the Furious,8.7,China,136,12-04-2017,Adventure,PG-13,F. Gary Gray,22466064
+2046519,Yejaalo Amer,3.8,Egypt,88,12-04-2017,Comedy,PG-13,Shady Ali,2351148
+2046590,Hold Your Position,3.7,Egypt,86,12-04-2017,Comedy,NR,Sara Wafiq,871241
+2045048,We're Not Heading Into Trouble,3.7,Egypt,82,12-04-2017,Drama,R,Ahmed Saleh,232825
+2046715,Rabbit School - Guardians of the Golden Egg,5.5,Germany,79,12-04-2017,Animation,G,Ute von Münchow-Pohl,18986
+2043849,Ghost in the Shell,6.4,Canada,107,19-04-2017,Science Fiction,PG-13,Rupert Sanders,491062
+2045655,Unforgettable,5.3,US,100,20-04-2017,Thriller,R,Denise Di Novi,587153
+2039835,Eloise,4.4,US,89,19-04-2017,Mystery,R,Robert Legato,858328
+2045026,The Little Mermaid: Attack of the Pirates,0,US,77,20-10-2016,Animation,NR,Adam Qiu,7961
+2045573,The Circle,6.5,United Arab Emirates,110,26-04-2017,Thriller,PG-13,James Ponsoldt,866956
+2045730,The Lost City of Z,5,US,140,26-04-2017,History,R,James Gray,403028
+2044710,The Promise,7.1,Spain,134,26-04-2017,History,PG-13,Terry George,156884
+2044274,The Devil's Dolls,5.6,US,85,10-05-2017,Horror,NR,Padraig Reynolds,335567
+2045652,Killing Ground,0,Australia,88,26-04-2017,Thriller,NR,Damien Power,110362
+2040112,Phobia,5.7,Egypt,93,26-04-2017,Comedy,NR,Ebram Nashaat,35877
+2045409,Kikoriki. Legend of the Golden Dragon,0,Russia,80,26-04-2017,Animation,PG,Denis Chernov,16310
+2032788,Guardians of the Galaxy 2,8.3,US,136,02-05-2017,Science Fiction,PG-13,James Gunn,2125379
+2046138,Vengeance: A Love Story,6.5,US,99,03-05-2017,Thriller,NC-17,Johnny Martin,391403
+2044537,Daylight's End,4.5,US,105,03-05-2017,Action,NR,William Kaufman,100841
+2044741,Free Fire,5,France,90,03-05-2017,Crime,R,Ben Wheatley,31964
+2034663,King Arthur: Legend of the Sword,7.3,Australia,126,10-05-2017,Fantasy,PG-13,Guy Ritchie,901842
+2043927,The Devil's Candy,0,US,90,27-09-2016,Horror,NR,Sean Byrne,204155
+2043718,Stratton,4.8,UK,95,10-05-2017,Thriller,R,Simon West,83031
+2045968,Colossal,5.5,Canada,109,10-05-2017,Science Fiction,R,Nacho Vigalondo,39595
+2044634,Headshot,4.6,Indonesia,117,10-05-2017,Thriller,NR,Kimo Stamboel,17839
+2042546,Alien: Covenant,6.7,Australia,122,17-05-2017,Science Fiction,R,Ridley Scott,621566
+2046220,"Everything, Everything",5.7,US,96,17-05-2017,Romance,PG-13,Stella Meghie,477887
+2046366,The Assignment,4.7,Canada,95,17-05-2017,Thriller,R,Walter Hill,153342
+2044012,Mine,4.6,US,106,17-05-2017,Thriller,NR,Fabio Guaglione,46021
+2044358,Horob Edterary,7.6,Egypt,103,25-06-2017,Action,PG-13,Ahmed Khaled Mousa,55551644
+2041204,Jawab E'teqal,5,Egypt,100,25-06-2017,Action,R,Mohammad Samy,16409775
+2045006,Tesbah Ala Khair,8,Egypt,100,25-06-2017,Drama,G,Mohammad Samy,27469602
+2026156,Antar Ibn Ibn Ibn Ibn Shaddad,5.1,Egypt,110,25-06-2017,Comedy,G,Sherif Ismail,7389648
+2044362,El-Asleyeen,7.3,Egypt,120,23-06-2016,Drama,PG-13,Marwan Hamed,8676740
+2044352,The Mummy,7.2,US,110,21-06-2017,Fantasy,PG-13,Alex Kurtzman,9535197
+2019797,Pirates of the Caribbean: Dead Men Tell No Tales,8.7,US,129,21-06-2017,Adventure,PG-13,Joachim Rønning,6094052
+2041984,Wonder Woman,8.1,US,141,21-06-2017,Fantasy,PG-13,Patty Jenkins,2756695
+2044343,Despicable Me 3,7.5,US,90,28-06-2017,Family,G,Pierre Coffin,5424751
+2047454,The Osiris Child,5.7,Australia,95,28-06-2017,Adventure,NR,Shane Abbess,131722
+2029644,Spider-Man: Homecoming,8.4,US,133,06-07-2017,Science Fiction,PG-13,Jon Watts,7783893
+2043781,Overdrive,5,France,96,05-07-2017,Action,PG-13,Antonio Negret,310183
+2047181,Deep,6.2,Belgium,92,05-07-2017,Family,PG,Julio Soto Gurpide,38681
+2044348,War for the Planet of the Apes,8.4,US,140,12-07-2017,Science Fiction,G,Matt Reeves,8897778
+2041762,Baywatch,6.8,US,116,12-07-2017,Comedy,R,Seth Gordon,2847563
+2042193,Cars 3,7.6,US,102,12-07-2017,Sport,G,Brian Fee,787982
+2042532,Dunkirk,7.9,France,106,21-07-2017,Thriller,R,Christopher Nolan,7289098
+2043828,Baby Driver,7.7,UK,113,20-07-2017,Crime,PG-13,Edgar Wright,4379373
+2043833,Transformers: The Last Knight,7.1,US,149,19-07-2017,Science Fiction,PG-13,Michael Bay,1006462
+2046369,Atomic Blonde,6.4,US,115,26-07-2017,Thriller,R,David Leitch,453775
+2045669,Snatched,4.2,US,90,26-07-2017,Comedy,R,Jonathan Levine,377974
+2043825,The Dark Tower,7.4,US,95,03-08-2017,Fantasy,PG-13,Nikolaj Arcel,2335650
+2040355,47 Meters Down,6.9,Dominican Republic,89,02-08-2017,Horror,NR,Johannes Roberts,2677879
+2046934,Omar El-Azraq,5,Egypt,110,02-08-2017,Drama,NR,Ehab Abdel Latif,405814
+2042743,Samaka Wa Sennara,5.9,Egypt,100,02-08-2017,Comedy,NR,Tarek Abd El Moaty,248402
+2044086,Annabelle: Creation,8.4,US,109,10-08-2017,Thriller,NC-17,David F. Sandberg,14312573
+2045717,The Emoji Movie,5.6,US,86,10-08-2017,Family,G,Tony Leondis,1727240
+2036191,Kidnap,6.3,US,94,09-08-2017,Thriller,NC-17,Luis Prieto,519578
+2044349,Valerian and the City of a Thousand Planets,6.7,France,137,09-08-2017,Science Fiction,PG-13,Luc Besson,269668
+2046010,The Hitman's Bodyguard,8.5,US,111,17-08-2017,Comedy,R,Patrick Hughes,5099632
+2046126,The Beguiled,6.4,US,93,16-08-2017,Drama,PG-13,Sofia Coppola,343327
+2047241,The Man with the Iron Heart,6.3,Belgium,120,16-08-2017,War,NC-17,Cédric Jimenez,141268
+2043105,Railroad Tigers,5.8,China,124,16-08-2017,Comedy,PG,Sheng Ding,175693
+2047604,Leil Dakhely,4,Egypt,85,16-08-2017,Thriller,R,Hosam Al Gohary,111172
+2046009,American Made,6.6,US,115,23-08-2017,Thriller,R,Doug Liman,2135595
+2046123,Wish Upon,5.9,Canada,90,23-08-2017,Thriller,R,John R. Leonetti,655777
+2030327,Daadoush,3.6,Egypt,95,23-08-2017,Comedy,NR,Abdul Aziz Hashad,427563
+2039898,A Stork's Journey,4.3,Belgium,85,23-08-2017,Animation,G,Toby Genkel,104162
+2041312,El-Khaleya,8,Egypt,120,31-08-2017,Drama,PG-13,Tareq El Eryan,56004004
+2043112,El-Kenz: Al-Haqiqa wa Al-Khayaal,8,Egypt,165,31-08-2017,Drama,G,Sherif Arafa,19143730
+2046547,Khair W Baraka,5.6,Egypt,110,30-08-2017,Comedy,PG-13,Sameh Abdel Aziz,10164227
+2047945,Aman Ya Sahabi,3,Egypt,79,31-08-2017,Comedy,PG-13,Hani Hamdy,4604152
+2045601,Shantet Hamza,6.3,Egypt,85,31-08-2017,Comedy,PG-13,Akrm Farouk,3347807
+2047883,Bath Mobasher,6.3,Egypt,90,31-08-2017,Comedy,PG-13,Morcous Adel,1366030
+2048016,Horoob Mofagi,2.4,Egypt,88,31-08-2017,Drama,R,Ebram Nashaat,409357
+2044463,It,8.2,US,135,07-09-2017,Drama,NC-17,Andres Muschietti,8962648
+2047285,What Happened to Monday,7.2,Belgium,123,07-09-2017,Science Fiction,NC-17,Tommy Wirkola,781893
+2045227,The Nut Job 2: Nutty by Nature,4.2,Canada,95,06-09-2017,Adventure,G,Cal Brunker,266228
+2044777,American Assassin,7.6,US,111,13-09-2017,Action,R,Michael Cuesta,805956
+2046043,Logan Lucky,6,US,119,13-09-2017,Comedy,G,Steven Soderbergh,360361
+2047283,Victoria and Abdul,5,UK,112,13-09-2017,History,PG-13,Stephen Frears,187370
+2043986,6 Days,4.8,UK,94,13-09-2017,Action,R,Toa Fraser,109053
+2040069,Hellions,5.8,Canada,80,13-09-2017,Horror,NR,Bruce McDonald,123750
+2042522,Kingsman: The Golden Circle,8.3,UK,141,20-09-2017,Adventure,R,Matthew Vaughn,4929459
+2044464,The Lego Ninjago Movie,7,Denmark,101,20-09-2017,Animation,G,Paul Fisher,957761
+2045746,Blind,5.7,France,98,20-09-2017,Romance,PG-13,Michael Mailer,167456
+2044513,Hunter's Prayer,4.4,Germany,91,20-09-2017,Thriller,PG-13,Jonathan Mostow,121828
+2041193,Submerged,0,US,99,20-09-2017,Thriller,NR,Steven C. Miller,40298
+2047369,Flatliners,6.7,US,108,28-09-2017,Thriller,R,Niels Arden Oplev,825350
+2046972,Home Again,5.6,US,97,27-09-2017,Romance,G,Hallie Meyers-Shyer,227076
+2046115,It Comes at Night,5.3,US,91,27-09-2017,Mystery,R,Trey Edward Shults,187879
+2042575,Unlocked,6.2,UK,98,27-09-2017,Action,R,Michael Apted,163067
+2046905,Vincent N Roxxy,0,US,110,27-09-2017,Thriller,R,Gary Michael Schultz,22609
+2047187,All Eyez on Me,5.8,US,139,27-09-2017,Drama,R,Benny Boom,17273
+2040829,Sheikh Jackson,6.5,Egypt,93,04-10-2017,Drama,NC-17,Amr Salama,7839577
+2044466,Blade Runner 2049,7.2,Canada,281,05-10-2017,Science Fiction,R,Denis Villeneuve,1326878
+2046124,The Foreigner,7.6,China,114,04-10-2017,Action,R,Martin Campbell,3875409
+2047406,Jab Harry Met Sejal,7.4,India,90,04-10-2017,Romance,NR,Imtiaz Ali,660378
+2046956,2:22,6,Australia,90,04-10-2017,Thriller,PG-13,Paul Currie,147464
+2044773,The Monster,5.1,US,91,04-10-2017,Horror,R,Bryan Bertino,30886
+2046370,The Crucifixion,5,UK,90,11-10-2017,Thriller,NC-17,Xavier Gens,1115037
+2044468,The Snowman,5.9,UK,119,11-10-2017,Drama,NC-17,Tomas Alfredson,396165
+2048285,Mark Felt: The Man Who Brought Down the White House,5,US,103,11-10-2017,Thriller,PG-13,Peter Landesman,89972
+2045621,Wind River,6.5,Canada,110,11-10-2017,Thriller,NR,Taylor Sheridan,80832
+2048758,6 Below: Miracle on the Mountain,5.8,US,98,11-10-2017,Thriller,G,Scott Waugh,70744
+2044467,My Little Pony: The Movie,6.7,Canada,99,11-10-2017,Adventure,G,Jayson Thiessen,93956
+2035851,Geostorm,7.1,US,109,19-10-2017,Science Fiction,G,Dean Devlin,5358336
+2046023,Mother!,7.1,US,105,18-10-2017,Drama,NC-17,Darren Aronofsky,1545145
+2046884,Monster Family,5.6,Germany,96,18-10-2017,Animation,G,Holger Tappe,524385
+2043765,Once Upon A Time in Venice,4.3,US,94,18-10-2017,Comedy,R,Mark Cullen,41625
+2048043,Birth of the Dragon,5.7,Canada,105,18-10-2017,Drama,PG-13,George Nolfi,18514
+2043980,Jigsaw,6.5,Canada,91,25-10-2017,Thriller,NC-17,Peter Spierig,3438668
+2047817,Only the Brave,6.5,US,133,25-10-2017,Biography,PG-13,Joseph Kosinski,188700
+2048887,Al-Fondoq,4.3,Egypt,99,25-10-2017,Drama,R,Atef Shokry,337809
+2043953,Akhdar Yabis,6.4,Egypt,73,25-10-2017,Drama,NC-17,Mohamed Hammad,111127
+2048176,Brawl in Cell Block 99,5.1,US,132,25-10-2017,Thriller,NC-17,S. Craig Zahler,58104
+2047850,The Vault,4.6,US,91,25-10-2017,Thriller,R,Dan Bush,63120
+2044010,The Neighbor,4.4,US,87,25-10-2017,Crime,NR,Marcus Dunstan,11073
+2034205,Thor: Ragnarok,8.4,US,130,31-10-2017,Action,PG-13,Taika Waititi,8164068
+2047668,Suburbicon,5.6,UK,105,01-11-2017,Mystery,PG-13,George Clooney,123652
+2043294,Tulip Fever,4.8,UK,107,01-11-2017,Romance,R,Justin Chadwick,54149
+2047034,The Limehouse Golem,5.5,UK,105,01-11-2017,Thriller,NC-17,Juan Carlos Medina,34620
+2047370,Happy Death Day,6.1,US,96,08-11-2017,Mystery,PG-13,Christopher Landon,947646
+2048174,24 Hours to Live,5.3,Hong Kong,95,08-11-2017,Thriller,NR,Brian Smrz,291570
+2046117,Son of Bigfoot,6.5,Belgium,92,08-11-2017,Animation,G,Jeremy Degruson,386122
+2043144,All I See Is You,4.7,Thailand,110,08-11-2017,Drama,R,Marc Forster,186045
+2047435,Thank You for Your Service,5.2,US,109,08-11-2017,War,R,Jason Hall,54026
+2046537,Escape Room,0,US,81,08-11-2017,Thriller,R,Will Wernick,57612
+2049094,It Stains the Sands Red,4.9,US,92,25-10-2017,Thriller,NR,Colin Minihan,154330
+2042549,Justice League,7.9,US,121,15-11-2017,Science Fiction,G,Zack Snyder,8619591
+2046008,Wonder,8.3,US,113,15-11-2017,Drama,G,Stephen Chbosky,3063315
+2045651,Bushwick,5.1,US,94,15-11-2017,Adventure,NR,Cary Murnion,82170
+2045415,The Little Vampire,5,Germany,83,15-11-2017,Animation,G,Richard Claus,45298
+2042548,Murder on the Orient Express,8.5,Malta,114,22-11-2017,Drama,PG-13,Kenneth Branagh,7988232
+2046478,Daddy's Home 2,6.6,US,98,22-11-2017,Comedy,PG-13,Sean Anders,1302686
+2039874,Amityville: The Awakening,5.7,US,85,22-11-2017,Thriller,PG,Franck Khalfoun,630458
+2044485,Coco,8.5,US,109,22-11-2017,Family,G,Lee Unkrich,1249849
+2045342,American Renegades,5.8,Germany,105,22-11-2017,Thriller,PG-13,Steven Quale,140262
+2042510,The Mountain Between Us,7,US,112,21-11-2017,Drama,PG-13,Hani Abu Assad,3411762
+2047667,A Bad Moms Christmas,6.3,China,104,29-11-2017,Comedy,R,Scott Moore,741053
+2048080,Marrowbone,0,Spain,110,29-11-2017,Horror,R,Sergio G. Sánchez,200371
+2044799,Dead Awake,5.6,US,99,29-11-2017,Horror,NR,Phillip Guzman,661486
+2048284,Killing Gunther,5.1,US,92,29-11-2017,Action,R,Taran Killam,69809
+2046784,The Killing of a Sacred Deer,7.1,UK,121,29-11-2017,Drama,NC-17,Yorgos Lanthimos,59592
+2040260,Leatherface,4.5,US,90,06-12-2017,Thriller,R,Julien Maury,458878
+2045042,Paddington 2,8,France,103,06-12-2017,Fantasy,G,Paul King,143815
+2024755,Karat maymuri,4.4,Egypt,92,06-12-2017,Thriller,R,Khaled Mahran,186869
+2042250,Star Wars: The Last Jedi,7.1,US,152,13-12-2017,Adventure,PG-13,Rian Johnson,1457776
+2044350,Ferdinand,7.5,US,106,13-12-2017,Comedy,G,Carlos Saldanha,2466681
+2047669,Just Getting Started,6.4,US,91,13-12-2017,Action,PG-13,Ron Shelton,237813
+2046580,First Kill,5.4,US,97,13-12-2017,Action,R,Steven C. Miller,291446
+2046742,Omaret Roushdy,3.8,Egypt,93,13-12-2017,Comedy,NR,Hassan Al Sayed,206181
+2045858,The Recall,5.1,Canada,90,13-12-2017,Science Fiction,R,Mauro Borrelli,110125
+2047338,Jumanji: Welcome to the Jungle,8.5,US,119,21-12-2017,Fantasy,G,Jake Kasdan,26784721
+2045418,Photocopy,7.4,Egypt,90,20-12-2017,Drama,NR,Tamer Ashry,758249
+2048232,S.M.A.R.T. Chase,5.8,China,95,20-12-2017,Action,NR,Charles Martin,47548
+2037403,The Greatest Showman,8.5,US,105,27-12-2017,Biography,PG-13,Michael Gracey,4937472
+2034424,"Halimo, Legend of the Beaches",3.3,Egypt,112,27-12-2017,Comedy,PG-13,Mohammed Saeed,1083772
+2044461,Pitch Perfect 3,6.1,US,93,27-12-2017,Comedy,NR,Trish Sie,405327
+2049043,Tiger is Alive,8.6,India,161,27-12-2017,Adventure,NR,Ali Abbas Zafar,415710
+2048824,Acts of Vengeance,4.3,Bulgaria,87,27-12-2017,Action,R,Isaac Florentine,162903
+2046650,Hostiles,4.8,US,133,27-12-2017,Adventure,R,Scott Cooper,154366
+2050075,The Jungle Bunch,4.3,France,97,27-12-2017,Family,G,David Alaux,76191
+2047463,Breathe,4.6,US,118,27-12-2017,Romance,PG-13,Andy Serkis,80413
+2044028,Talq Sina'iee,7.4,Egypt,90,03-01-2018,Thriller,R,Khaled Diab,14287138
+2045636,Insidious: The Last Key,7.4,Canada,103,04-01-2018,Thriller,R,Adam Robitel,6982450
+2047725,Oqdet Al Khawaja,5.5,Egypt,110,06-01-2018,Drama,R,Peter Mimi,9715957
+2046125,Bleeding Steel,6.5,China,110,03-01-2018,Thriller,R,Lijia Zhang,499065
+2048901,Crooked House,6.2,UK,115,04-01-2018,Drama,PG-13,Gilles Paquet-Brenner,303667
+2048604,Tad the Lost Explorer and the Secret of King Midas,4.7,Spain,86,03-01-2018,Adventure,PG,David Alonso,322893
+2050008,Message from the King,3.8,US,102,03-01-2018,Thriller,R,Fabrice du Welz,52560
+2044898,The Commuter,8.1,UK,104,10-01-2018,Thriller,PG-13,Jaume Collet-Serra,3963448
+2046024,Darkest Hour,5.8,UK,114,10-01-2018,Drama,PG-13,Joe Wright,215422
+2046759,Detroit,4.8,US,143,10-01-2018,Thriller,R,Kathryn Bigelow,68663
+2049386,On Wings of Eagles,4.7,China,96,10-01-2018,War,PG-13,Stephen Shin,24915
+2045976,Raghda Motawahesha,7.3,Egypt,92,17-01-2018,Comedy,PG-13,Mahmoud Karim,20542796
+2047854,Etla'ooli Barra,4.9,Egypt,90,17-01-2018,Comedy,G,Wael Ehsan,3021688
+2049120,12 Strong,6.6,US,130,17-01-2018,Action,R,Nicolai Fuglsig,1839928
+2049977,Ghost House,5.8,Thailand,89,17-01-2018,Horror,NC-17,Rich Ragsdale,2786398
+2047751,The Post,5.4,US,115,17-01-2018,Biography,PG-13,Steven Spielberg,1397988
+2049532,Khalawees,6.7,Egypt,90,17-01-2018,Comedy,G,Khaled El Halafawy,1125034
+2047734,Downsizing,5.9,Norway,135,17-01-2018,Science Fiction,NC-17,Alexander Payne,400067
+2050036,Gedo Nahnoh,4.8,Egypt,110,17-01-2018,Comedy,G,Seif Youssef,382832
+2047868,Loving Vincent,6.6,UK,95,13-12-2017,Drama,PG-13,Hugh Welchman,59410
+2040408,The Maze Runner: The Death Cure,8.6,US,120,24-01-2018,Thriller,R,Wes Ball,5250980
+2048974,Padmaavat,6.7,India,163,24-01-2018,Romance,PG-13,Sanjay Leela Bhansali,310181
+2050009,Kickboxer: Retaliation,5.8,US,110,24-01-2018,Action,R,Dimitri Logothetis,28787
+2048045,All the Money in the World,6.5,US,135,31-01-2018,Thriller,R,Ridley Scott,513487
+2048989,Phantom Thread,6.7,US,130,31-01-2018,Drama,G,Paul Thomas Anderson,287342
+2047782,Proud Mary,4.9,US,89,01-02-2018,Action,R,Babak Najafi,69637
+2048522,The Insult,7.6,Belgium,112,31-01-2018,Drama,R,Ziad Doueiri,31585
+2048455,Den of Thieves,6.5,US,140,07-02-2018,Thriller,R,Christian Gudegast,2210266
+2046887,Winchester,4.4,Australia,99,07-02-2018,Horror,R,Peter Spierig,1032098
+2048286,Open Water 3: Cage Dive,5.1,Australia,80,07-02-2018,Thriller,PG-13,Gerald Rascionato,234967
+2034206,Black Panther,8.4,US,134,13-02-2018,Science Fiction,PG-13,Ryan Coogler,8947101
+2048215,Fifty Shades Freed,5.9,US,120,07-01-2016,Drama,NC-17,James Foley,1465500
+2047456,Nos Gawaza,5.4,Egypt,87,14-02-2018,Comedy,PG-13,Saif Al Saher,248579
+2046648,Molly's Game,6,US,140,14-02-2018,Biography,PG-13,Aaron Sorkin,359758
+2045964,Early Man,4.9,France,89,14-02-2018,Family,NR,Nick Park,197628
+2045943,The Shape of Water,6.2,Canada,123,21-02-2018,Thriller,NC-17,Guillermo del Toro,1317197
+2048780,El Kahef,4,Egypt,85,21-02-2018,Drama,NC-17,Amir Shawkey,453402
+2046132,Mom and Dad,4.3,US,83,21-02-2018,Thriller,NC-17,Brian Taylor,205905
+2048673,Every Day,5.9,US,95,22-02-2018,Drama,PG-13,Michael Sucsy,216457
+2050796,The Hatching,4.6,UK,90,21-02-2018,Fantasy,NC-17,Michael Anderson,120383
+2050619,Condorito: The Movie,0,Peru,88,21-02-2018,Adventure,PG,Alex Orrelle,88656
+2046025,Red Sparrow,5.8,US,139,28-02-2018,Thriller,NC-17,Francis Lawrence,3187275
+2033904,Balash Tebosny,4.9,Egypt,85,28-02-2018,Comedy,NC-17,Ahmad Amer,323954
+2048460,Braven,4.5,Canada,94,28-02-2018,Drama,PG-13,Lin Oeding,287455
+2046628,"Three Billboards Outside Ebbing, Missouri",7,UK,115,27-02-2018,Comedy,R,Martin McDonagh,253308
+2049319,Game Night,6.4,US,100,07-03-2018,Mystery,PG-13,John Francis Daley,2570227
+2047933,Death Wish,6.2,US,108,07-03-2018,Thriller,R,Eli Roth,1707581
+2049063,Hangman,5,US,98,07-03-2018,Mystery,R,Johnny Martin,236270
+2049625,Gnome Alone,5.1,Canada,85,07-03-2018,Animation,G,Peter Lepeniotis,236908
+2050973,Land of Smiles,4.6,Austria,90,07-03-2018,Thriller,NR,Bradley Stryker,235101
+2047867,"I, Tonya",6.3,US,119,07-03-2018,Biography,R,Craig Gillespie,55636
+2046652,Tomb Raider,7.5,UK,118,14-03-2018,Adventure,PG-13,Roar Uthaug,4219135
+2043844,Hostile,5.3,France,83,14-03-2018,Horror,R,Mathieu Turi,124628
+2048967,Gringo,4.5,US,111,14-03-2018,Comedy,R,Nash Edgerton,77271
+2049318,In Syria,6.8,Belgium,85,14-03-2018,War,PG-13,Philippe Van Leeuw,8970
+2046127,Pacific Rim: Uprising,6.8,China,110,21-03-2018,Action,G,Steven S. DeKnight,879201
+2049320,The Strangers: Prey at Night,5.1,US,85,21-03-2018,Horror,R,Johannes Roberts,1118306
+2050298,"Paul, Apostle of Christ",7.1,US,108,22-03-2018,Drama,R,Andrew Hyatt,521293
+2049323,Sherlock Gnomes,5,UK,90,21-03-2018,Animation,G,John Stevenson,259918
+2047346,7 Guardians of the Tomb,4.7,Australia,90,21-03-2018,Action,NR,Kimble Rendall,106117
+2051096,Shar Assal,6.4,Egypt,102,21-03-2018,Drama,NR,Mohamed Adel Youssef,50519
+2043126,Rehlat Yusuf,4.3,Egypt,99,14-03-2018,Thriller,G,Andy Isaac,343769
+1778748,Ali Baba,5.5,Egypt,97,28-03-2018,Comedy,R,Waleed El Halfawy,10831302
+2047752,Ready Player One,7.7,US,140,28-03-2018,Action,G,Steven Spielberg,1930878
+2050011,The Hurricane Heist,4.7,US,103,28-03-2018,Action,PG-13,Rob Cohen,836830
+2047138,Peter Rabbit,5.2,Australia,95,29-03-2018,Family,G,Will Gluck,1152833
+2046676,Acts of Violence,4.8,UK,86,28-03-2018,Action,R,Brett Donowho,290087
+2049203,The Midnight Man,3.5,Canada,95,28-03-2018,Horror,R,Travis Zariwny,136416
+2044189,Alkhrog An Elnas,4.5,Egypt,85,28-03-2018,Drama,NR,Hassan Al Sayed,163070
+2049556,A Quiet Place,7.4,US,95,04-04-2018,Horror,G,John Krasinski,5391141
+2048615,Nawrt Masr,3.8,Egypt,88,04-04-2018,Comedy,G,Shady Ali,2765850
+2042201,Qesti Beyewgani,5.5,Egypt,110,04-04-2018,Comedy,PG-13,Ihab Lamei,746799
+2044186,Midnight Sun,6.1,US,91,04-04-2018,Drama,PG-13,Scott Speer,1006872
+2049576,Slumber,3.8,UK,84,04-04-2018,Horror,R,Jonathan Hopkins,449993
+2046880,Rampage,7.9,US,115,13-04-2018,Action,PG-13,Brad Peyton,10853247
+2045942,Black Water,5.2,Canada,105,11-04-2018,Drama,R,Pasha Patriki,218642
+2050708,I Kill Giants,4.3,Belgium,106,11-04-2018,Thriller,G,Anders Walter,92440
+2051302,The Stolen Princess,4,Ukraine,85,11-04-2018,Fantasy,G,Oleh Malamuzh,324776
+2050232,Truth or Dare,6,US,100,18-04-2018,Horror,R,Jeff Wadlow,1572122
+2050158,Day of the Dead: Bloodline,3.5,Bulgaria,90,18-04-2018,Horror,NC-17,Hèctor Hernández Vicens,236744
+2050680,The Titan,4.2,Spain,97,18-04-2018,Thriller,NC-17,Lennart Ruff,124200
+2046499,The Shadow Effect,4.6,US,93,18-04-2018,Thriller,R,Amariah Olson,51502
+2051632,Welcome to Willits,3.6,US,84,18-04-2018,Science Fiction,NC-17,Trevor Ryan,84121
+2046118,Avengers: Infinity War,9.3,US,149,25-04-2018,Fantasy,G,Joe Russo,17676575
+2050853,Pyewacket,3.6,Canada,90,25-04-2018,Horror,R,Adam MacDonald,101726
+2048651,The Music of Silence,3.5,Italy,114,04-04-2018,Biography,G,Michael Radford,66925
+2051733,The Big Bad Fox and Other Tales,4.3,Belgium,83,25-04-2018,Fantasy,G,Patrick Imbert,22288
+2050454,I Feel Pretty,5.2,China,110,02-05-2018,Comedy,PG-13,Abby Kohn,427431
+2047836,Overboard,4.6,US,112,03-05-2018,Comedy,R,Rob Greenberg,429991
+2051257,Wildling,3.5,US,92,02-05-2018,Fantasy,NC-17,Fritz Böhm,305306
+2050801,Mission Kathmandu: The Adventures of Nelly & Simon,3.9,Canada,84,02-05-2018,Adventure,G,Pierre Greco,76952
+2046072,The Humanity Bureau,4.2,Canada,95,02-05-2018,Science Fiction,R,Rob W. King,86497
+2051118,Breaking In,4.5,US,88,09-05-2018,Thriller,PG-13,James McTeigue,250103
+2044781,Terminal,4.4,Hong Kong,90,09-05-2018,Drama,NC-17,Vaughn Stein,204086
+2045940,You Were Never Really Here,5.5,France,85,23-06-2016,Drama,R,Lynne Ramsay,140353
+2051322,Bad Samaritan,4.6,US,110,09-05-2018,Horror,R,Dean Devlin,131776
+2051818,Lake Alice,4.3,US,80,02-05-2018,Horror,R,Ben Milliken,66198
+2047722,A Wrinkle in Time,6.3,US,110,16-05-2018,Science Fiction,G,Ava DuVernay,208128
+2048829,Kings,0,Belgium,92,23-05-2018,Drama,R,Deniz Gamze Erguven,54325
+2047634,Show Dogs,5.1,UK,92,31-05-2018,Adventure,G,Raja Gosnell,134466
+2048650,Harb Karmooz,8.1,Egypt,116,16-06-2018,Action,PG-13,Peter Mimi,57634545
+2051037,Lelyt Hana w Sorour,6.5,Egypt,99,16-06-2018,Thriller,PG-13,Hussien El Menbawy,35064058
+2051036,Qalb Ommoh,7.2,Egypt,104,16-06-2018,Comedy,NR,Amr Salah,17160237
+2051400,AL-Abla Tamtam,4.7,Egypt,109,16-06-2018,Comedy,G,Ali Idris,10213416
+2047938,Karma,6.3,Egypt,122,16-06-2018,Drama,PG-13,Khaled Youssef,8108994
+2046544,Jurassic World: Fallen Kingdom,8.1,Spain,128,13-06-2018,Action,G,J.A. Bayona,12501919
+2046647,Incredibles 2,8.6,US,118,13-06-2018,Animation,G,Brad Bird,6330070
+2046028,Ocean's Eight,6.6,US,110,20-06-2018,Crime,G,Gary Ross,3869621
+2047647,Solo: A Star Wars Story,5.8,US,135,20-06-2018,Science Fiction,PG-13,Ron Howard,128737
+2051181,Adrift,6.2,US,96,27-06-2018,Action,G,Baltasar Kormákur,3109586
+2047948,Sicario: Day of the Soldado,6.3,Italy,122,27-06-2018,Crime,NC-17,Stefano Sollima,199620
+2046011,Sgt. Stubby: An American Hero,4.6,Canada,84,27-06-2018,History,G,Richard Lanni,36920
+2047788,Ant-Man and the Wasp,8.1,US,118,04-07-2018,Action,G,Peyton Reed,3597805
+2046092,Deadpool 2,8.2,US,119,27-06-2018,Adventure,R,David Leitch,6768415
+2046233,The First Purge,5.6,US,97,04-07-2018,Science Fiction,NC-17,Gerard McMurray,1693932
+2046149,Escape Plan 2: Hades,4.9,China,93,04-07-2018,Action,PG-13,Steven C. Miller,805872
+2048063,Tag,5.4,US,100,04-07-2018,Comedy,R,Jeff Tomsic,204372
+2047921,Skyscraper,7.9,US,102,11-07-2018,Action,G,Rawson Marshall Thurber,10907091
+2045971,Hotel Transylvania 3: Summer Vacation,7.4,US,97,12-07-2018,Fantasy,G,Genndy Tartakovsky,5532467
+2050539,Hereditary,5.4,US,126,18-07-2018,Drama,NC-17,Ari Aster,1858601
+2047791,Mamma Mia: Here We Go Again!,4.6,US,114,18-07-2018,Musical,G,Ol Parker,1520613
+2051923,Al Ragol Al Akhtar,4.9,Egypt,90,11-07-2018,Comedy,G,Morcous Adel,511253
+2049047,Race 3,7.1,India,166,19-07-2018,Thriller,G,Remo D'Souza,197595
+2046729,Mission: Impossible - Fallout,9.1,US,147,25-07-2018,Thriller,G,Christopher McQuarrie,17772765
+2048672,Loving Pablo,5.1,Bulgaria,123,25-07-2018,Crime,NC-17,Fernando León de Aranoa,370470
+2052334,The Domestics,4,US,95,25-07-2018,Thriller,R,Mike P. Nelson,79398
+2051348,The Darkest Minds,5.8,US,105,01-08-2018,Thriller,PG-13,Jennifer Yuh,1028421
+2050017,The Spy Who Dumped Me,5.6,US,116,01-08-2018,Comedy,NR,Susanna Fogel,903402
+2004022,Gotti,4.4,US,112,01-08-2018,Drama,G,Kevin Connolly,81209
+2052542,Aux,4.6,UK,83,01-08-2018,Action,NC-17,John Adams,110474
+2049438,The Meg,8.1,China,113,09-08-2018,Science Fiction,R,Jon Turteltaub,28222278
+2049935,Billionaire Boys Club,3.9,US,108,08-08-2018,Biography,R,James Cox,146984
+2051875,The Catcher Was a Spy,5.2,US,98,08-08-2018,War,R,Ben Lewin,114461
+2050293,Blindspotting,5.4,US,95,08-08-2018,Drama,R,Carlos López Estrada,104031
+2022171,Turab El Mass,8.3,Egypt,162,16-08-2018,Thriller,NC-17,Marwan Hamed,31436262
+2047852,El-Diesel,3.7,Egypt,93,21-08-2018,Crime,PG-13,Karim El Sobky,24021728
+2049624,El Badla,7.5,Egypt,96,20-08-2018,Drama,NR,Mohamed Gamal Al Adl,67339111
+2051035,El Kowayeseen,5.5,Egypt,124,19-08-2018,Comedy,G,Ahmed El Gendy,21291943
+2049762,Bani Adam,6.9,Egypt,114,18-08-2018,Drama,PG-13,Ahmed Nader Galal,9177121
+2044465,The Equalizer 2,6.5,US,120,15-08-2018,Thriller,PG-13,Antoine Fuqua,2337463
+2049108,Souq Algouma'a,5.9,Egypt,90,19-08-2018,Drama,PG,Sameh Abdel Aziz,3418480
+2048098,Bekia,5.5,Egypt,98,19-08-2018,Comedy,PG-13,Mohamed Hamdy,2567562
+2047949,Christopher Robin,5.8,US,104,15-08-2018,Drama,G,Marc Forster,549889
+2052038,Down a Dark Hall,4.8,Spain,96,24-08-2018,Fantasy,R,Rodrigo Cortés,728830
+2050758,Mile 22,5.6,US,100,29-08-2018,Thriller,R,Peter Berg,1434254
+2050231,Slender Man,4.9,US,93,29-08-2018,Horror,R,Sylvain White,868820
+2047783,Alpha,7,US,96,05-09-2018,Family,G,Albert Hughes,2624362
+2052065,Reprisal,3.8,Canada,94,05-09-2018,Action,R,Brian A. Miller,202458
+2050070,Kin,6,US,102,05-09-2018,Action,R,Josh Baker,116568
+2046908,The Nun,7.2,US,96,12-09-2018,Thriller,R,Corin Hardy,20719930
+2049441,Destination Wedding,4.7,US,105,12-09-2018,Drama,NC-17,James Head,298624
+2050578,The Con is On,3.6,UK,90,12-09-2018,Comedy,PG-13,James Oakley,100048
+2047137,Johnny English Strikes Again,7.7,France,88,19-09-2018,Action,G,David Kerr,2901029
+2043708,The Predator,4.4,Canada,101,19-09-2018,Horror,R,Shane Black,808717
+2048213,A Simple Favor,5.8,US,117,19-09-2018,Drama,PG-13,Paul Feig,582590
+2048965,Teen Titans Go! To the Movies,4,US,92,19-09-2018,Comedy,G,Peter Rida Michail,218186
+2052683,The Lullaby,4,US,86,19-09-2018,Horror,NC-17,Darrell Roodt,313085
+2046137,Final Score,4.3,UK,104,19-09-2018,Action,R,Scott Mann,74832
+2049932,Yomeddine,8.1,Austria,97,24-09-2018,Adventure,G,Abu Bakr Shawky,1093737
+2048680,Night School,5.8,US,111,26-09-2018,Comedy,PG-13,Malcolm D. Lee,1040536
+2048141,The House with a Clock in its Walls,5.6,US,104,26-09-2018,Fantasy,G,Eli Roth,935874
+2050069,Peppermint,5.4,US,105,26-09-2018,Drama,R,Pierre Morel,656323
+2051920,Searching,6.8,US,102,26-09-2018,Thriller,R,Aneesh Chaganty,308394
+2050299,211,4.9,US,90,26-09-2018,Drama,NC-17,York Alec Shackleton,76661
+2047677,Venom,8.4,US,112,04-10-2018,Action,R,Ruben Fleischer,13770017
+2048167,Eyar Nari,6.8,Egypt,97,03-10-2018,Crime,R,Karim El Shenawy,7181345
+2049771,Smallfoot,6.8,US,109,03-10-2018,Adventure,G,Karey Kirkpatrick,2024861
+2047672,A Star Is Born,7.8,US,136,10-10-2018,Drama,R,Bradley Cooper,3831028
+2050880,Bad Times at the El Royale,6.1,US,141,10-10-2018,Thriller,PG-13,Drew Goddard,538700
+2051615,In Darkness,5.1,UK,100,10-10-2018,Thriller,R,Anthony Byrne,336848
+2052066,The Princess and the Dragon,5.1,Russia,75,10-10-2018,Animation,G,Marina Nefedova,100323
+2048375,First Man,6.2,US,138,17-10-2018,History,G,Damien Chazelle,818112
+2051546,Kedba Bidaa (Masrycany),6.3,Egypt,100,17-10-2018,Comedy,PG-13,Noor Arnaoot (Noor Helal),1832354
+2050858,Goosebumps 2: Haunted Halloween,6.8,Australia,90,18-10-2018,Horror,G,Ari Sandel,604006
+2052215,The Little Witch,6.1,Switzerland,103,17-10-2018,Family,G,Mike Schaerer,66232
+2052786,Teefa In Trouble,3.9,Pakistan,135,17-10-2018,Action,G,Ahsan Rahim,48410
+2047310,Hunter Killer,8.6,China,121,24-10-2018,Action,G,Donovan Marsh,6882012
+2049001,Halloween,6.6,US,109,24-10-2018,Horror,NC-17,David Gordon Green,3537267
+2051738,Crazy Rich Asians,6.5,US,120,24-10-2018,Comedy,NR,Jon M. Chu,743720
+2052419,King of Thieves,4.2,UK,108,24-10-2018,Drama,G,James Marsh,331605
+2051663,Masha and the Bear,4.1,Russia,90,24-10-2018,Animation,G,Oleg Kuzovkov,103400
+2049937,The Nutcracker and the Four Realms,6.1,US,100,31-10-2018,Adventure,G,Lasse Hallström,1104390
+2053553,Hell Fest,6.4,US,96,31-10-2018,Horror,NC-17,Gregory Plotkin,465150
+2053793,Kill Game,4.9,US,102,31-10-2018,Horror,NC-17,Robert Mearns,232025
+2050615,Book Club,4.3,US,104,31-10-2018,Comedy,R,Bill Holderman,67147
+2052593,Overlord,7,US,109,07-11-2018,Action,NC-17,Julius Avery,930886
+2035383,The Grinch,6.1,China,90,07-11-2018,Family,G,Yarrow Cheney,1701214
+2050018,The Girl in the Spider's Web,5.9,Canada,117,08-11-2018,Drama,PG-13,Fede Alvarez,317005
+2051183,Thugs of Hindostan,7.1,India,175,08-11-2018,Action,G,Vijay Krishna Acharya,308043
+2034175,Fantastic Beasts: The Crimes of Grindelwald,7.6,UK,133,15-11-2018,Adventure,G,David Yates,6874602
+2048688,Bohemian Rhapsody,8.2,UK,134,14-11-2018,Drama,G,Bryan Singer,2596546
+2052327,Boarding School,4.7,US,111,14-11-2018,Horror,R,Boaz Yakin,129901
+2054501,Cinderella and the Secret Prince,4.4,US,90,14-11-2018,Fantasy,G,Lynne Southerland,70564
+2048088,Robin Hood,7.9,US,116,21-11-2018,Action,PG-13,Otto Bathurst,4035392
+2046674,Ralph Breaks the Internet,8,US,112,21-11-2018,Comedy,G,Phil Johnston,3307927
+2054230,Welcome Home,4.5,US,94,21-11-2018,Thriller,R,George Ratliff,180006
+2055076,Awaken the Shadowman,3.9,US,90,21-11-2018,Horror,NC-17,J.S. Wilson,173205
+2048968,Widows,6.3,UK,128,28-11-2018,Drama,PG-13,Steve McQueen,1661250
+2055099,Malicious,5.1,US,90,28-11-2018,Thriller,R,Michael Winnick,857084
+2050940,Instant Family,6,US,118,28-11-2018,Comedy,G,Sean Anders,1604036
+2048139,Papillon,6.5,Malta,133,28-11-2018,Drama,R,Michael Noer,288996
+2054537,The Possession of Hannah Grace,6.3,US,86,05-12-2018,Horror,NC-17,Diederik Van Rooijen,4838573
+2046764,Mortal Engines,7,New Zealand,129,05-12-2018,Action,G,Christian Rivers,1406001
+2050437,Ben Is Back,6.2,US,103,05-12-2018,Drama,G,Peter Hedges,285907
+2053551,A Private War,5.3,UK,106,05-12-2018,War,R,Matthew Heineman,199789
+2049767,Green Book,6.9,US,130,21-11-2018,Drama,G,Peter Farrelly,125114
+2054502,Cats,3.7,China,105,05-12-2018,Animation,G,Gary Wang,40261
+2048087,Creed II,8.2,US,130,12-12-2018,Drama,G,Steven Caple Jr.,3110200
+2049931,Spider-Man: Into the Spider-Verse,8.2,US,117,13-12-2018,Comedy,G,Bob Persichetti,2630647
+2054492,Incident in a Ghostland,4.8,Canada,91,12-12-2018,Thriller,R,Pascal Laugier,164441
+2052418,Beautiful Boy,6.1,US,120,12-12-2018,Drama,R,Felix Van Groeningen,60776
+2047086,Aquaman,8.8,Australia,143,19-12-2018,Adventure,G,James Wan,23681398
+2050756,Layl/ Khariji,6.1,United Arab Emirates,98,19-12-2018,Drama,R,Ahmed Abdullah,709307
+2043715,Mary Poppins Returns,6,US,130,24-12-2018,Musical,G,Rob Marshall,1241522
+2055477,The Super,5.4,US,110,19-12-2018,Thriller,NC-17,Stephan Rick,126632
+2053554,Ghost Stories,4,UK,98,19-12-2018,Horror,R,Jeremy Dyson,71431
+2047743,Bumblebee,6.8,US,113,26-12-2018,Science Fiction,G,Travis Knight,1525117
+2048970,Second Act,5.3,US,103,26-12-2018,Comedy,NR,Peter Segal,1052047
+2051013,Zero,8.4,India,164,26-12-2018,Romance,NR,Anand L. Rai,1000294
+2046434,The Little Mermaid,4.3,US,85,26-12-2018,Fantasy,G,Blake Harris,344799
+2053704,I Still See You,4.1,US,98,26-12-2018,Thriller,PG-13,Scott Speer,70701
+2049915,122,6.5,Egypt,95,02-01-2019,Thriller,NC-17,Yasser Al Yasseri,24808161
+2050591,Saeat Reda,5.1,Egypt,33,09-01-2019,Comedy,R,Hani Hamdy,3141008
+2050051,The Guest,6.3,Egypt,99,08-01-2019,Drama,NR,Hadi El Bagoury,7507774
+2052495,Omar Khresto,3.6,Egypt,90,02-01-2019,Drama,G,Seif Youssef,885110
+2055393,Christmas Break-In,5.4,US,87,02-01-2019,Family,G,Michael Kampa,77381
+2048662,The Sisters Brothers,4.8,France,121,02-01-2019,Western,PG-13,Jacques Audiard,71757
+2048089,Holmes & Watson,3.2,US,89,09-01-2019,Mystery,PG-13,Etan Cohen,175438
+2055394,Malevolent,5.1,UK,89,09-01-2019,Horror,R,Olaf de Fleur Johannesson,173348
+2055687,Mia and the White Lion,5.2,Germany,98,09-01-2019,Family,PG,Gilles de Maistre,120591
+2047427,Glass,6.7,US,129,16-01-2019,Drama,PG-13,M. Night Shyamalan,9770101
+2050062,Qarmat Bitamrmat,5.9,Egypt,110,16-01-2019,Comedy,G,Assad Fouladkar,4101246
+2055630,Cold Skin,4.2,Spain,108,16-01-2019,Adventure,R,Xavier Gens,101010
+2052333,Zoe,3.8,US,104,16-01-2019,Science Fiction,NC-17,Drake Doremus,45890
+2051055,Nadi El-Regal El-Serri,8.1,Egypt,105,23-01-2019,Comedy,PG-13,Khaled El Halafawy,59719314
+2048085,How to Train Your Dragon: The Hidden World,8.6,US,104,23-01-2019,Fantasy,NR,Dean DeBlois,3970003
+2048041,Destroyer,4.7,US,123,23-01-2019,Thriller,R,Karyn Kusama,204973
+2048676,On the Basis of Sex,6.3,US,120,23-01-2019,Drama,G,Mimi Leder,85965
+2047853,Serenity,5.3,US,106,30-01-2019,Drama,PG-13,Steven Knight,419810
+2048678,Replicas,6.1,China,107,30-01-2019,Science Fiction,R,Jeffrey Nachmanoff,330562
+2054325,A Dog's Way Home,7.3,US,96,30-01-2019,Adventure,G,Charles Martin Smith,494188
+2048144,Mary Queen of Scots,3.9,UK,124,30-01-2019,Biography,PG-13,Josie Rourke,172032
+2055923,Dragon Ball Super: Broly,7.1,Japan,100,30-01-2019,Fantasy,R,Tatsuya Nagamine,61414
+2055629,Simmba,5.5,India,158,30-01-2019,Drama,G,Rohit Shetty,48487
+2046730,Cold Pursuit,5.9,UK,98,06-02-2019,Thriller,R,Hans Petter Moland,1791358
+2054430,The Prodigy,7.4,Hong Kong,91,06-02-2019,Thriller,NC-17,Nicholas McCarthy,990700
+2048666,The Upside,7.9,US,118,06-02-2019,Drama,R,Neil Burger,1498997
+2052206,The Lego Movie 2: The Second Part,7.1,US,107,07-02-2019,Adventure,PG-13,Trisha Gum,911451
+2055754,BTS World Tour: Love Yourself in Seoul,9.7,South Korea,130,26-01-2019,Documentary,G,BTS,67498
+2056037,VS.,3.5,UK,99,06-02-2019,Musical,R,Ed Lilly,11771
+2052323,Qesat Hob,8.4,Egypt,125,13-02-2019,Romance,G,Othman Abu Laban,11159600
+2046038,Alita: Battle Angel,8.7,Argentina,122,13-02-2019,Science Fiction,PG-13,Robert Rodriguez,3991432
+2054428,Happy Death Day 2U,6.2,US,100,13-02-2019,Thriller,PG-13,Christopher Landon,733985
+2051193,Eish Hayatak,7.2,Egypt,110,13-02-2019,Romance,G,Tamer Bassiouni,468209
+2050421,Garemet Al Immobilia,6.2,Egypt,123,14-12-2016,Thriller,PG-13,Khaled El Hagar,646020
+2054257,The Mule,5.5,US,116,20-02-2019,Crime,R,Clint Eastwood,414009
+2051493,Upgrade,7.4,Australia,95,20-02-2019,Thriller,NC-17,Leigh Whannell,110004
+2056018,Snowtime 2: Race Time,4.3,Canada,89,20-02-2019,Comedy,G,Benoît Godbout,52634
+2054429,Escape Room,7.5,Canada,99,27-02-2019,Action,R,Adam Robitel,3711560
+2048025,Fighting with My Family,6.2,UK,108,27-02-2019,Comedy,PG-13,Stephen Merchant,1493790
+2053516,What Men Want,5.9,US,117,20-02-2019,Comedy,NC-17,Adam Shankman,1035831
+2047960,Vice,6,US,132,27-02-2019,Biography,R,Adam McKay,70138
+2050130,What They Had,5.3,US,101,20-02-2019,Drama,R,Elizabeth Chomko,14301
+2034204,Captain Marvel,8.1,US,124,06-03-2019,Action,G,Ryan Fleck,11248050
+2046671,The Vanishing,2.7,UK,101,06-03-2019,Thriller,R,Kristoffer Nyholm,549773
+2047345,Drunk Parents,3.8,US,100,06-03-2019,Comedy,PG-13,Fred Wolf,98125
+2056125,The Hole in the Ground,5.1,Ireland,90,13-03-2019,Horror,PG-13,Lee Cronin,412170
+2052722,Wonder Park,4.4,Spain,85,13-03-2019,Comedy,G,Dylan Brown,1179580
+2056545,Look Away,4.4,Canada,103,13-03-2019,Horror,NC-17,Assaf Bernstein,280735
+2050514,Greta,5.3,Ireland,98,13-03-2019,Drama,R,Neil Jordan,130167
+2055688,Minuscule - Mandibles from Far Away,4.9,China,92,13-03-2019,Family,NR,Hélène Giraud,11586
+2055472,Us,6.4,US,120,20-03-2019,Thriller,R,Jordan Peele,3114337
+2050431,Hotel Mumbai,6.1,Australia,125,20-03-2019,Drama,NC-17,Anthony Maras,609828
+2046728,Capernaum,8,France,120,20-03-2019,Drama,NC-17,Nadine Labaki,149702
+2054760,A Madea Family Funeral,4.3,US,110,20-03-2019,Comedy,R,Tyler Perry,47390
+2049832,Ana y Bruno,4.2,Mexico,96,20-03-2019,Adventure,R,Carlos Carrera,12894
+2047738,Dumbo,6.3,US,130,27-03-2019,Animation,G,Tim Burton,1894045
+2042417,The American Game,3.2,Egypt,91,27-03-2019,Comedy,NR,Mostafa Abou Seif,652987
+2051630,Five Feet Apart,7.3,US,116,27-03-2019,Drama,G,Justin Baldoni,803268
+2054761,The Quake,4.9,Norway,106,27-03-2019,Thriller,PG-13,John Andreas Andersen,319874
+2053547,Above Suspicion,4.7,US,104,27-03-2019,Thriller,R,Phillip Noyce,135001
+2051846,Arctic,5.2,Iceland,97,27-03-2019,Drama,PG-13,Joe Penna,120002
+2051329,Downrange,4.2,US,90,27-03-2019,Horror,NR,Ryûhei Kitamura,98495
+2047740,Khat Al-Mout,5,Egypt,90,27-03-2019,Action,R,Mohamed Adel,43106
+2048061,Shazam!,8.2,US,132,04-04-2019,Fantasy,G,David F. Sandberg,6294779
+2051719,Pet Sematary,6.8,US,110,03-04-2019,Thriller,NC-17,Kevin Kolsch,2323908
+2047911,The Professor And The Madman,6.6,Ireland,124,03-04-2019,Drama,G,Farhad Safinia,430781
+2018733,Daght A'aly,4,Egypt,105,03-04-2019,Comedy,PG-13,Abdul Aziz Hashad,453893
+2047094,Speed Kills,3.5,US,102,03-04-2019,Crime,R,John Luessenhop,132101
+2047999,Hellboy,6.6,US,148,10-04-2019,Adventure,NC-17,Neil Marshall,857125
+2050122,The Command,4.7,Belgium,117,10-04-2019,Drama,G,Thomas Vinterberg,225720
+2055064,Show Day,4.1,Egypt,79,10-04-2019,Thriller,G,Bebars El Shahawy,129026
+2045931,Captive State,5.9,US,109,10-04-2019,Thriller,PG-13,Rupert Wyatt,94067
+2054431,The Curse of La Llorona,7,US,93,17-04-2019,Mystery,NC-17,Michael Chaves,2965177
+2055122,After,7.8,US,110,17-04-2019,Romance,R,Jenny Gage,983431
+2050653,Kazanova,4,Egypt,101,17-04-2019,Romance,PG-13,Osama Fadel,273184
+2046953,Triple Threat,5.2,China,96,28-11-2018,Action,R,Jesse V. Johnson,122217
+2048007,Mission of Honor,5.1,UK,107,17-04-2019,War,NR,David Blair,82908
+2054992,Missing Link,5.6,Canada,93,17-04-2019,Family,PG,Chris Butler,90505
+2055659,Teen Spirit,5.1,UK,92,17-04-2019,Musical,PG-13,Max Minghella,57594
+2057456,Ouija Seance: The Final Game,3.9,Italy,81,17-04-2019,Horror,NR,Andrea Magnani,178342
+2032663,Avengers: Endgame,9.5,US,182,24-04-2019,Science Fiction,G,Anthony Russo,29403572
+2050851,The Hummingbird Project,5.2,Belgium,111,24-04-2019,Drama,G,Kim Nguyen,148039
+2047864,Dragged Across Concrete,4.7,Canada,159,24-04-2019,Action,R,S. Craig Zahler,142430
+2056517,The Knight of Shadows: Between Yin and Yang,3.3,China,108,24-04-2019,Action,NR,Vash,83007
+2050760,"Extremely Wicked, Shockingly Evil and Vile",6.4,US,110,01-05-2019,Crime,R,Joe Berlinger,283430
+2056778,The Intruder,4.3,US,102,02-05-2019,Drama,R,Deon Taylor,111416
+2047126,A Vigilante,3.2,US,91,01-05-2019,Thriller,R,Sarah Daggar-Nickson,51780
+2055065,Backtrace,4.9,Canada,92,08-05-2019,Drama,G,Brian A. Miller,96007
+2054971,UglyDolls,4.2,Canada,87,08-05-2019,Animation,G,Kelly Asbury,69896
+2057390,A Dog's Journey,6.8,US,108,15-05-2019,Family,G,Gail Mancuso,511007
+2047729,Aladdin,9.1,US,128,22-05-2019,Romance,G,Guy Ritchie,36696101
+2054027,Casablanca,7.8,Egypt,104,04-06-2019,Action,PG-13,Peter Mimi,79156808
+2051732,El-Mamarr,8.4,Egypt,150,04-06-2019,Drama,G,Sherif Arafa,74495223
+2046494,Godzilla: King of the Monsters,7.5,Japan,132,30-05-2019,Horror,PG-13,Michael Dougherty,6637581
+2055503,Sab'e Alboromba,6.7,Egypt,92,04-06-2019,Comedy,G,Mahmoud Karim,35082656
+2052708,Hamlet Pharoan,5.5,Egypt,110,04-06-2019,Thriller,PG-13,Raouf Abdul Aziz,18574977
+2052720,Mohamed Hussein,6.2,Egypt,96,04-06-2019,Action,G,Muhammad Ali,4790605
+2056513,Ma,5.8,US,98,29-05-2019,Thriller,R,Tate Taylor,252784
+2051123,John Wick: Chapter 3 - Parabellum,8.5,US,130,04-06-2019,Action,NC-17,Chad Stahelski,5420122
+2047824,Dark Phoenix,7.7,US,161,12-06-2019,Science Fiction,G,Simon Kinberg,2451366
+2046437,The Secret Life of Pets 2,6.7,US,86,12-06-2019,Family,G,Chris Renaud,1277606
+2055373,Brightburn,5.6,US,91,13-06-2019,Horror,R,David Yarovesky,330622
+2051582,Toy Story 4,7.6,US,100,20-06-2019,Comedy,G,Josh Cooley,9502270
+2050972,Men in Black: International,6.8,US,115,19-06-2019,Science Fiction,G,F. Gary Gray,3160036
+2055084,Child's Play,6.4,US,120,20-06-2019,Horror,R,Lars Klevberg,979220
+2048900,Long Shot,5.8,US,125,19-06-2019,Comedy,R,Jonathan Levine,237341
+2056289,Rocketman,5.3,Canada,121,19-06-2019,Musical,NC-17,Dexter Fletcher,50415
+2055748,Annabelle Comes Home,6.9,US,106,27-06-2019,Horror,R,Gary Dauberman,12101584
+2049167,The Hustle,6,US,94,26-06-2019,Comedy,R,Chris Addison,497057
+2056281,Qahwat Bursat Misr,4,Egypt,90,26-06-2019,Drama,G,Ahmed Nour,197535
+2051572,Yesterday,6,UK,112,26-06-2019,Comedy,G,Danny Boyle,103951
+2050221,Spider-Man: Far From Home,9.1,US,135,04-07-2019,Action,G,Jon Watts,13991187
+2050402,Anna,6.3,France,119,03-07-2019,Action,R,Luc Besson,378325
+2046883,Polaroid,5.4,Norway,82,03-07-2019,Horror,PG-13,Lars Klevberg,312494
+2055826,The Amityville Murders,4.7,US,97,10-07-2019,Horror,NC-17,Daniel Farrands,469761
+2055059,Pokémon Detective Pikachu,6.9,Japan,105,10-07-2019,Adventure,G,Rob Letterman,673696
+2047673,The Lion King,7,US,118,17-07-2019,Family,G,Jon Favreau,20672986
+2058492,Lying and Stealing,4.1,US,100,17-07-2019,Crime,NC-17,Matt Aselton,237767
+2057549,Step Up China,4,China,100,17-07-2019,Musical,G,Ron Yuan,125663
+2054468,El Feel El Azraq 2,8.7,Egypt,130,25-07-2019,Crime,G,Marwan Hamed,103633291
+2057751,Crawl,6.9,US,87,24-07-2019,Thriller,R,Alexandre Aja,2288463
+2057341,Stuber,4.5,US,105,24-07-2019,Comedy,PG-13,Michael Dowse,642370
+2009169,Escape Plan: The Extractors,5.3,US,97,24-07-2019,Action,R,John Herzfeld,143008
+2052594,Fast & Furious presents: Hobbs & Shaw,8,US,134,31-07-2019,Action,G,David Leitch,23618594
+2057532,T-34,4.3,Belarus,139,24-07-2019,Action,R,Aleksey Sidorov,2839
+2057176,The Convent,4.5,UK,81,31-07-2019,History,NC-17,Paul Hyett,412431
+2052471,Welad Rizk 2: A'wdat Osoud Al-Ard,8,Egypt,128,08-08-2019,Drama,PG-13,Tareq El Eryan,100753422
+2056773,Khayaal Ma'atah,5.4,Egypt,126,12-08-2019,Comedy,G,Khaled Marei,38440061
+2048727,El Kenz 2: Al-Hobb wa Al-Maseer,7.3,Egypt,128,07-10-2015,History,G,Sherif Arafa,6141568
+2057823,Anta Habiby We Bas,2.7,Egypt,81,10-08-2019,Comedy,PG-13,Ahmed Al Badry,3729735
+2056632,The Angry Birds Movie 2,7.9,Finland,99,07-08-2019,Adventure,G,Thurop Van Orman,892085
+2058563,Bring The Soul: The Movie,8.8,South Korea,103,08-08-2019,Musical,NR,Jun-Soo Park,183601
+2057042,Dora and the Lost City of Gold,6.5,Australia,102,15-08-2019,Family,G,James Bobin,2518800
+2049132,Angel Has Fallen,7.3,US,120,21-10-2015,Action,R,Ric Roman Waugh,8459381
+2049547,Once Upon a Time in Hollywood,7.1,UK,159,21-08-2019,Drama,R,Quentin Tarantino,3517276
+2058301,Ready or Not,6.5,US,95,21-08-2019,Horror,NC-17,Tyler Gillett,876482
+2047113,The Current War,6.2,US,105,21-08-2019,History,G,Alfonso Gomez-Rejon,54692
+2048685,47 Meters Down: Uncaged,6.3,UK,90,28-08-2019,Horror,PG-13,Johannes Roberts,4048390
+2051243,The Kitchen,5.8,US,103,28-08-2019,Drama,R,Andrea Berloff,196229
+2056264,The Art of Racing in the Rain,6.8,US,109,28-08-2019,Comedy,PG-13,Simon Curtis,181847
+2056237,Midsommar,5.6,US,140,28-08-2019,Thriller,NC-17,Ari Aster,111789
+2058625,Super Bear,3.9,US,85,28-08-2019,Animation,G,Wang Qi,57055
+2051628,It: Chapter Two,6.7,US,165,05-09-2019,Horror,NC-17,Andres Muschietti,7467486
+2051707,After the Wedding,5.7,US,110,05-09-2019,Drama,G,Bart Freundlich,85381
+2057939,The Big Trip,4,Russia,90,04-09-2019,Family,G,Vasiliy Rovenskiy,120430
+2055471,Playmobil: The Movie,5.1,Germany,109,04-09-2019,Fantasy,G,Lino DiSalvo,38716
+2055530,"Where'd You Go, Bernadette",5.5,US,130,04-09-2019,Drama,PG-13,Richard Linklater,42848
+2056290,Scary Stories to Tell in the Dark,5.9,US,111,11-09-2019,Horror,R,André Øvredal,880238
+2056976,Official Secrets,4.8,UK,105,11-09-2019,Thriller,G,Gavin Hood,121902
+2056547,The Queen's Corgi,5.5,Belgium,92,11-09-2019,Animation,G,Ben Stassen,140220
+2046608,Night Hunter,5.1,Canada,98,11-09-2019,Thriller,R,David Raymond,36233
+2047678,Ad Astra,5.8,Brazil,124,18-09-2019,Thriller,PG-13,James Gray,2490208
+2055741,Rambo 5: Last Blood,6.9,US,100,18-09-2019,Thriller,R,Adrian Grunberg,1591440
+2055490,Downton Abbey,6.7,UK,122,18-09-2019,Drama,G,Michael Engler,159906
+2059307,Strange But True,5.4,Canada,96,18-09-2019,Thriller,PG-13,Rowan Athale,46682
+2055736,The Informer,5.8,UK,113,25-09-2019,Drama,R,Andrea Di Stefano,315390
+2056426,Abominable,4.6,China,92,25-09-2019,Fantasy,G,Jill Culton,1290340
+2051161,The Goldfinch,4.3,US,149,25-09-2019,Drama,R,John Crowley,111359
+2055963,The Poison Rose,3.7,Italy,98,25-09-2019,Thriller,G,Francesco Cinquemani,113115
+2059503,The Rookies,4.3,China,113,25-09-2019,Action,PG,Alan Yuen,38865
+2050683,Joker,8.7,US,122,03-10-2019,Crime,NR,Todd Phillips,40009640
+2058370,El Tayeb We Elshares We Elaoob,5,Egypt,99,02-10-2019,Comedy,NR,Ramy Rizkallah,989251
+2045624,A Shaun the Sheep Movie: Farmageddon,5.2,France,86,02-10-2019,Animation,G,Will Becher,262416
+2054491,Prey,5.1,US,85,02-10-2019,Thriller,PG-13,Franck Khalfoun,67184
+2050334,Gemini Man,7.3,China,117,09-10-2019,Science Fiction,PG-13,Ang Lee,8520248
+2058444,Play or Die,4.3,Belgium,89,09-10-2019,Horror,NC-17,Jacques Kluger,152114
+2057695,Cold Blood,4.8,France,91,09-10-2019,Thriller,G,Frédéric Petitjean,79299
+2058070,The Terror of Hallow's Eve,3.9,US,80,09-10-2019,Thriller,NR,Todd Tucker,166688
+2057826,The Farewell,6.6,US,98,09-10-2019,Comedy,PG,Lulu Wang,25611
+2048392,Maleficent: Mistress of Evil,8.4,US,120,16-10-2019,Fantasy,G,Joachim Rønning,12560675
+2055738,Zombieland: Double Tap,6.4,US,99,17-10-2019,Horror,R,Ruben Fleischer,1015572
+2059024,Jexi,6.4,US,84,16-10-2019,Comedy,PG-13,Jon Lucas,316711
+2059750,Enta Eih,5.1,Egypt,80,16-10-2019,Comedy,NR,Hala Al Madani,162488
+2052991,Bein Bahrain,5.3,Egypt,88,16-10-2019,Drama,PG-13,Anas Tolba,49008
+2054123,Lama Benetweled,6.7,Egypt,110,23-10-2019,Drama,R,Tamer Ezzat,493525
+2059310,Mary,5.5,US,84,23-10-2019,Horror,R,Michael Goi,266726
+2050286,Killerman,5.8,US,112,23-10-2019,Mystery,R,Malik Bader,171840
+2059672,The Big Wish,4.3,Mexico,90,23-10-2019,Fantasy,PG-13,Carlos Gutiérrez Medrano,115418
+2059149,Trouble,4.3,Canada,87,23-10-2019,Animation,G,Kevin Johnson,75158
+2051017,Terminator: Dark Fate,7,China,134,30-10-2019,Science Fiction,PG-13,Tim Miller,2693516
+2059395,Countdown,6.5,US,90,30-10-2019,Horror,PG-13,Justin Dec,1551618
+2055742,The Addams Family,5.6,Canada,105,30-10-2019,Fantasy,G,Greg Tiernan,465311
+2059052,"Berlin, I Love You",5.7,Germany,120,30-10-2019,Drama,G,Fernando Eimbcke,68491
+2056266,Doctor Sleep,6.8,US,153,06-11-2019,Horror,NC-17,Mike Flanagan,3153838
+2057189,Playing with Fire,5.9,US,96,06-11-2019,Comedy,G,Andy Fickman,1212897
+2052592,Midway,7.2,US,131,06-11-2019,History,G,Roland Emmerich,776958
+2059819,Arctic Dogs,4.3,US,95,06-11-2019,Animation,G,Aaron Woodley,88438
+2047139,Charlie's Angels,7.5,US,119,14-11-2019,Comedy,G,Elizabeth Banks,2021752
+2054331,Ford v. Ferrari / Le Mans' 66,8.1,US,152,13-11-2019,Drama,G,James Mangold,2371624
+2058878,Haunt,5.4,US,92,13-11-2019,Thriller,NR,Scott Beck,743403
+2047628,Frozen II,8,US,103,20-11-2019,Musical,G,Chris Buck,12158329
+2055749,Last Christmas,7.4,UK,103,20-11-2019,Romance,PG-13,Paul Feig,3120395
+2057573,21 Bridges,5.4,US,99,20-11-2019,Thriller,PG-13,Brian Kirk,641277
+2059315,Behind the Trees,5.7,US,86,20-11-2019,Mystery,NR,Vikram Jayakumar,208042
+2055971,Knives Out,8.1,US,130,27-11-2019,Thriller,G,Rian Johnson,4101685
+2046556,Born a King,6.4,Spain,105,27-11-2019,Drama,G,Agustí Villaronga,119342
+2060146,One Piece: Stampede,7.1,Japan,101,27-11-2019,Adventure,G,Atsuhiro Tomioka,26678
+2057631,A Score to Settle,5.1,Canada,103,04-12-2019,Thriller,PG-13,Shawn Ku,505683
+2051157,The Good Liar,5.9,US,109,04-12-2019,Drama,R,Bill Condon,221276
+2059882,Code 8,6,Canada,98,04-12-2019,Science Fiction,G,Jeff Chan,242566
+2059458,Dark Waters,4.9,US,126,04-12-2019,History,G,Todd Haynes,121800
+2054499,Up and Away,3.4,Denmark,81,04-12-2019,Family,G,Karsten Kiilerich,33828
+2051750,Jumanji: The Next Level,8.2,US,114,11-12-2019,Adventure,G,Jake Kasdan,28695323
+2059322,Black Christmas,5.7,New Zealand,92,11-12-2019,Mystery,R,Sophia Takal,612058
+2054216,Estedaa Wale Amr,3.7,Egypt,98,11-12-2019,Romance,G,Ahmed Al Badry,448159
+2046552,Biat set,5,Egypt,77,11-12-2019,Horror,R,Ahmed Adel Aqel,566522
+2058936,10 Minutes Gone,4,Canada,89,11-12-2019,Drama,R,Brian A. Miller,184191
+2049131,Judy,5.1,UK,118,11-12-2019,Biography,G,Rupert Goold,27148
+2060551,The Work Wife,4.3,US,86,11-12-2019,Crime,NR,Michael Feifer,18255
+2059016,Bombshell,5,Canada,108,19-12-2019,Drama,R,Jay Roach,223390
+2051130,Star Wars: The Rise of Skywalker,6.8,US,155,18-12-2019,Action,G,J.J. Abrams,1696021
+2050596,We Die Young,4.3,Bulgaria,92,18-12-2019,Drama,R,Lior Geller,70056
+2060596,Bernie the Dolphin 2,4.1,Canada,99,18-12-2019,Action,G,Kirk Harris,24157
+2055129,El Feloos,6.7,Egypt,118,24-12-2019,Thriller,PG-13,Saeed El Marouk,47856702
+2049130,Spies in Disguise,7.9,US,102,25-12-2019,Family,PG-13,Nick Bruno,2363814
+2059734,The Courier,4.8,UK,99,25-12-2019,Thriller,R,Zackary Adler,176415
+2051688,The Grudge,4.8,Canada,93,01-01-2020,Horror,NC-17,Nicolas Pesce,3670981
+2048380,The Professor,4.9,US,90,01-01-2020,Comedy,R,Wayne Roberts,158321
+2055739,Cats,4.6,UK,109,01-01-2020,Musical,PG-13,Tom Hooper,136686
+2057952,Four-Wheel Drive,3.9,Egypt,95,01-01-2020,Thriller,PG-13,Ehab Abdel Latif,140055
+2060143,Banat Sanawy,5.4,Egypt,99,06-01-2020,Comedy,PG-13,Mahmoud Kamel,7904611
+2056239,1917,7.9,UK,119,08-01-2020,Drama,PG-13,Sam Mendes,5558191
+2053246,Yom W Leila,5.4,Egypt,99,06-01-2020,Drama,R,Ayman Makram,2824834
+2050064,Underwater,6,US,95,08-01-2020,Action,G,William Eubank,1676070
+2059388,Like a Boss,4.3,US,83,08-01-2020,Comedy,PG-13,Miguel Arteta,275758
+2044344,Bad Boys for Life,8.3,US,113,16-01-2020,Thriller,PG-13,Adil El Arbi,13107745
+2051337,Dolittle,7.5,US,106,15-01-2020,Comedy,G,Stephen Gaghan,6148398
+2051585,Ip Man 4: The Finale,6.4,China,105,15-01-2020,Action,PG-13,Wilson Yip,111695
+2060749,Masameer the Movie,5.5,Saudi Arabia,110,15-01-2020,Comedy,G,Malek Nejer,29042
+2055660,Ballon,4.3,Germany,125,15-01-2020,Thriller,G,Michael Herbig,5986
+2052844,Lees Baghdad,6.9,Egypt,102,22-01-2020,Comedy,PG-13,Ahmed Khaled Mousa,33224245
+2051129,The Turning,5.2,US,100,22-01-2020,Drama,R,Floria Sigismondi,736772
+2058509,The Gentlemen,6.4,US,113,22-01-2020,Crime,NR,Guy Ritchie,1247464
+2058937,A Hidden Life,6.5,Germany,173,22-01-2020,Drama,NR,Terrence Malick,67092
+2052679,Demagh Shetan,4.1,Egypt,82,22-01-2020,Drama,R,Karim Ismail,86479
+2052483,Little Women,7.1,US,135,30-01-2020,Drama,G,Greta Gerwig,488998
+2051340,Jojo Rabbit,6.2,US,108,29-01-2020,Drama,R,Taika Waititi,228159
+2058423,The Knight and the Princess,7.9,Egypt,95,29-01-2020,Animation,G,Bashir El Deek,143385
+2049940,The Last Full Measure,5.9,US,110,29-01-2020,War,R,Todd Robinson,39622
+2060260,The Great Alaskan Race,4.9,US,87,29-01-2020,History,G,Brian Presley,30698
+2053987,Ra’s El Sana,4.8,Egypt,105,05-02-2020,Drama,NC-17,Muhammed Saqr,3038141
+2056007,Birds of Prey,7,US,110,06-02-2020,Action,R,Cathy Yan,2851067
+2059290,Gretel and Hansel,6,US,87,05-02-2020,Thriller,NR,Oz Perkins,241440
+2052474,Sonic the Hedgehog,7.8,Canada,110,12-02-2020,Adventure,G,Jeff Fowler,2606740
+2057261,Fantasy Island,5.5,US,110,13-02-2020,Adventure,R,Jeff Wadlow,1391645
+2059463,Ordinary Love,4.6,UK,92,12-02-2020,Romance,PG-13,Glenn Leyburn,109210
+2060686,Norm of the North: King Sized Adventure,4.3,China,90,12-02-2020,Animation,G,Tim Maltby,23747
+2056194,Brahms: The Boy II,4.9,US,86,19-02-2020,Horror,R,William Brent Bell,2384139
+2059355,Sundooq Al Dunya,4.6,Egypt,90,19-02-2020,Drama,NC-17,Emad Al Bahhat,1050979
+2059821,The Room,4.9,Belgium,100,19-02-2020,Drama,R,Christian Volckman,151677
+2060258,Kill Chain,3.9,US,91,19-02-2020,Action,R,Ken Sanzel,112282
+2061023,Terra Willy,0,France,89,19-02-2020,Comedy,G,Eric Tosti,41961
+2060136,The Invisible Man,7.9,Australia,110,26-02-2020,Thriller,R,Leigh Whannell,5078100
+2056265,The Call of the Wild,6.4,US,100,26-02-2020,Animation,G,Chris Sanders,1814482
+2059095,Bi Elm El Wossul,5.1,Egypt,98,26-02-2020,Drama,G,Hesham Saqr,85604
+2059645,StarDog and TurboCat,5.9,UK,90,26-02-2020,Animation,G,Ben Smith,53360
+2061533,After Midnight,4,US,83,26-02-2020,Science Fiction,PG-13,Jeremy Gardner,26312
+2055590,Paradise Hills,4,Spain,95,26-02-2020,Fantasy,R,Alice Waddington,10758
+2057040,Onward,7.4,US,102,04-03-2020,Fantasy,G,Dan Scanlon,876578
+2060595,The Body,5.1,India,120,04-03-2020,Thriller,G,Jeethu Joseph,85040
+2057779,Primal Rage: The Legend of Konga,5,US,106,04-03-2020,Fantasy,R,Patrick Magee,59658
+2051158,Bloodshot,6.3,US,110,11-03-2020,Fantasy,G,Dave Wilson,2866324
+2059048,I Still Believe,5.3,US,115,11-03-2020,Biography,G,Jon Erwin,289714
+2060616,Escape from Pretoria,5.6,Australia,106,11-03-2020,Thriller,NR,Francis Annan,172631
+2046736,Siberia,3.3,US,104,18-03-2020,Thriller,NC-17,Matthew Ross,266641
+2058534,Force of Nature,4.9,US,120,15-07-2020,Action,G,Michael Polish,360380
+2065252,The Academy of Magic,4,US,86,15-07-2020,Fantasy,G,Jorgen Klubien,133726
+2064006,Debt Collectors,4.4,US,97,15-07-2020,Action,NR,Jesse V. Johnson,80941
+2058613,The Hunt,4.3,US,90,22-07-2020,Horror,R,Craig Zobel,680099
+2065145,Rev,4.3,Canada,91,22-07-2020,Drama,PG-13,Ant Horasanli,52301
+2048211,Red Shoes and the Seven Dwarfs,4.9,South Korea,92,22-07-2020,Animation,G,Sung-ho Hong,170365
+2065193,The Warrior Queen of Jhansi,4.6,UK,102,22-07-2020,Drama,PG-13,Swati Bhise,22023
+2061519,Al-Ghasala,5.9,Egypt,110,30-07-2020,Fantasy,G,Essam Abdel Hamid,14407623
+2046013,Iron Mask,5.5,China,124,29-07-2020,Fantasy,G,Oleg Stepchenko,1013679
+2057285,My Spy,5.5,US,99,29-07-2020,Family,PG-13,Peter Segal,541241
+2065082,Amulet,4.2,United Arab Emirates,99,29-07-2020,Horror,NC-17,Romola Garai,411277
+2048065,The Postcard Killings,5.3,UK,91,29-07-2020,Drama,R,Danis Tanović,109380
+2051787,The Personal History of David Copperfield,4.6,UK,119,29-07-2020,Drama,NC-17,Armando Iannucci,49235
+2065427,Raven the Little Rascal 3: Hunt For The Lost Treasure,5.9,Germany,73,29-07-2020,Animation,G,Verena Fels,30234
+2065081,Made in Italy,5.3,UK,120,05-08-2020,Comedy,G,James D'Arcy,103419
+2064950,Ava,5.5,US,96,12-08-2020,Action,R,Tate Taylor,441621
+2059708,Becoming,4.3,US,98,12-08-2020,Thriller,R,Omar Naim,152560
+2061684,The High Note,5,US,113,12-08-2020,Romance,G,Nisha Ganatra,60414
+2007909,Taw’am Rouhy,7.3,Egypt,103,19-08-2020,Romance,G,Othman Abu Laban,13801843
+2065722,Black Water: Abyss,3.7,Australia,98,19-08-2020,Drama,PG-13,Andrew Traucki,565690
+2061686,Peninsula,5.9,South Korea,116,19-08-2020,Horror,NC-17,Sang-ho Yeon,199545
+2065341,Line of Duty,4.3,UK,98,19-08-2020,Thriller,PG-13,Steven C. Miller,62879
+2065621,Horrible Histories: The Movie - Rotten Romans,4.6,UK,92,19-08-2020,Comedy,G,Dominic Brigstocke,9050
+2057963,Tenet,7.4,UK,150,26-08-2020,Action,R,Christopher Nolan,10385811
+2065724,100% Wolf,5,Australia,96,26-08-2020,Comedy,G,Alexs Stadermann,243546
+2059698,El Hoot El Azraq,5.2,Egypt,83,26-08-2020,Thriller,PG-13,Alaa Morsy,114130
+2048084,Mulan,7.8,US,120,04-09-2020,Adventure,PG-13,Niki Caro,2539971
+2047818,The New Mutants,6.7,US,99,09-09-2020,Action,PG-13,Josh Boone,932252
+2064363,Sniper: Assassin's End,4.4,US,90,09-09-2020,Action,R,Kaare Andrews,103689
+2065785,No Way Back,5.1,Germany,109,09-09-2020,Thriller,G,Christian Alvart,105522
+2065723,Weathering with You,4.4,China,112,09-09-2020,Drama,PG-13,Makoto Shinkai,16200
+2053759,Zenzana 7,5.1,Egypt,115,16-09-2020,Thriller,PG-13,Ebram Nashaat,8638538
+2065873,Follow Me,5.1,US,88,16-09-2020,Thriller,R,Will Wernick,676445
+2065314,After We Collided,6.1,US,107,16-09-2020,Romance,PG-13,Roger Kumble,345166
+2061576,Dreambuilders,5.7,Denmark,81,16-09-2020,Drama,G,Kim Hagen Jensen,89730
+2057958,Freaks,4.8,US,104,16-09-2020,Drama,PG-13,Zach Lipovsky,76772
+2064983,Greenland,8,US,102,23-09-2020,Thriller,R,Ric Roman Waugh,6238533
+2042994,Trolls World Tour,6.8,US,94,23-09-2020,Musical,G,Walt Dohrn,1005491
+2064335,Unhinged,5,US,90,23-09-2020,Thriller,R,Derrick Borte,325127
+2064850,Archive,4.6,UK,105,23-09-2020,Science Fiction,NC-17,Gavin Rothery,34045
+2066245,Digimon Adventure: Last Evolution Kizuna,5.4,Japan,94,23-09-2020,Science Fiction,G,Tomohisa Taguchi,4505
+2056000,The Outpost,5.1,Bulgaria,123,30-09-2020,War,R,Rod Lurie,121062
+2060344,Pinocchio,5.4,France,125,30-09-2020,Family,G,Matteo Garrone,107006
+2065316,The 2nd,4.6,US,93,30-09-2020,History,PG-13,Brian Skiba,40177
+2061855,Clara,6.4,Ukraine,87,30-09-2020,Adventure,G,Oleksandr Klymenko,20261
+2065769,El Khetta El Aayma,7,Egypt,90,06-10-2020,Comedy,G,Youssef Hashem,12543814
+2047195,The War with Grandpa,5.9,US,94,07-10-2020,Family,G,Tim Hill,1203583
+2058533,Vanguard,6.7,China,107,07-10-2020,Action,G,Stanley Tong,694153
+2066475,Break the Silence (BTS): The Movie,9.4,South Korea,89,15-10-2020,Documentary,NR,Jun-Soo Park,665183
+2060370,Antebellum,5.3,US,105,14-10-2020,Horror,R,Christopher Renz,364997
+2051783,The Nest,4.4,Canada,107,14-10-2020,Drama,G,Sean Durkin,95639
+2066456,Monster Academy,4.4,Mexico,80,14-10-2020,Animation,G,Leopoldo Aguilar,57964
+2061026,Vivarium,3.2,Belgium,97,14-10-2020,Science Fiction,NR,Lorcan Finnegan,49590
+2065585,Honest Thief,6.9,US,92,21-10-2020,Thriller,G,Mark Williams,2701560
+2064592,Four Kids and It,4.3,UK,110,21-10-2020,Family,G,Andy De Emmony,84799
+2041229,El Sandok El Aswad,5.7,Egypt,90,28-10-2020,Thriller,PG-13,Mahmoud Kamel,8824373
+2066342,The Craft: Legacy,4.7,US,97,29-10-2020,Horror,R,Zoe Lister-Jones,192164
+2061575,Endless,5.8,US,95,28-10-2020,Romance,G,Scott Speer,113042
+2066051,Come Play,6.5,US,105,04-11-2020,Mystery,PG-13,Jacob Chase,758845
+2064964,The Silencing,5.2,Canada,93,04-11-2020,Thriller,R,Robin Pront,144983
+2065834,Blackbird,4.6,UK,97,04-11-2020,Drama,R,Roger Michell,19695
+2064980,Afreet Transit,4.3,Egypt,90,07-10-2015,Comedy,G,Yasser Howaidy,2515154
+2066172,Freaky,5.1,US,102,11-11-2020,Thriller,NC-17,Christopher Landon,492646
+2066332,The Call,4.2,US,95,11-11-2020,Horror,R,Timothy Woodward Jr.,632303
+2061153,Come Away,3.8,UK,94,11-11-2020,Fantasy,PG,Brenda Chapman,238889
+2066049,The Doorman,5.2,US,97,11-11-2020,Thriller,PG-13,Ryûhei Kitamura,53655
+2064470,Relic,5.2,Australia,89,18-11-2020,Horror,NR,Natalie Erika James,165103
+2061412,Most Wanted,4.8,Canada,135,18-11-2020,Crime,R,Daniel Roby,51786
+2064318,Becky,4.7,US,100,23-10-2015,Action,NC-17,Jonathan Milott,33434
+2065307,Hard Kill,4.3,US,90,25-11-2020,Action,NR,Matt Eskandari,478210
+2066155,Fatman,4.4,US,100,25-11-2020,Comedy,R,Eshom Nelms,153197
+2067115,Virus,5.9,Egypt,85,25-11-2020,Horror,R,Osama Omar,85372
+2064930,Khan Tiuola,6.1,Egypt,100,02-12-2020,Thriller,NC-17,Wessam Al Madany,1281548
+2040407,The Croods: A New Age,7.6,US,95,02-12-2020,Family,G,Joel Crawford,2243777
+2065254,You're Not Alone,4.1,US,92,02-12-2020,Action,R,Eduardo Rodriguez,431633
+2065984,The Rising Hawk,4.3,Ukraine,104,02-12-2020,Fantasy,R,John Wynn,115373
+2056003,Dreamland,5.6,US,98,02-12-2020,Thriller,NR,Miles Joris-Peyrafitte,49656
+2065726,Mosley,4.1,China,96,02-12-2020,Family,G,Kirby Atkins,11790
+2060592,Death of Me,4.2,US,105,09-12-2020,Horror,NC-17,Darren Lynn Bousman,890496
+2064476,Legacy of Lies,4.4,UK,101,09-12-2020,Thriller,R,Adrian Bol,224654
+2061024,Captain Sabertooth and the Magic Diamond,0,Norway,82,09-12-2020,Family,G,Rasmus A. Sivertsen,35145
+2055589,Monster Hunter,7.1,Germany,99,16-12-2020,Fantasy,PG-13,Paul W.S. Anderson,3399869
+2067226,The 100 Candles Game,5,Argentina,100,16-12-2020,Horror,R,Victor Català,844052
+2063481,Survive the Night,4,US,90,16-12-2020,Thriller,NC-17,Matt Eskandari,198988
+2050021,Life in a Year,5.6,US,107,17-12-2020,Romance,PG-13,Mitja Okorn,125839
+2065344,Rogue,4.4,UK,106,16-12-2020,Action,R,M.J. Bassett,70064
+2065931,The Eight Hundred,4.7,China,147,16-12-2020,War,R,Hu Guan,29442
+2058816,Rima,5.8,Egypt,90,23-12-2020,Thriller,PG-13,Moataz Hossam,2279088
+2060138,Soul,7.9,US,100,25-12-2020,Musical,PG-13,Pete Docter,1807437
+2057039,The Witches,5.1,US,106,23-12-2020,Adventure,PG-13,Robert Zemeckis,971894
+2064848,Ghosts of War,5.1,UK,94,30-12-2020,War,NR,Eric Bress,477331
+2064839,Saber w Rady,6,Egypt,85,30-12-2020,Comedy,NR,Akram Farid,709490
+2066506,Bigfoot Family,5.4,Belgium,89,30-12-2020,Animation,G,Jeremy Degruson,92421
+2067339,Ip Man: Kung Fu Master,4.4,China,84,30-12-2020,Action,G,Liming Li,49048
+2067331,My Adventures with Santa,5.9,US,92,30-12-2020,Family,PG-13,Brian Skiba,8095
+2067161,The Mortuary Collection,4.3,US,108,23-12-2020,Horror,NR,Ryan Spindell,85787
+2056313,Hazr Tagaoul,6.7,Egypt,96,04-12-2020,Drama,PG-13,Amir Ramses,394522
+2067430,Redemption Day,3.8,US,99,06-01-2021,Action,R,Hicham Hajji,142160
+2066040,Jiu Jitsu,3.9,US,102,06-01-2021,Fantasy,PG-13,Dimitri Logothetis,116890
+2056975,Waiting for the Barbarians,5,Italy,112,06-01-2021,Drama,R,Ciro Guerra,72106
+2066560,Waafet Reggala,8.3,Egypt,120,13-01-2021,Comedy,G,Ahmed El Gendy,25823787
+2067539,Horizon Line,3.9,Sweden,92,13-01-2021,Thriller,PG-13,Mikael Marcimain,303035
+2062318,Inheritance,5.1,US,111,13-01-2021,Thriller,G,Vaughn Stein,89789
+2053314,Guns Akimbo,4.6,Germany,95,13-01-2021,Action,NC-17,Jason Lei Howden,67734
+2062066,1BR,5.6,US,90,13-01-2021,Thriller,R,David Marmor,75562
+2060983,Wild Mountain Thyme,4.6,US,102,13-01-2021,Romance,PG-13,John Patrick Shanley,57023
+2067532,Ravage,4.8,US,84,06-01-2021,Horror,NC-17,Teddy Grennan,101232
+2067278,The Marksman,5.6,US,108,20-01-2021,Action,PG-13,Robert Lorenz,921136
+2066989,Anti Life,4.3,Canada,92,20-01-2021,Science Fiction,R,John Suits,99808
+2066054,Alone,5.1,US,98,20-01-2021,Thriller,PG-13,Johnny Martin,81346
+2067540,The Rescue,0,China,139,20-01-2021,Action,PG-13,Dante Lam,49821
+2065626,Alone,4.9,US,100,27-01-2021,Thriller,PG-13,John Hyams,184513
+2066362,The Furies,5.6,United Arab Emirates,82,27-01-2021,Thriller,NC-17,Tony D'Aquino,183212
+2067860,The Legend of Hallowaiian,4.5,US,82,27-01-2021,Animation,G,Sean Patrick O'Reilly,55872
+2063557,Tesla,4.7,US,96,27-01-2021,Drama,G,Michael Almereyda,50141
+2064814,Qabl Alarbaein,5.5,Egypt,93,03-02-2021,Horror,R,Moataz Hossam,2244138
+2061156,The Little Things,5.9,US,100,03-02-2021,Thriller,R,John Lee Hancock,1650389
+2067426,Wrong Turn,6.2,Germany,109,03-02-2021,Thriller,NC-17,Mike P. Nelson,2076354
+2060630,Shaw-ming,4.9,Egypt,90,03-02-2021,Comedy,R,Shady Abu Shady,747716
+2067341,Skylines,5.1,France,110,03-02-2021,Adventure,R,Liam O'Donnell,49141
+2067975,Reunion,5,New Zealand,95,03-02-2021,Thriller,R,Jake Mahaffy,38099
+2061072,The Night Clerk,4.8,US,90,03-02-2021,Drama,R,Michael Cristofer,34783
+2067409,Fear of Rain,5.1,US,92,10-02-2021,Thriller,PG-13,Castille Landon,122939
+2050177,Music,6.9,US,107,10-02-2021,Drama,PG-13,Sia,35639
+2065333,Tom and Jerry,7.5,US,101,24-02-2016,Family,G,Tim Story,3869361
+2067543,Dreamkatcher,3.6,US,85,17-02-2021,Thriller,NC-17,Kerry Harris,292936
+2067973,Body Brokers,4.6,US,90,17-02-2021,Crime,R,John Swab,47111
+2006303,The Lord of the Rings: The Fellowship of the Ring,9.2,New Zealand,178,24-02-2021,Adventure,PG-13,Peter Jackson,256145
+2051638,Boss Level,6.5,US,100,24-02-2021,Action,R,Joe Carnahan ,582130
+2065365,The Mauritanian,6.9,UK,129,14-12-2016,Thriller,PG-13,Kevin Macdonald,302673
+2068252,The Banishing,4.6,UK,97,24-02-2021,Drama,NC-17,Christopher Smith,263289
+2067997,Detective Chinatown 3,0,China,136,24-02-2021,Action,PG-13,Sicheng Chen,14928
+2061220,Raya and the Last Dragon,7.7,US,117,03-03-2021,Musical,G,Don Hall,1759398
+2006309,The Lord of the Rings: The Two Towers,9.1,New Zealand,179,03-03-2021,Fantasy,PG-13,Peter Jackson,474220
+2067429,Skyfire,4.5,China,97,03-03-2021,Action,R,Simon West,181127
+2068002,Twist,4.6,US,92,03-03-2021,Action,PG-13,Martin Owen,71346
+2005514,The Lord of the Rings: The Return of the King,9.3,US,201,10-03-2021,Drama,PG-13,Peter Jackson,222936
+2067649,The Reckoning,5.3,UK,110,10-03-2021,History,PG-13,Neil Marshall,154197
+2066509,Seized,5.4,US,85,10-03-2021,Action,R,Isaac Florentine,133092
+2065485,Alive,4.4,Canada,91,10-03-2021,Thriller,NC-17,Rob Grant,75171
+2067017,Nobody,6.7,US,92,17-03-2021,Action,NR,Ilya Naishuller,1230470
+2047732,Chaos Walking,5.6,US,109,17-03-2021,Science Fiction,G,Doug Liman,255404
+2067996,The Seventh Day,5.1,US,87,17-03-2021,Horror,R,Justin P. Lange,173879
+2065474,The Courier,5.6,UK,111,17-03-2021,Thriller,PG-13,Dominic Cooke,236977
+2060631,The Host,4.3,Netherlands,102,17-03-2021,Thriller,R,Andy Newbery,75948
+2050538,Godzilla vs. Kong,7.6,US,113,24-03-2021,Thriller,G,Adam Wingard,6814055
+2060130,Patients of a Saint,6.2,UK,110,24-03-2021,Horror,NR,Russell Owen,156277
+2067998,Don't Look Back,4.3,US,90,24-03-2021,Horror,NR,Jeffrey Reddick,107917
+2065843,Nomadland,5.6,Germany,108,24-03-2021,Drama,G,Chloé Zhao,77367
+2067974,Maya the Bee 3: The Golden Orb,5.7,Australia,88,24-03-2021,Animation,G,Noel Cleary,41863
+2066512,Way Down,5.1,Spain,118,31-03-2021,Thriller,G,Jaume Balagueró,437714
+2068403,Son,4.3,Ireland,98,31-03-2021,Horror,R,Ivan Kavanagh,207822
+2059770,Crisis,4.6,US,100,31-03-2021,Thriller,NR,Nicholas Jarecki,128146
+2065357,The Father,6.4,France,97,31-03-2021,Drama,G,Florian Zeller,159341
+2066097,The Furnace,5.9,Australia,116,31-03-2021,Western,G,Roderick MacKay,17911
+2066865,Smiley Face Killers,5.1,US,96,07-04-2021,Thriller,NC-17,Tim Hunter,153787
+2066668,Wander,4.9,Canada,94,07-04-2021,Thriller,PG-13,April Mullen,85742
+2068925,Dreamcatcher,4.6,US,108,07-04-2021,Mystery,NC-17,Jacob Johnston,64271
+2067183,Kung Fu Mulan,4.3,China,98,08-04-2021,Adventure,G,Leo Liao,36722
+2068937,Stand by Me Doraemon 2,4.3,Japan,96,05-05-2021,Animation,NR,Ryūichi Yagi,2501
+2061752,Ahmed Noterdame,6.1,Egypt,101,13-05-2021,Comedy,PG-13,Mahmoud Karim,19002395
+2058234,Dido,5.9,Egypt,96,13-05-2021,Comedy,G,Amr Salah,14291987
+2065401,Sania Wahda,6,Egypt,90,13-05-2021,Romance,G,Akram Farid,3670514
+2048049,Mortal Kombat,6.5,Australia,110,12-05-2021,Science Fiction,NC-17,Simon McQuoid,685901
+2057195,Peter Rabbit 2: The Runaway,4.8,Australia,85,13-05-2021,Animation,G,Will Gluck,422300
+2069338,Demon Slayer the Movie: Mugen Train,8.8,Japan,117,12-05-2021,Animation,R,Haruo Sotozaki,300505
+2068927,A Costume for Nicholas,5.3,Mexico,82,12-05-2021,Animation,NR,Eduardo Rivero,10430
+2002909,F9: The Fast Saga,8,US,135,19-05-2021,Adventure,PG-13,Justin Lin,17473857
+2069155,Seance,3.5,US,92,19-05-2021,Horror,R,Simon Barrett,52435
+2060259,Grand Isle,5.6,US,97,19-05-2021,Thriller,R,Stephen S. Campanelli,40394
+2059306,The Conjuring: The Devil Made Me Do It,7.5,US,112,26-05-2021,Thriller,R,Michael Chaves,12404061
+2042569,Cruella,7.8,US,134,26-05-2021,Comedy,PG-13,Craig Gillespie,980460
+2061194,Spiral,5.3,US,93,26-05-2021,Horror,NC-17,Darren Lynn Bousman,162680
+2068366,Leligar,7.2,Egypt,85,26-05-2021,Comedy,PG-13,Islam Belal,125811
+2067020,Mama Hamel,6.4,Egypt,112,02-06-2021,Comedy,PG-13,Mahmoud Karim,4359324
+2060145,Wrath of Man,7.7,UK,118,02-06-2021,Thriller,R,Guy Ritchie,1319142
+2069366,Jakob's Wife,5.1,US,98,02-06-2021,Horror,NC-17,Travis Stevens,78980
+2057041,A Quiet Place Part II,7.6,US,98,09-06-2021,Horror,PG-13,John Krasinski,5117087
+2069308,Great White,3.9,Australia,91,09-06-2021,Horror,PG-13,Martin Wilson,125836
+2046217,Ainbo,4.7,Netherlands,84,09-06-2021,Animation,G,Jose Zelada,105294
+2067250,Voyagers,4.6,US,108,09-06-2021,Adventure,R,Neil Burger,32982
+2057036,Hitman's Wife's Bodyguard,7.3,US,116,16-06-2021,Action,R,Patrick Hughes,2805144
+2068409,Luca,8.1,Italy,101,16-06-2021,Animation,NR,Enrico Casarosa,2354985
+2061155,Those Who Wish Me Dead,5.6,US,100,16-06-2021,Thriller,PG-13,Taylor Sheridan,331020
+2069496,Al Shanta,2.3,Egypt,84,16-06-2021,Action,PG-13,Ahmed Al Badry,148808
+2068565,The Unholy,5.2,US,99,16-06-2021,Horror,R,Evan Spiliotopoulos,145606
+2069802,The Journey,6.8,Japan,110,16-06-2021,Animation,G,Kôbun Shizuno,14544
+2060425,Mesh Ana,6.5,Egypt,98,23-06-2021,Comedy,G,Sara Wafiq,45788436
+2060636,In the Heights,3.8,US,120,23-06-2021,Drama,G,Jon M. Chu,75994
+2061641,Arkansas,5.1,US,115,23-06-2021,Drama,R,Clark Duke,22089
+2069792,Spare Parts,4.6,Canada,91,23-06-2021,Horror,NR,Andrew Thomas Hunt,8462
+2047184,The Boss Baby: Family Business,5.3,US,107,30-06-2021,Comedy,G,Tom McGrath,1403933
+2067241,The Ice Road,5.2,US,103,30-06-2021,Action,PG-13,Jonathan Hensleigh,552743
+2067708,The Forever Purge,4.9,US,103,30-06-2021,Horror,NC-17,Everardo Gout,453792
+2069220,Werewolves Within,5.1,US,97,30-06-2021,Horror,R,Josh Ruben,67729
+2069913,The Power,5.5,UK,92,30-06-2021,Horror,NR,Corinna Faith,55914
+2066468,Flashback,6.5,Canada,97,30-06-2021,Drama,R,Christopher MacBride,17853
+2058957,Al-Baa’d La Yazhab L Al-Ma’zoun Maratayen,6.2,Egypt,100,07-07-2021,Comedy,PG-13,Ahmed El Gendy,42955125
+2050375,Black Widow,6.7,US,133,07-07-2021,Action,NR,Cate Shortland,4003852
+2049137,Al Aref,7.7,Egypt,127,14-07-2021,Action,G,Ahmad Alaa Aldeeb,59565039
+2066510,Escape Room: Tournament of Champions,7.4,US,88,16-07-2021,Mystery,PG-13,Adam Robitel,1614179
+2047966,Space Jam: A New Legacy,5.1,US,120,14-07-2021,Comedy,PG,Malcolm D. Lee,1352042
+2069616,Gunpowder Milkshake,5.1,France,114,14-07-2021,Fantasy,NC-17,Navot Papushado,47759
+2065476,Snake Eyes,4.3,Canada,121,21-07-2021,Thriller,PG-13,Robert Schwentke,995032
+2047916,Jungle Cruise,7.2,US,127,28-07-2021,Adventure,PG-13,Jaume Collet-Serra,5345739
+2061350,El Ens W El Nems,5.9,Egypt,120,04-08-2021,Fantasy,G,Sherif Arafa,58272714
+2047675,The Suicide Squad,5.8,US,132,04-08-2021,Adventure,NC-17,James Gunn,2451114
+2068931,Spirit Untamed,4.8,US,89,04-08-2021,Animation,G,Elaine Bogan,277793
+2068926,Jolt,5.4,US,91,04-08-2021,Action,R,Tanya Wexler,54102
+2059263,The Comeback Trail,5.9,US,104,04-08-2021,Action,G,George Gallo,50799
+2054540,Mousa,7.9,Egypt,102,11-08-2021,Fantasy,G,Peter Mimi,17000758
+2057106,Free Guy,8,US,115,11-08-2021,Action,G,Shawn Levy,6659692
+2066333,Old,5.5,US,108,11-08-2021,Thriller,R,M. Night Shyamalan,2178567
+2069298,The Misfits,4.6,US,94,11-08-2021,Adventure,R,Renny Harlin,37575
+2069790,Reminiscence,5.9,US,148,18-08-2021,Romance,PG-13,Lisa Joy,921973
+2069796,Paw Patrol: The Movie,5.2,Canada,88,18-08-2021,Animation,G,Cal Brunker,1182970
+2065358,Stillwater,4.7,US,120,18-08-2021,Drama,R,Tom McCarthy,93851
+2061465,The Green Knight,5.3,Ireland,125,18-08-2021,Romance,R,David Lowery,70538
+2069217,Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot Wandering; Agateram,4.3,Japan,90,18-08-2021,Animation,NR,Kei Suezawa,1036
+2069539,200 Junayh,6.4,Egypt,94,25-08-2021,Drama,PG-13,Mohamed Amin,8132743
+2061190,The Night House,5.6,UK,108,25-08-2021,Thriller,R,David Bruckner,800117
+2067240,The Protege,4.9,UK,109,25-08-2021,Crime,R,Martin Campbell,93697
+2070439,Blackpink: The Movie,4.3,South Korea,100,25-08-2021,Musical,G,Oh Yoon-Dong,53701
+2068407,Pets United,4,China,89,25-08-2021,Animation,G,Reinhard Klooss,28626
+2055208,Mako,7.5,Egypt,110,01-09-2021,Thriller,PG-13,Mohamed Hisham Al Rashidi,16477638
+2058673,Shang-Chi and the Legend of the Ten Rings,7.9,China,132,01-09-2021,Fantasy,G,Destin Daniel Cretton,5637462
+2059534,Malignant,7.8,US,111,01-09-2021,Horror,NC-17,James Wan,2281522
+2064843,30 Maress,4.9,Egypt,101,08-09-2021,Drama,R,Ahmed Khaled Mousa,1389369
+2061623,Candyman,4.1,US,91,08-09-2021,Thriller,R,Nia DaCosta,158827
+2065635,Till Death,3.6,US,88,08-09-2021,Horror,NC-17,S.K. Dale,106680
+2067244,Queenpins,4.3,US,110,08-09-2021,Comedy,PG-13,Aron Gaudet,62337
+2065235,Dragon Rider,3.5,Germany,91,08-09-2021,Family,PG,Tomer Eshed,148689
+2070031,Ted Bundy: American Boogeyman,3.5,US,110,08-09-2021,Crime,R,Daniel Farrands,18857
+2070487,Copshop,4.6,US,109,15-09-2021,Action,R,Joe Carnahan ,432069
+2061569,The Card Counter,3.9,US,109,23-10-2015,Thriller,R,Paul Schrader,41863
+2060727,Respect,0,US,145,15-09-2021,Musical,PG-13,Liesl Tommy,3846
+2068934,Bennett's War,3.9,US,94,15-09-2021,Sport,R,Alex Ranarivelo,3733
+2066947,The Ride,4.3,US,98,15-09-2021,Action,G,Alex Ranarivelo,3700
+2068138,Arousty,6.2,Egypt,94,22-09-2021,Comedy,G,Mohamed Bakir,12286944
+2056979,Dune,7.9,Canada,155,22-09-2021,Adventure,NR,Denis Villeneuve,5203660
+2070869,Queen of Spades,4.6,Canada,91,22-09-2021,Horror,R,Patrick White,97699
+2067227,Vanquish,3.1,US,96,22-09-2021,Action,PG-13,George Gallo,39064
+2047849,No Time to Die,8.3,UK,174,30-09-2021,Action,PG-13,Cary Joji Fukunaga,18199465
+2059248,Beyond the Raging Sea,0,Egypt,70,21-09-2019,Documentary,NR,Marco Orsini,27102
+2061109,Don't Breathe 2,6.7,US,90,06-10-2021,Thriller,NC-17,Rodo Sayagues,907123
+2066436,The Addams Family 2,4.8,Canada,93,06-10-2021,Horror,PG-13,Greg Tiernan,477949
+2066154,Midnight in the Switchgrass,3.9,US,99,06-10-2021,Thriller,R,Randall Emmett,105867
+2068337,After We Fell,5.5,US,99,06-10-2021,Drama,PG-13,Castille Landon,125296
+2068562,Every Breath You Take,4.6,US,105,06-10-2021,Thriller,R,Vaughn Stein,29000
+2066110,The Virtuoso,3.9,US,110,06-10-2021,Thriller,PG-13,Nick Stagliano,12260
+2064031,Venom: Let There Be Carnage,7.4,US,90,13-10-2021,Thriller,PG-13,Andy Serkis,13332121
+2065702,The Last Duel,5.5,US,96,13-10-2021,Drama,PG-13,Ridley Scott,297382
+2067935,Ashfall,4.1,South Korea,130,13-10-2021,Action,R,Byung-seo Kim,8029
+2069997,No Escapes,3.9,Russia,131,13-10-2021,Action,PG-13,Aleksey Nuzhnyy,7699
+2058686,Halloween Kills,5.4,US,106,20-10-2021,Horror,NC-17,David Gordon Green,1320186
+2069852,Ron's Gone Wrong,4.2,UK,106,20-10-2021,Animation,G,Sarah Smith,974983
+2069405,Rogue Hostage,4.4,US,87,20-10-2021,Thriller,R,Jon Keeyes,18232
+2070440,Flag Day,0,US,109,20-10-2021,Drama,PG-13,Sean Penn,15322
+2070266,Worth,0,US,118,20-10-2021,Biography,PG-13,Sara Colangelo,8633
+2058986,Antlers,4.5,Canada,99,27-10-2021,Horror,NC-17,Scott Cooper,706220
+2058441,Last Night in Soho,6.5,UK,118,27-10-2021,Drama,NC-17,Edgar Wright,694788
+2069085,Endangered Species,4,Kenya,141,27-10-2021,Action,PG-13,M.J. Bassett,48669
+2067758,Fark Khebra,4.9,Egypt,100,03-11-2021,Romance,R,Sherif Nagib,2872658
+2070867,13 Minutes,3.9,Canada,108,03-11-2021,Action,PG-13,Lindsay Gossling,238271
+2067955,Spencer,5.5,Chile,111,03-11-2021,Romance,PG-13,Pablo Larraín,277651
+2057187,Sooryavanshi,4.6,India,120,05-11-2021,Drama,G,Rohit Shetty,65891
+2070868,Seal Team,3.9,South Africa,98,03-11-2021,Comedy,G,Jason Cleveland,54921
+2070640,The Survivalist,3.9,US,90,03-11-2021,Action,PG-13,Jon Keeyes,28691
+2071805,My Hero Academia: World Heroes' Mission,6.1,Japan,104,10-11-2021,Animation,G,Kenji Nagasaki,186336
+2058504,Minamata,5.1,US,115,10-11-2021,Drama,PG-13,Andrew Levitas,82752
+2070488,Yakuza Princess,3.9,Brazil,111,10-11-2021,Thriller,NC-17,Vicente Amorim,51105
+2045663,Clifford the Big Red Dog,3.5,US,97,17-11-2021,Animation,G,Walt Becker,885722
+2071303,Dangerous,3.5,US,99,17-11-2021,Thriller,R,David Hackl,526654
+2071880,The Accursed,3.7,US,84,17-11-2021,Drama,NC-17,Kathryn Michelle,482345
+2071608,Monster Family 2,3.9,Germany,103,17-11-2021,Animation,PG-13,Holger Tappe,57376
+2071803,Overrun,4.3,US,105,17-11-2021,Action,R,Josh Tessier,19554
+2067285,El Mahkama,6.6,Egypt,95,24-11-2021,Drama,R,Mohamed Amin,4666559
+2070863,Resident Evil: Welcome to Raccoon City,5.1,Canada,107,24-11-2021,Thriller,NC-17,Johannes Roberts,1649510
+2067356,Encanto,7.2,US,99,24-11-2021,Comedy,G,Jared Bush,5750664
+2059261,Ghostbusters: Afterlife,4.6,Canada,124,01-12-2021,Science Fiction,PG-13,Jason Reitman,1512239
+2067354,House of Gucci,6.1,US,157,01-12-2021,Drama,R,Ridley Scott,1260906
+2070865,Motherly,3.5,Canada,90,01-12-2021,Thriller,NC-17,Craig David Wallace,181386
+2070792,Survive the Game,3.5,US,97,01-12-2021,Action,R,James Cullen Bressack,114220
+2070442,King Richard,7.5,US,138,08-12-2021,Biography,G,Reinaldo Marcus Green,935427
+2067467,Sing 2,4.9,US,114,08-12-2021,Musical,G,Garth Jennings,1928535
+2058505,West Side Story,4.3,US,156,08-12-2021,Musical,PG-13,Steven Spielberg,227822
+2071327,El Warsha,4.8,Egypt,132,08-12-2021,Comedy,PG-13,Mohamed Hamdy,80226
+2071624,Black Friday,4.4,US,84,08-12-2021,Horror,R,Casey Tebo,46599
+2065787,Spider-Man: No Way Home,9.5,US,150,01-09-2022,Science Fiction,G,Jon Watts,59682828
+2070406,Barra El Manhag,7.5,Egypt,100,15-12-2021,Comedy,PG-13,Amr Salama,3500251
+2065450,Ritsa,6,Egypt,95,15-12-2021,Drama,G,Ahmed Yousri,1317644
+2059002,The Matrix Resurrections,6.2,US,148,22-12-2021,Science Fiction,R,Lana Wachowski,2151059
+2071835,Morabba' Bermoda,6.1,Egypt,90,22-12-2021,Comedy,R,Tarek Refaat,2784528
+2071941,Abu Saddam,5.1,Egypt,96,22-12-2021,Drama,R,Mahmoud Ezzat,1560536
+2071054,Christmas Thieves,4.3,Italy,90,22-12-2021,Family,G,Francesco Cinquemani,56543
+2072393,Pinocchio: A True Story,4.3,Russia,84,22-12-2021,Animation,G,Vasiliy Rovenskiy,36524
+2067160,El Kahen,5.2,Egypt,100,29-12-2021,Horror,PG-13,Othman Abu Laban,3717343
+2058382,The King's Man,5.9,UK,131,29-12-2021,Comedy,PG-13,Matthew Vaughn,1614596
+2072112,Christmas Is Canceled,4.1,US,95,29-12-2021,Comedy,R,Prarthana Mohan,50661
+2067574,El Gareema,6.9,Egypt,125,05-01-2022,Action,R,Sherif Arafa,33397778
+2071326,Men Agl Zeko,6.8,Egypt,95,05-01-2022,Comedy,G,Peter Mimi,28551645
+2069336,Demonic,3.9,Canada,104,05-01-2022,Horror,NC-17,Neill Blomkamp,48704
+2064895,Laylat Amar 14,5.3,Egypt,80,12-01-2022,Drama,PG-13,Hadi El Bagoury,2681628
+2065833,Scream,6.9,US,114,12-01-2022,Thriller,NC-17,Matt Bettinelli-Olpin,5026100
+2060960,The 355,4.8,US,136,12-01-2022,Thriller,R,Simon Kinberg,206930
+2066047,The Lost Daughter,4.8,Greece,121,12-01-2022,Drama,R,Maggie Gyllenhaal,17302
+2070811,My Son,5.1,France,95,19-01-2022,Romance,PG-13,Christian Carion,52989
+2069771,Lassie Come Home,4.3,Germany,100,19-01-2022,Adventure,G,Hanno Olderdissen,23287
+2072553,Raging Fire,4.7,China,126,19-01-2022,Adventure,R,Benny Chan,8871
+2072429,Sword Art Online: Progressive - Aria of a Starless Night,4.3,Japan,97,19-01-2022,Animation,G,Ayako Kawano,6470
+2070040,Tamasih Elnil,3.3,Egypt,106,26-01-2022,Comedy,PG-13,Sameh Abdel Aziz,3134095
+2061384,Nightmare Alley,5.1,US,139,26-01-2022,Thriller,NC-17,Guillermo del Toro,441915
+2072208,See for Me,4.6,Canada,92,26-01-2022,Thriller,PG-13,Randall Okita,215310
+2061726,Luebat Shetan,4.6,Egypt,100,26-01-2022,Thriller,R,Ebram Nashaat,107001
+2071915,Fortress,4.8,US,100,26-01-2022,Action,R,James Cullen Bressack,62560
+2069604,Hamel El Lakab,6.3,Egypt,113,02-02-2022,Comedy,PG-13,Hesham Fathy,11390490
+2072323,11:11,5.6,Egypt,100,02-02-2022,Drama,PG-13,Karim Abouzeid,1877232
+2070812,Moonfall,7.1,Canada,120,02-02-2022,Science Fiction,NR,Roland Emmerich,1002017
+2072908,My Sweet Monster,4.1,Russia,98,02-02-2022,Animation,G,Viktor Glukhushin,67650
+2070569,A Journal for Jordan,3.5,US,131,02-02-2022,Drama,PG-13,Denzel Washington,49292
+2060249,Uncharted,7.1,US,116,10-02-2022,Adventure,NR,Ruben Fleischer,11245345
+2057037,Death on the Nile,6.3,UK,127,09-02-2022,Crime,PG-13,Kenneth Branagh,3630860
+2066235,Marry Me,5.8,US,112,09-02-2022,Romance,PG-13,Kat Coiro,694873
+2070764,Maaly Mama,4.3,Egypt,100,09-02-2022,Comedy,G,Ahmed Nour,205728
+2072473,Blacklight,5.3,Australia,108,16-02-2022,Action,PG-13,Mark Williams,554421
+2072466,Book of Love,4.3,UK,106,16-02-2022,Romance,PG-13,Analeine Cal y Mayor,28748
+2072949,A Banquet,4.3,UK,97,16-02-2022,Horror,NR,Ruth Paxton,23930
+1462364,The Godfather,9.3,US,175,23-02-2022,Crime,R,Francis Ford Coppola,735246
+2072021,Dog,5.2,Italy,90,23-02-2022,Comedy,PG-13,Reid Carolin,111100
+2058513,Last Looks,4.3,US,110,23-02-2022,Action,R,Tim Kirkby,41339
+2070663,Best Sellers,4.6,Canada,100,23-02-2022,Comedy,R,Lina Roessler,6910
+2071779,Poupelle of Chimney Town,4.3,Japan,100,23-02-2022,Animation,NC-17,Yusuke Hirota,2871
+2051023,The Batman,8.6,US,175,02-03-2022,Action,PG-13,Matt Reeves,18156624
+2073315,The Smurfs: Amazing Adventures,3.9,US,90,02-03-2022,Animation,G,William Renaud,180334
+2070359,Norm of the North: Family Vacation,4.1,US,90,02-03-2022,Animation,G,Anthony Bell,40344
+2070268,Turning Red,5.3,US,100,10-03-2022,Animation,G,Domee Shi,1173951
+2073017,The Contractor,5.2,US,103,09-03-2022,Thriller,R,Tarik Saleh,423340
+2072820,The Desperate Hour,4.4,US,84,09-03-2022,Thriller,G,Phillip Noyce,81192
+2071540,Ambulance,4.9,US,136,16-03-2022,Crime,PG,Michael Bay,1464836
+2072372,The Bad Guys,3.9,US,100,16-03-2022,Animation,G,Pierre Perifel,532498
+2071861,The Dark and the Wicked,3.4,US,95,16-03-2022,Horror,NC-17,Bryan Bertino,51064
+2072884,WarHunt,3.6,US,93,16-03-2022,Action,R,Mauro Borrelli,29303
+2072376,The Lost City,6.2,US,92,23-03-2022,Action,PG-13,Aaron Nee,3504815
+2073019,The Requin,3.2,US,89,23-03-2022,Thriller,PG-13,Le-Van Kiet,304835
+2072308,The Tiger Rising,3.5,US,102,23-03-2022,Family,G,Ray Giarratana,20536
+2072426,RRR,5.8,India,187,23-03-2022,Action,NC-17,S.S.Rajamouli,24754
+2056803,Morbius,5.8,US,108,31-03-2022,Science Fiction,PG-13,Daniel Espinosa,1697630
+2071918,Silent Night,4.6,UK,92,30-03-2022,Comedy,R,Camille Griffin,47314
+2072307,Gold,4.2,Australia,97,30-03-2022,Thriller,PG-13,Anthony Hayes,33427
+2069658,Wahed Tany,5.4,Egypt,111,02-05-2022,Comedy,PG-13,Mohammad Shaker Khodeir,63048903
+2058180,El Ankaboot,6.6,Egypt,131,02-05-2022,Drama,PG-13,Ahmed Nader Galal,36310456
+2073964,Zombie,3.4,Egypt,97,02-05-2022,Comedy,G,Amr Salah,19965848
+2034176,Fantastic Beasts: The Secrets of Dumbledore,6.2,UK,142,27-04-2022,Adventure,G,David Yates,4873081
+2072302,Sonic the Hedgehog 2,7.1,Japan,122,27-04-2022,Action,G,Jeff Fowler,4102909
+2073795,Memory,5.2,US,114,27-04-2022,Action,NC-17,Martin Campbell,726432
+2074168,Detective Conan: The Bride of Shibuya,5.7,Japan,110,27-04-2022,Animation,NC-17,Susumu Mitsunaka,53361
+2074027,Escape the Field,3.9,US,89,27-04-2022,Thriller,R,Emerson Moore,25096
+2071278,Operation Mincemeat,4.8,UK,128,05-05-2022,Drama,PG-13,John Madden,108994
+2069193,Downton Abbey: A New Era,4.4,UK,124,04-05-2022,Drama,PG-13,Simon Curtis,79170
+2073101,Firestarter,4.3,US,94,11-05-2022,Drama,NC-17,Keith Thomas,340274
+2073959,Cinderella and the Little Sorcerer,4.3,US,86,11-05-2022,Animation,G,Alice Blehart,53015
+2073020,The Wolf and the Lion,4.3,Canada,99,11-05-2022,Family,G,Gilles de Maistre,46354
+2074303,Jujutsu Kaisen 0: The Movie,8.2,Japan,112,18-05-2022,Animation,PG-13,Seong-Hu Park,1933140
+2061642,The Northman,6.9,UK,140,18-05-2022,Drama,R,Robert Eggers,1324403
+2067401,Fares,2.3,Egypt,98,18-05-2022,Thriller,PG,Raouf Abdul Aziz,742598
+2074020,The Twin,4.3,Finland,109,18-05-2022,Horror,R,Taneli Mustonen,335371
+2066274,The Unbearable Weight of Massive Talent,6,US,107,18-05-2022,Comedy,G,Tom Gormican,118938
+2074019,Black Site,4.3,US,93,18-05-2022,Action,R,Sophia Banks,71469
+2048086,Top Gun: Maverick,8.3,US,133,25-05-2022,Action,G,Joseph Kosinski,21200987
+2074017,Shut In,4.2,US,89,25-05-2022,Drama,R,D.J. Caruso,235615
+2046709,The King's Daughter,5.1,US,90,25-05-2022,Fantasy,G,Sean McNamara,89483
+2066990,Fireheart,4.4,Canada,92,25-05-2022,Family,G,Laurent Zeitoun,77164
+2074021,Last Seen Alive,5.5,US,95,01-06-2022,Thriller,PG-13,Brian Goodman,920987
+2074395,Survive,4.6,US,108,30-05-2022,Adventure,NR,Mark Pellington,47262
+2073908,9 Bullets,4.3,US,91,01-06-2022,Thriller,R,Gigi Gaston,45723
+2072027,Shattered,5.1,US,92,01-06-2022,Thriller,NC-17,Luis Prieto,37725
+2059535,Jurassic World: Dominion,5.7,US,147,08-06-2022,Science Fiction,G,Colin Trevorrow,13649464
+2067239,Dual,4.3,US,95,08-06-2022,Science Fiction,R,Riley Stearns,62992
+2074387,Gulliver Returns,4.6,Cyprus,90,08-06-2022,Animation,G,Ilya Maksimov,39804
+2071939,Room 203,4.3,US,104,15-06-2022,Horror,R,Ben Jagger,525108
+2074314,Shark Bait,4.3,UK,87,15-06-2022,Thriller,R,James Nunn,416427
+2073015,Pursuit,4.3,US,95,15-06-2022,Action,R,Brian Skiba,15181
+2074024,Jim Button and the Wild 13,4.3,Germany,110,15-06-2022,Adventure,G,Dennis Gansel,6069
+2071042,The Black Phone,7.1,US,102,22-06-2022,Horror,R,Scott Derrickson,2629768
+2073177,Elvis,6.3,Australia,159,22-06-2022,Biography,PG-13,Baz Luhrmann,540426
+2059262,Panama,3.9,Puerto Rico,156,22-06-2022,Action,R,Mark Neveldine,116475
+2058736,Kira We El Gin,7.9,Egypt,175,30-06-2022,Drama,G,Marwan Hamed,117280715
+2048160,Minions: The Rise of Gru,6.8,US,90,29-06-2022,Family,G,Kyle Balda,12323404
+2074435,The Good Neighbor,3.9,Latvia,97,29-06-2022,Thriller,PG-13,Stephan Rick,68071
+2074030,Deadlock,3.5,US,97,29-06-2022,Action,R,Jared Cohn,32253
+2074339,Bahebek,4.9,Egypt,101,07-07-2022,Romance,G,Tamer Hosny,52801979
+2070779,3amohom,6,Egypt,90,07-07-2022,Comedy,PG-13,Hussien El Menbawy,56836371
+2074434,Hot Seat,4.8,US,99,06-07-2022,Thriller,PG-13,James Cullen Bressack,360833
+2065784,The Gray Man,6.7,US,122,13-07-2022,Thriller,PG-13,Anthony Russo,1633914
+2074034,The Deep House,4,Belgium,85,22-09-2010,Drama,PG-13,Alexandre Bustillo,974078
+2074031,Around the World in 80 Days,5.8,Belgium,82,20-07-2022,Animation,G,Samuel Tourneux,116895
+2074596,The Reef: Stalked,5,Australia,89,20-07-2022,Thriller,PG-13,Andrew Traucki,379128
+2069880,DC League of Super-Pets,6.2,US,124,27-07-2022,Animation,G,Jared Stern,3315920
+2073314,A Day to Die,3.9,US,105,27-07-2022,Action,R,Wes Miller,211693
+2074432,Infiltration,3.9,Russia,110,27-07-2022,Thriller,NC-17,Aleksey Chadov,22220
+2052179,Taslim Ahali,7.2,Egypt,109,03-08-2022,Comedy,NR,Khaled El Halafawy,30259305
+2066780,Bullet Train,8.2,US,153,04-08-2022,Action,R,David Leitch,11642766
+2074033,Paradise Highway,4.4,Germany,115,03-08-2022,Action,PG-13,Anna Gutto,80484
+2074573,Beast,5.9,US,95,10-08-2022,Drama,R,Baltasar Kormákur,4244567
+2074702,Fall,5.6,US,107,10-08-2022,Thriller,PG-13,Scott Mann,112161
+2073999,Paws of Fury: The Legend of Hank,4.4,China,97,10-08-2022,Animation,G,Mark Koetsier,50857
+2073021,Easter Sunday,4.3,US,115,10-08-2022,Comedy,G,Jay Chandrasekhar,20439
+2075447,El Daawa Ammah,6.1,Egypt,93,17-08-2022,Comedy,G,Wael Farag,1648943
+2075138,Orphan: First Kill,6.1,US,99,17-08-2022,Crime,R,William Brent Bell,2302236
+2075157,Dragon Ball Super: Super Hero,6.9,Japan,120,18-08-2022,Animation,G,Tetsuro Kodama,145357
+2070383,Nope,5.9,US,135,24-08-2022,Horror,PG-13,Jordan Peele,1946471
+2074537,Khetet Mazinger,4,Egypt,95,24-08-2022,Comedy,G,Ramy Rizkallah,1597617
+2075148,Tad the Lost Explorer and the Emerald Tablet,5.1,Spain,90,24-08-2022,Animation,G,Enrique Gato,788873
+2073796,Where the Crawdads Sing,5.7,US,125,25-08-2022,Drama,NR,Olivia Newman,106548
+2075211,Prizefighter: The Life of Jem Belcher ,4.1,UK,107,24-08-2022,Biography,PG-13,Daniel Graham,32581
+2075680,Stoker Hills,3.9,US,91,31-08-2022,Horror,R,Benjamin Louis,107812
+2075519,Into the Deep,5,UK,87,31-08-2022,Thriller,R,Kate Cox,100215
+2074971,The Invitation,6.3,US,105,08-09-2022,Horror,R,Jessica M. Thompson,2126820
+2074970,See How They Run,5.8,US,98,07-09-2022,Mystery,G,Tom George,518784
+2075147,Code Name Banshee,4,US,88,07-09-2022,Thriller,R,Jon Keeyes,80421
+2074801,Brahmastra Part One: Shiva,4.1,India,120,09-09-2022,Action,G,Ayan Mukherjee,76676
+2074595,Ticket to Paradise,6.7,US,104,14-09-2022,Romance,G,Ol Parker,8715244
+2075555,Jeepers Creepers: Reborn,4.5,Finland,88,14-09-2022,Drama,NC-17,Timo Vuorensola,777212
+2075601,Kharaju wa Lam Yaeudu,3.6,Egypt,99,14-09-2022,Thriller,PG-13,Ayman Khatab,60584
+2074029,White Elephant,3.9,US,89,14-09-2022,Action,R,Jesse V. Johnson,51077
+2074298,Marmaduke,4.3,US,88,14-09-2022,Animation,G,Mark A.Z. Dippé,24745
+2059298,Ashbah Europa,4.1,Egypt,85,21-09-2022,Action,R,Mohamed Abdel Rahman Hamaki,2515405
+2000011,Avatar,9.1,UK,162,21-09-2022,Adventure,PG-13,James Cameron,855029
+2055868,Medieval,4.9,Czech Republic,126,21-09-2022,History,PG-13,Petr Jákl,205637
+2074430,Stowaway,3.9,US,84,21-09-2022,Thriller,PG-13,Declan Whitebloom,11429
+2074973,Smile,6.1,US,115,28-09-2022,Horror,NC-17,Parker Finn,12483789
+2074313,Mrs. Harris Goes to Paris,5.7,Belgium,115,28-09-2022,Drama,G,Anthony Fabian,112510
+2075925,Vikram Vedha,4.6,India,147,30-09-2022,Crime,PG-13,Pushkar,35959
+2075533,Fadel We Neama,5.6,Egypt,105,05-10-2022,Comedy,G,Ramy Emam,16960367
+2075133,Amsterdam,4.8,US,134,05-10-2022,Drama,PG-13,David O. Russell,1221678
+2074597,The Woman King,6.3,Canada,135,05-10-2022,Action,R,Gina Prince-Bythewood,645508
+2066181,Don't Worry Darling,5.8,US,122,05-10-2022,Thriller,R,Olivia Wilde,640721
+2076097,Barbie: Mermaid Power,3.5,US,65,05-10-2022,Family,G,Ron Myrick,128639
+2060961,Halloween Ends,4.8,US,111,12-10-2022,Thriller,NC-17,David Gordon Green,1059986
+2075028,Hazak Al Youm,3.5,Egypt,90,12-10-2022,Thriller,NR,Osama Oraby,308384
+2075562,Big Trip 2: Special Delivery,4,Hungary,90,12-10-2022,Animation,G,Vasiliy Rovenskiy,215675
+2075145,The Enforcer,4.6,US,90,12-10-2022,Thriller,R,Richard Hughes,52771
+2075150,The Good House,4.3,US,103,12-10-2022,Comedy,PG-13,Maya Forbes,24974
+2051636,Black Adam,7.6,US,124,19-10-2022,Action,PG-13,Jaume Collet-Serra,21155875
+2072187,Al Hayba,5.3,Lebanon,135,19-10-2022,Thriller,PG-13,Samer El Barqawi,442300
+2074594,"Lyle, Lyle, Crocodile",4.5,US,106,19-10-2022,Animation,G,Josh Gordon,1316807
+2075165,Prey for the Devil,6.2,US,93,26-10-2022,Thriller,R,Daniel Stamm,3561828
+2076089,Detective Knight: Rogue,3.8,US,105,26-10-2022,Thriller,R,Edward Drake,44691
+2074598,Blowback,3.9,US,93,26-10-2022,Action,R,Tibor Takács,42635
+2076087,Blackout,3.9,US,91,26-10-2022,Action,R,Sam Macaroni,36543
+2064894,Banat Abulrahman,5.5,Jordan,112,26-10-2022,Drama,G,Zaid Abu Hamdan,20275
+2065225,Taht Tahdid Al Silah,7,Egypt,105,02-11-2022,Thriller,PG-13,Mohamed Abdel Rahman Hamaki,8692205
+2076309,Gawwezni,5.6,Egypt,105,02-11-2022,Comedy,G,Essam Nassar,4310480
+2075564,One Piece Film: Red,8.2,Japan,115,02-11-2022,Animation,G,Gorô Taniguchi,335387
+2076091,Nocebo,4.2,US,96,02-11-2022,Thriller,PG-13,Lorcan Finnegan,76456
+2075146,One Way,4.3,US,95,02-11-2022,Action,PG-13,Andrew Baird,14931
+2074600,Black Panther: Wakanda Forever,7.5,US,161,09-11-2022,Action,PG-13,Ryan Coogler,13624384
+2060672,The Menu,6.4,US,106,16-11-2022,Comedy,R,Mark Mylod,2857357
+2005417,The Exorcist Re-Release,5,US,122,16-11-2022,Horror,NC-17,William Friedkin,185679
+2076098,Lamborghini,5.1,Italy,97,18-11-2022,Drama,PG-13,Bobby Moresco,75247
+2075149,Devotion,5.1,US,138,23-11-2022,Action,G,J.D. Dillard,178025
+2076094,Poker Face,3.9,US,94,23-11-2022,Thriller,PG-13,Russell Crowe,128336
+2075128,She Said,4.3,US,135,23-11-2022,Drama,PG-13,Maria Schrader,83864
+2076450,Shadow Master,4.3,US,90,23-11-2022,Action,NR,Pearry Reginald Teo,9739
+2075520,Violent Night,5.5,US,101,30-11-2022,Comedy,R,Tommy Wirkola,902504
+2074032,Bed Rest,5.1,US,90,30-11-2022,Horror,R,Lori Evans Taylor,650119
+2076083,Pil's Adventures,4.3,France,89,30-11-2022,Adventure,G,Julien Fournet,150674
+2076084,The Bunker Game,4.7,France,95,30-11-2022,Horror,PG-13,Roberto Zazzara,31012
+2073648,Puss in Boots: The Last Wish,6.9,US,100,07-12-2022,Animation,G,Joel Crawford,2456463
+2076847,The Adventures of Paddington,4.3,France,85,07-12-2022,Animation,G,Chris Drew,13823
+2076989,Gekijouban Sword Art Online the Movie: Progressive - Kuraki Yuuyami no Scherzo,5.1,Japan,101,07-12-2022,Animation,G,Ayako Kouno,9101
+2010344,Avatar: The Way of Water,7.9,US,192,14-12-2022,Fantasy,G,James Cameron,43984207
+2075534,Mindcage,5.4,US,96,21-12-2022,Thriller,R,Mauro Borrelli,380053
+2076857,The Amazing Maurice,4.1,Germany,93,21-12-2022,Animation,G,Florian Westermann,185414

@@ -6,13 +6,17 @@
 The Egyptian movie industry is a dynamic and competitive market, witnessing a constant influx of movies from different countries and across different genres. However, without a detailed understanding of factors such as timing, popular genres, successful directors, writers, and stars, industry professionals are limited in their ability to make informed decisions. To address this challenge, this project aims to conduct an in-depth analysis of the Egyptian box office over the past decade. By leveraging Python, SQL, and Tableau, the project seeks to uncover valuable patterns and trends, providing stakeholders with actionable insights for strategic planning, marketing, and investment within the Egyptian movie industry.
 
 ## About the Data:
-The data for this project was scraped from [elcinema.com](elcinema.com). The dataset includes information on various aspects of movies, such as year, week, rank, title, rating, country, runtime, release date, genre, MPAA rating, director, writers, stars, weekly revenue, and total revenue. The data was structured into six different tables to ensure data normalization, with the relationships between tables being well-defined, facilitating efficient data analysis:
+The data for this project was scraped from [elcinema.com](elcinema.com). The dataset includes information on various aspects of movies, such as year, week, rank, title, rating, country, runtime, release date, genre, MPAA rating, director, writers, stars, weekly revenue, and total revenue. The data was structured into six tables, ensuring data normalization, with the relationships between tables defined. <br>
+
+- Tables: 
 1. movies_table: Contains general information about movies.
 2. writers_table: Contains information about the writers of movies.
 3. movie_writers_table: Serves as a bridge table connecting movies to their writers.
 4. stars_table: Contains details about the stars of movies.
 5. movie_stars_table: Serves as a bridge table connecting movies to their stars.
-6. box_office_table: Contains data on weekly box office performance.
+6. box_office_table: Contains data on weekly box office performance. <br>
+
+- ERD:
 ![ERD](https://github.com/assemmkhalil/AnalyzingEgyptianBoxOffice/assets/126206911/4384d667-27e6-4e54-abbd-2d5eb3a4d1d8)
 
 

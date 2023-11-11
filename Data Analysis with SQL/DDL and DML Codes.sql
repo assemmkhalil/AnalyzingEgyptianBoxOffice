@@ -37,6 +37,7 @@ CREATE TABLE writers (
 CREATE TABLE movie_writers (
     movie_id INT,
     writer_id INT,
+    PRIMARY KEY (movie_id, writer_id),
     FOREIGN KEY (movie_id) REFERENCES movies(movie_id),
     FOREIGN KEY (writer_id) REFERENCES writers(writer_id)
 );
@@ -53,6 +54,7 @@ CREATE TABLE stars (
 CREATE TABLE movie_stars (
     movie_id INT,
     star_id INT,
+    PRIMARY KEY (movie_id, star_id),
     FOREIGN KEY (movie_id) REFERENCES movies(movie_id),
     FOREIGN KEY (star_id) REFERENCES stars(star_id)
 );

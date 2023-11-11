@@ -3,10 +3,10 @@
 
 
 ## Project Overview:
-The Egyptian movie industry is a dynamic and competitive market, witnessing a constant influx of movies from different countries and across different genres. However, without a detailed understanding of factors such as timing, popular genres, successful directors, writers, and stars, industry professionals are limited in their ability to make informed decisions. To address this challenge, this project aims to conduct an in-depth analysis of the Egyptian box office over the past decade. By leveraging Python, SQL, and Tableau, the project seeks to uncover valuable patterns and trends, providing stakeholders with actionable insights for strategic planning, marketing, and investment within the Egyptian movie industry.
+The Egyptian movie industry is one of the oldest and most influential in the world, producing thousands of films in various genres and reflecting the rich and diverse culture of Egypt and its people. However, the industry faces many challenges, such as the rise of digital platforms, the competition of foreign films, and the demand of the audience. To address these challenges, this project aims to conduct an in-depth analysis of the Egyptian box office over the past decade. By leveraging Python, SQL, and Tableau, the project seeks to uncover valuable patterns and trends, providing stakeholders with actionable insights for strategic planning, marketing, and investment within the Egyptian movie industry.
 
 ## About the Data:
-The data for this project was scraped from [elcinema.com](elcinema.com). The dataset includes information on various aspects of movies, such as year, week, rank, title, rating, country, runtime, release date, genre, MPAA rating, director, writers, stars, weekly revenue, and total revenue. The data was structured into six tables, ensuring data normalization, with the relationships between tables defined. <br>
+The data for this project was scraped from [elcinema.com](elcinema.com). The dataset includes information on various aspects of movies, such as year, week, rank, title, rating, country, runtime, release date, genre, MPAA rating, director, writers, stars, weekly revenue, and total revenue. The data was structured into six normalized tables, with the relationships between tables defined. <br>
 
 - Tables: 
 1. movies_table: Contains general information about movies.
@@ -17,7 +17,7 @@ The data for this project was scraped from [elcinema.com](elcinema.com). The dat
 6. box_office_table: Contains data on weekly box office performance. <br>
 
 - ERD:
-![ERD](https://github.com/assemmkhalil/AnalyzingEgyptianBoxOffice/assets/126206911/4384d667-27e6-4e54-abbd-2d5eb3a4d1d8)
+![ERD](https://github.com/assemmkhalil/AnalyzingEgyptianBoxOffice/assets/126206911/0831960f-657b-4a45-a5ef-6759ff6e7e64)
 
 
 ## Methodology:

@@ -29,4 +29,4 @@ The data for this project was scraped from [elcinema.com](elcinema.com). The dat
 6. Presentation: Created a comprehensive presentation to better communicate the analysis findings and insights to stakeholders.
 
 ## Findings:
-For the detailed findings and insights, please refer to the presentation file.
+For the detailed findings and insights, please refer to the [Presentation](https://github.com/assemmkhalil/AnalyzingEgyptianBoxOffice/blob/main/Presentation.pdf).
